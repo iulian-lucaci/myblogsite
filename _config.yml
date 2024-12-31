@@ -1,4 +1,4 @@
-title:              Old prints about Romania
+title:              Old Prints about Romania
 email:              iulianl2000@gmail.com
 description:        A Blog Theme by Start Bootstrap
 author:             Iulian Lucaci
@@ -23,3 +23,20 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+
+#Tags
+collections:
+  posts:
+    output: true
+    permalink: /:categories/:title
+    categories:
+    - danube
+    - transylvania
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+      author: Iulian Lucaci
