@@ -2,3 +2,18 @@
 layout: home
 background: '/img/bg-index.jpg'
 ---
+
+# Posts by Tag
+
+<ul>
+  {% for tag in site.tags %}
+    <li>
+      <h2>{{ tag[0] }}</h2>
+      <ul>
+        {% for post in tag[1] %}
+          <li><a href="{{ post.url | absolute_url }}">{{ post.title }}</a></li>
+        {% endfor %}
+      </ul>
+    </li>
+  {% endfor %}
+</ul>
