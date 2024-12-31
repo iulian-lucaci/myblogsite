@@ -1,5 +1,5 @@
 ---
-title: "La Hongrie avec les Provinces adjacentes - de la Tour - 1766"
+title: "La Hongrie avec les Provinces adjacentes - Louis Brion de la Tour - 1766"
 date: 2024-12-07
 categories: [transylvania]
 tags: [Transylvania]

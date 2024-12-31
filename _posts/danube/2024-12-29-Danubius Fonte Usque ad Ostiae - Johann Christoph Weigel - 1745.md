@@ -4,6 +4,7 @@ date: 2024-12-29
 categories: [danube]
 tags: [Banat, Bessarabia, Danube, Dobrogea, Moldova, Transylvania, Wallachia]
 layout: post
+background: '/img/posts/2024-04-07_023373.jpg'
 ---
 ![Map](/transylvania-digital-antiques/assets/2024-04-07_023373.jpg "Map")
 #### Title ####
