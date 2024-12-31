@@ -6,7 +6,7 @@ tags: [Banat, Bessarabia, Danube, Dobrogea, Moldova, Transylvania, Wallachia]
 layout: post
 background: '/img/posts/2024-04-07_023373.jpg'
 ---
-![Map](/img/posts/2024-04-07_023373.jpg "Map")
+![Map](/myblogsite/img/posts/2024-04-07_023373.jpg "Map")
 #### Title ####
 Danubius Fonte Usque ad Ostiae - Johann Christoph Weigel - 1745
 

@@ -6,9 +6,9 @@ tags: [Banat, Bessarabia, Bukovina, Dobrogea, Moldova, Transylvania, Wallachia]
 layout: post
 background: '/img/posts/2024-04-07_015555.jpg'
 ---
-![Map](/img/posts/2024-04-07_015555.jpg "Map")
+![Map](/myblogsite/img/posts/2024-04-07_015555.jpg "Map")
 #### Title ####
-Neue Kriegs Charte von Siebenburgen, Moldau, Walachey - Schreiber - 1749
+Neue Kriegs Charte von Siebenburgen, Moldau, Walachey - Johann Georg Schreiber - 1749
 
 #### Description ####
 Johann Georg Schreiber - Neue Kriegs Charte von Siebenburgen, Moldau, Walachey und dem Temeswarer Bannat verfetiget von J. G. Schreiber in Leipzig
