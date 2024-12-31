@@ -32,6 +32,7 @@ collections:
     categories:
     - danube
     - transylvania
+    - bukovina
 
 defaults:
   - scope:
