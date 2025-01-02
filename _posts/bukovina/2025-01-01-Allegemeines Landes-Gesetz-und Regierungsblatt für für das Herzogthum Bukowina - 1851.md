@@ -12,6 +12,7 @@ Allegemeines Landes-Gesetz-und Regierungsblatt für Herzogthum Bukowina  Jahrgan
 
 #### Description ####
 Official collection of the laws for Bucovina from year 1851 in German and Romanian languages. Bucovina was part of Moldavia till 1774, when was occupied by Habsburg Empire becoming ducat in 1849.In 1918 Bucovina decided to unify to Romania, but in 1940 the north part was occupied by URSS, part which is now in Ukraine.
+
 #### Date ####
 1851 ( dated )
 
