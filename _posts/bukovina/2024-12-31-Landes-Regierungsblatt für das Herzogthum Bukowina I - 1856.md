@@ -7,7 +7,6 @@ layout: post
 background: '/img/posts/2023-10-08_001080-4.jpg'
 ---
 ![Map](/myblogsite/img/posts/2023-10-08_001080-4.jpg "Map")
-
 #### Title ####
 Landes-Regierungsblatt für das Herzogthum Bukowina, Erste Abtheilung, 1856 / Foaia guvernului tarii pentru Ducatul Bucovina, Partea I
 
