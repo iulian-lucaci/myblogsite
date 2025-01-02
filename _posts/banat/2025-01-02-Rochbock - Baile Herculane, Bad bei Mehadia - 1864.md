@@ -1,5 +1,5 @@
 ---
-title: "Rochbock - Baile Herculane, Bad bei Mehadia, 1864"
+title: "Rochbock - Baile Herculane, Bad bei Mehadia - 1864"
 date: 2025-01-02
 categories: [banat]
 tags: [Banat]
