@@ -1,6 +1,6 @@
 ---
 title: "Das Fürstenthum Walachey, Nro. 13 - Franz Johann Joseph von Reilly - 1790"
-date: 2024-12-27
+date: 2024-12-26
 categories: [wallachia]
 tags: [Danube, Wallachia]
 layout: post
