@@ -8,7 +8,7 @@ background: '/img/posts/2023-10-08_001080-4.jpg'
 ---
 ![Map](/myblogsite/img/posts/2023-10-08_001080-4.jpg "Map")
 #### Title ####
-Landes-Regierungsblatt für das Herzogthum Bukowina, Erste Abtheilung, 1856 / Foaia guvernului tarii pentru Ducatul Bucovina, Partea I
+Landes-Regierungsblatt für das Herzogthum Bukowina, Erste Abtheilung - 1856 / Foaia guvernului tarii pentru Ducatul Bucovina, Partea I
 
 #### Description ####
 Official collection of the laws published in German and Romania languages. Includes Treaty of Paris, signed on 30.04.1856 at the Congress of Paris after the Crimean War, which have specific mentions about Wallachia and Moldavia and which will help to unify them in 1859 under Alexandru Ioan Cuza.
