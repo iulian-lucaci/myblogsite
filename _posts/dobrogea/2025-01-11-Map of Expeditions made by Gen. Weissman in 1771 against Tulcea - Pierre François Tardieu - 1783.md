@@ -1,6 +1,6 @@
 ---
 title: "Map of Expeditions made by Gen. Weissman in 1771 against Tulcea - Pierre François Tardieu - 1783"
-date: 2025-01-09
+date: 2025-01-11
 categories: [dobrogea]
 tags: [Dobrogea]
 layout: post
