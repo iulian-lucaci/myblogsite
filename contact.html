@@ -11,10 +11,13 @@ form: true
   action="https://formspree.io/f/mnnnlkkk"
   method="POST"
 >
-  <label>
-    Your email:
-    <input type="email" name="email">
-  </label>
+  <div class="control-group">
+    <div class="form-group floating-label-form-group controls">
+      <label>Email Address</label>
+      <input type="email" name="email" class="form-control" placeholder="Email Address" id="email" required data-validation-required-message="Please enter your email address.">
+      <p class="help-block text-danger"></p>
+    </div>
+  </div>
   <label>
     Your message:
     <textarea name="message"></textarea>
