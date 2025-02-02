@@ -40,8 +40,7 @@
               message: message
             },
             cache: false,
-            mode: 'cors',
-            credentials: 'include',
+            crossDomain: true,
             success: function () {
               // Success message
               $('#success').html("<div class='alert alert-success'>");
