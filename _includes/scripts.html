@@ -3,8 +3,6 @@
 <script src="{{"/assets/vendor/startbootstrap-clean-blog/js/scripts.js" | relative_url }}"></script>
 
 <script src="{{"/assets/scripts.js" | relative_url }}"></script>
-<!-- my google recaptcha -->
-<script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
 {% if page.url contains 'contact' %}
   <!-- Form Validation -->
@@ -25,7 +23,6 @@
           var email = $("input#email").val();
           var phone = $("input#phone").val();
           var message = $("textarea#message").val();
-          var data-sitekey = $("data-sitekey").val();
           var firstName = name; // For Success/Failure Message
           // Check for white space in name for Success/Fail message
           if (firstName.indexOf(' ') >= 0) {
@@ -40,8 +37,7 @@
               name: name,
               phone: phone,
               email: email,
-              message: message,
-              data-sitekey: data-sitekey
+              message: message
             },
             cache: false,
             crossDomain: true,
