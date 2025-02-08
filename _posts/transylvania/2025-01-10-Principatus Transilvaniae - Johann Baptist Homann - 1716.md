@@ -6,7 +6,7 @@ tags: [Transylvania]
 layout: post
 background: '/img/posts/Transylvania_Homann.jpg'
 ---
-![Map](/myblogsite/img/posts/Transylvania_Homann.jpg "Map")
+![Map](/img/posts/Transylvania_Homann.jpg "Map")
 #### Title ####
 Principatus Transilvaniae : In Suas Quasque Nationes earumque Sedes Et Regiones cum finitimis vicinorum Statuum Provinciis accurate divisus / opera Ioh. Baptistae Homanni, Sac. Caes Majest. Geographi, Reg Borus.e Societatis Scientiarum me, Norimbergae, Cum Privil. S.C.M.
 
