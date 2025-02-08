@@ -6,7 +6,7 @@ tags: [Banat, Bessarabia, Bukovina, Danube, Dobrogea, Moldova, Transylvania, Wal
 layout: post
 background: '/img/posts/Schagen_Danube.jpg'
 ---
-![Map](/myblogsite/img/posts/Schagen_Danube.jpg "Map")
+![Map](/img/posts/Schagen_Danube.jpg "Map")
 #### Title ####
 
 Nova totius Hungariæ, Transilvaniæ, Serviæ, Romaniæ, Bulgariæ, Walachiæ, Moldaviæ, Sclavoniæ, Croatiæ, Bosniæ, Dalmatiæ, Maximæq, partis Danubii Fluminis, descriptio emendata a G. a Schagen - 1685

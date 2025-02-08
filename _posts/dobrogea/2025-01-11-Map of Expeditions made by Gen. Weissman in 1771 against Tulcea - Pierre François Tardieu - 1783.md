@@ -6,7 +6,7 @@ tags: [Dobrogea]
 layout: post
 background: '/img/posts/Tardieu_Tulcea.jpg'
 ---
-![Map](/myblogsite/img/posts/Tardieu_Tulcea.jpg "Map")
+![Map](/img/posts/Tardieu_Tulcea.jpg "Map")
 #### Title ####
 Plan des Expéditions faites par le Gal. Weissman de l'autre côté du Danube contre Tultschi & Isaktschi. Attaque de Tultschi le 4 Avril 1771. Expédition sur Isaktschi le 27 Avril 1771
 

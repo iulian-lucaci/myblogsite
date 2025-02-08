@@ -6,7 +6,7 @@ tags: [Bukowina, Moldova, Wallachia]
 layout: post
 background: '/img/posts/Gussefeld_Moldova.jpg'
 ---
-![Map](/myblogsite/img/posts/Gussefeld_Moldova.jpg "Map")
+![Map](/img/posts/Gussefeld_Moldova.jpg "Map")
 #### Title ####
 Charte de la Moldavie et de la Valachie dressee d'apres de Memoires autentiques par F. L. Güssefeld, Nuremberg chez les Heritieres de Homann. Jl est marque entre auters dans cette Charte, la Boukovine, appartenante jadis a la Moldavie.
 

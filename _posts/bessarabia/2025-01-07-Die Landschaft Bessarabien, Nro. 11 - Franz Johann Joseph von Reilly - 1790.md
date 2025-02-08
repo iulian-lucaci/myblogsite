@@ -6,7 +6,7 @@ tags: [Bessarabia]
 layout: post
 background: '/img/posts/Reilly_Bessarabia.jpg'
 ---
-![Map](/myblogsite/img/posts/Reilly_Bessarabia.jpg "Map")
+![Map](/img/posts/Reilly_Bessarabia.jpg "Map")
 #### Title ####
 Die Landschaft Bessarabien, Nro. 11 - Franz Johann Joseph von Reilly - 1790
 

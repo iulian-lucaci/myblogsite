@@ -6,7 +6,7 @@ tags: [Banat]
 layout: post
 background: '/img/posts/Mehadia.jpg'
 ---
-![Map](/myblogsite/img/posts/Mehadia.jpg "Map")
+![Map](/img/posts/Mehadia.jpg "Map")
 #### Title ####
 Rochbock - Baile Herculane, Bad bei Mehadia, 1864
 

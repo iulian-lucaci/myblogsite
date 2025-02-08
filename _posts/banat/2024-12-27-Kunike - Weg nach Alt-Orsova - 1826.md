@@ -6,7 +6,7 @@ tags: [Banat]
 layout: post
 background: '/img/posts/Orsova.jpg'
 ---
-![Map](/myblogsite/img/posts/Orsova.jpg "Map")
+![Map](/img/posts/Orsova.jpg "Map")
 #### Title ####
 Kunike - Weg nach Alt-Orsova - 1826
 

@@ -6,7 +6,7 @@ tags: [Bukowina]
 layout: post
 background: '/img/posts/Reilly_Bukowina.jpg'
 ---
-![Map](/myblogsite/img/posts/Reilly_Bukowina.jpg "Map")
+![Map](/img/posts/Reilly_Bukowina.jpg "Map")
 #### Title ####
 Die Landschaft Bukowina, Nro. 8 - Franz Johann Joseph von Reilly - 1790
 
