@@ -6,7 +6,7 @@ tags: [Danube, Wallachia]
 layout: post
 background: '/img/posts/Reilly_Wallachia.jpg'
 ---
-![Map](/myblogsite/img/posts/Reilly_Wallachia.jpg "Map")
+![Map](/img/posts/Reilly_Wallachia.jpg "Map")
 #### Title ####
 Das Fürstenthum Walachey, Nro. 13 - Franz Johann Joseph von Reilly - 1790
 
