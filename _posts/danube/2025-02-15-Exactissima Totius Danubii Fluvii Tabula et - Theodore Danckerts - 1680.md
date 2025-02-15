@@ -23,4 +23,4 @@ Paper size approx.: cm 50.5 x 57
 **Theodore Danckerts** (1663-1727)
 
 #### Reference: ####
-<p><a href="https://www.e-rara.ch/bes_1/content/titleinfo/14486572/">e-rara.ch</a></p>
+<p><a href="https://doi.org/10.3931/e-rara-52762">e-rara.ch</a></p>
