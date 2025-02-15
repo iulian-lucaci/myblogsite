@@ -4,7 +4,7 @@ date: 2025-02-15
 categories: [danube]
 tags: [Banat, Bessarabia, Danube, Dobrogea, Moldova, Transylvania, Wallachia]
 layout: post
-background: '/img/posts/danube/2025-02-15-Exactissima Totius Danubii Fluvii Tabula et  - Theodore Danckerts - 1680.jpg'
+background: '/img/posts/danube/2025-02-15-Exactissima Totius Danubii Fluvii Tabula et - Theodore Danckerts - 1680.jpg'
 ---
 ![Map](/img/posts/danube/2025-02-15-Exactissima Totius Danubii Fluvii Tabula et - Theodore Danckerts - 1680.jpg "Map")
 #### Title ####
