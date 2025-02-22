@@ -25,4 +25,3 @@ Paper size approx.: cm 30,3 x 18,3
 His son, **Gabriel the Younger** (1705-1779), followed his father in his profession and was also a well-known engraver.
 
 #### Reference: ####
-<p><a href="https://doi.org/10.3931/e-rara-52762">e-rara.ch</a></p>
