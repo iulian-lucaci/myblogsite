@@ -23,4 +23,5 @@ Paper size approx.: cm 48.6 x 59
 **Nicolaus Visscher** (1649-1702)
 
 #### Reference: ####
-<p><a href="https://doi.org/10.3931/e-rara-128351">e-rara.ch</a></p>
+<p><a href="https://doi.org/10.3931/e-rara-128351">1.e-rara.ch</a></p>
+<p><a href="https://doi.org/10.3931/e-rara-131679">2.e-rara.ch</a></p>
