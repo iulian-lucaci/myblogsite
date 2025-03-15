@@ -1,12 +1,12 @@
 ---
-title: "Nova totius Hungariæ, Transilvaniæ... - Gerard van Schagen - 1685"
+title: "Nova totius Hungariæ, Transilvaniæ - Gerard van Schagen - 1685"
 date: 2024-12-25
 categories: [danube]
 tags: [Banat, Bessarabia, Bukovina, Danube, Dobrogea, Moldova, Transylvania, Wallachia]
 layout: post
-background: '/img/posts/Schagen_Danube.jpg'
+background: '/img/posts/danube/2024-12-25-Nova totius Hungariæ, Transilvaniæ - Gerard van Schagen - 1685.jpg'
 ---
-![Map](/img/posts/Schagen_Danube.jpg "Map")
+![Map](/img/posts/danube/2024-12-25-Nova totius Hungariæ, Transilvaniæ - Gerard van Schagen - 1685.jpg "Map")
 #### Title ####
 
 Nova totius Hungariæ, Transilvaniæ, Serviæ, Romaniæ, Bulgariæ, Walachiæ, Moldaviæ, Sclavoniæ, Croatiæ, Bosniæ, Dalmatiæ, Maximæq, partis Danubii Fluminis, descriptio emendata a G. a Schagen - 1685
@@ -21,7 +21,10 @@ Main cities:
 1685 ( undated )
 
 #### Dimension ####
-Paper size approx.: cm
+Paper size approx.: 44 x 57 cm
 
 #### Mapmaker: ####
 **Gerard van Schagen** (1642-1724)
+
+#### Reference: ####
+<p><a href="https://doi.org/10.3931/e-rara-128383">1.e-rara.ch</a></p>
