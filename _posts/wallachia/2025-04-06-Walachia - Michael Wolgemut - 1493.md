@@ -28,3 +28,4 @@ Very good
 
 #### Reference: ####
 <p><a href="https://archive.org/details/9414971.nlm.nih.gov/page/n583/mode/2up">1.archive.org</a></p>
+<p><a href="https://archive.org/details/McGillLibrary-osl_registrum-nurembergensi_elfWZ230S315r1493_f169v-21086/page/n585/mode/2up">2.archive.org</a></p>
