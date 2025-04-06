@@ -21,6 +21,10 @@ The imgage of an city from Wallachia created by Michael Wolgemut in  Hartmann Sc
 Size approx.: 39 x 28 cm
 
 #### Condition ####
+Very good
 
 #### Author: ####
 **Michael Wolgemut** (1434–1519)
+
+#### Reference: ####
+<p><a href="https://archive.org/details/9414971.nlm.nih.gov/page/n583/mode/2up">1.archive.org</a></p>
