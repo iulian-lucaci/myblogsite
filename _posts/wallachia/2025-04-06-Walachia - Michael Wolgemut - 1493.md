@@ -12,7 +12,7 @@ background: '/img/posts/wallachia/2025-04-06-Walachia - Michael Wolgemut - 1493 
 Walachia - Michael Wolgemut - 1493
 
 #### Description ####
-The imgage of an city from Wallachia created by Michael Wolgemut in  Hartmann Schedel’s (1440-1514) "Liber Cronicarum" or “Nuremberg Chronicle”
+The imgage of an city from Wallachia created by Michael Wolgemut in  Hartmann Schedel’s (1440-1514) “Nuremberg Chronicle”
 
 #### Date ####
 1493 ( undated )
