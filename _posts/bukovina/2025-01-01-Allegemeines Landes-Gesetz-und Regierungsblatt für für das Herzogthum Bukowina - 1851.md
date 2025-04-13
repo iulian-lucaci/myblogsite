@@ -19,10 +19,10 @@ Official collection of the laws for Bucovina from year 1851 in German and Romani
 #### Dimension ####
 Paper size approx.: cm 
 
-![Map](/myblogsite/img/posts/Bukowina1851 (8).jpg "Map")
-![Map](/myblogsite/img/posts/Bukowina1851 (5).jpg "Map")
-![Map](/myblogsite/img/posts/Bukowina1851 (4).jpg "Map")
-![Map](/myblogsite/img/posts/Bukowina1851 (6).jpg "Map")
-![Map](/myblogsite/img/posts/Bukowina1851 (2).jpg "Map")
-![Map](/myblogsite/img/posts/Bukowina1851 (1).jpg "Map")
-![Map](/myblogsite/img/posts/Bukowina1851 (7).jpg "Map")
+![Map](/img/posts/Bukowina1851 (8).jpg "Map")
+![Map](/img/posts/Bukowina1851 (5).jpg "Map")
+![Map](/img/posts/Bukowina1851 (4).jpg "Map")
+![Map](/img/posts/Bukowina1851 (6).jpg "Map")
+![Map](/img/posts/Bukowina1851 (2).jpg "Map")
+![Map](/img/posts/Bukowina1851 (1).jpg "Map")
+![Map](/img/posts/Bukowina1851 (7).jpg "Map")

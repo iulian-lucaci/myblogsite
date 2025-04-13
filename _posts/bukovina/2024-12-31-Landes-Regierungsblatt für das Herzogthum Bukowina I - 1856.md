@@ -19,10 +19,10 @@ Official collection of the laws published in German and Romania languages. Inclu
 #### Dimension ####
 Paper size approx.: cm 
 
-![Map](/myblogsite/img/posts/2023-10-08_001080-2.jpg "Map")
-![Map](/myblogsite/img/posts/2023-10-08_001080-3.jpg "Map")
-![Map](/myblogsite/img/posts/2023-10-08_001080-7.jpg "Map")
-![Map](/myblogsite/img/posts/2023-10-08_001080-6.jpg "Map")
-![Map](/myblogsite/img/posts/2023-10-08_001080-8.jpg "Map")
-![Map](/myblogsite/img/posts/2023-10-08_001080-5.jpg "Map")
-![Map](/myblogsite/img/posts/2023-10-08_001080-1.jpg "Map")
+![Map](/img/posts/2023-10-08_001080-2.jpg "Map")
+![Map](/img/posts/2023-10-08_001080-3.jpg "Map")
+![Map](/img/posts/2023-10-08_001080-7.jpg "Map")
+![Map](/img/posts/2023-10-08_001080-6.jpg "Map")
+![Map](/img/posts/2023-10-08_001080-8.jpg "Map")
+![Map](/img/posts/2023-10-08_001080-5.jpg "Map")
+![Map](/img/posts/2023-10-08_001080-1.jpg "Map")

@@ -6,7 +6,7 @@ tags: [Transylvania]
 layout: post
 background: '/img/posts/transylvania/Cisnadioara.jpg'
 ---
-![Map](/myblogsite/img/posts/transylvania/Cisnadioara.jpg "Map")
+![Map](/img/posts/transylvania/Cisnadioara.jpg "Map")
 #### Title ####
 Rohbock - Cisnadioara, Michelsberg - 1864
 

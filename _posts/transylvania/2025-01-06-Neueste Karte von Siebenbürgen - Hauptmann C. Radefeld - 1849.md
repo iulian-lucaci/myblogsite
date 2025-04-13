@@ -6,7 +6,7 @@ tags: [Transylvania]
 layout: post
 background: '/img/posts/transylvania/Transylvania_Radefeld.jpg'
 ---
-![Map](/myblogsite/img/posts/transylvania/Transylvania_Radefeld.jpg "Map")
+![Map](/img/posts/transylvania/Transylvania_Radefeld.jpg "Map")
 #### Title ####
 Neueste Karte von Siebenbürgen. Nach den besten Quellen entworf. u. gezeichn. von Hauptm. Radefeld. 1849, Meyer's Grosser Zeitungs-Atlas, Verlag des Bibliographischen Instituts zu Hildburghausen. Amsterdam, Paris u. Philadelphia.
 
