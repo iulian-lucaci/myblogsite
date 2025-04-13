@@ -40,3 +40,6 @@ Joan Blaeu, born in Amsterdam, 1596, became partner in his father’s book trade
 On February 23, 1672, a fire ruined the business. One year later, Dr Joan Blaeu died. The fire of 1672 and the passing away of the director gave rise to a complete sale of the stock of the Blaeu House. Five public auctions dispersed the remaining books, atlases, copperplates, globes, etc., among many other map dealers and publishers in Amsterdam. The majority was acquired by a number of booksellers acting in partnership.
  
 In the succeeding years, the remaining printing department was left in the hands of the Blaeu family until 1695 when also the inventory of the printing house was sold at a public auction. That meant the end of the Blaeu's as a printing house of world renown.
+
+#### Refeference: ####
+<p><a href="https://doi.org/10.3931/e-rara-128568">1.e-rara.ch</a></p>

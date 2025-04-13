@@ -4,9 +4,9 @@ date: 2025-01-04
 categories: [trasylvania]
 tags: [Transylvania]
 layout: post
-background: '/img/posts/Rakoczi_Pufendorf.jpg'
+background: '/img/posts/transylvania/Rakoczi_Pufendorf.jpg'
 ---
-![Map](/myblogsite/img/posts/Rakoczi_Pufendorf.jpg "Map")
+![Map](/myblogsite/img/posts/transylvania/Rakoczi_Pufendorf.jpg "Map")
 #### Title ####
 George II Rákóczi 1657, Dahlberg, Pufendorf - 1697
 

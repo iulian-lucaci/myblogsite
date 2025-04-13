@@ -4,9 +4,9 @@ date: 2024-12-30
 categories: [trasylvania]
 tags: [Transylvania]
 layout: post
-background: '/img/posts/AlbaIulia.jpg'
+background: '/img/posts/transylvania/AlbaIulia.jpg'
 ---
-![Map](/img/posts/AlbaIulia.jpg "Map")
+![Map](/img/posts/transylvania/AlbaIulia.jpg "Map")
 #### Title ####
 Rohbock - Alba Iulia, Karlsburg - 1864
 
