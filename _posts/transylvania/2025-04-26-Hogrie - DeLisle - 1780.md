@@ -28,4 +28,3 @@ The conditions are very, very good as shown in the photo, with a minimum presenc
 Guillaume Delisle (1675 - 1726)
 
 #### Refeference: ####
-<p><a href="https://doi.org/10.3931/e-rara-128568">1.e-rara.ch</a></p>
