@@ -8,7 +8,7 @@ background: '/img/posts/transylvania/Hongrie_DeLisle.jpg'
 ---
 ![Map](/img/posts/transylvania/Hongrie_DeLisle.jpg "Map")
 #### Title ####
-Hongrie - De Lisle
+Carte de la Hongrie et des Pays qui en dependoient Autresois - Guillaume Delisle
 
 #### Description ####
 Beautiful map published in France, with wide margins, and geographically well detailed in every point including: Transylvania, Wallachia, Moldavia, Bukovina, Bessarabia, Banat, Hungary, Bulgaria, Serbia, Bosnia, Dalmatia, Sclavonia, Galitia. 
