@@ -30,4 +30,4 @@ Harmanus van Loon (1690 - 1725)
 
 #### Refeference: ####
 <p><a href="https://doi.org/10.3931/e-rara-128390">1.e-rara.ch</a></p>
-<p><a href="https://doi.org/10.3931/e-rara-128381">1.e-rara.ch</a></p>
+<p><a href="https://doi.org/10.3931/e-rara-128381">2.e-rara.ch</a></p>
