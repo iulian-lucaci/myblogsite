@@ -16,7 +16,7 @@ With figurative cartouche (small view, inscription) and text box.
 With the course of the Danube from Vienna to its mouth.
 
 #### Date ####
-1780
+1717
 
 #### Dimension ####
 Paper size: cm 48 x 63
