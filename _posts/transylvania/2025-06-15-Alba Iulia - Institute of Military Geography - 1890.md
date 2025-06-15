@@ -1,5 +1,5 @@
 ---
-title: "2025-06-15-Alba Iulia - Militärgeographisches Institut - 1890
+title: "2025-06-15-Alba Iulia - Institute of Military Geography - 1890
 date: 2025-06-15
 categories: [transylvania]
 tags: [Transylvania]
