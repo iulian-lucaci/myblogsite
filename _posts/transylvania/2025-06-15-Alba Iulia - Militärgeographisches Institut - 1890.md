@@ -1,5 +1,5 @@
 ---
-title: "2025-06-15-Alba Iulia - Militärgeographisches Institut - 1890
+title: "Alba Iulia - Militärgeographisches Institut - 1890
 date: 2025-06-15
 categories: [transylvania]
 tags: [Transylvania]
@@ -8,7 +8,7 @@ background: '/img/posts/transylvania/2025-06-15-Alba Iulia - Militärgeographisc
 ---
 ![Map](/img/posts/transylvania/2025-06-15-Alba Iulia - Militärgeographisches Institut - 1890.jpg "Map")
 #### Title ####
-Karlsburg
+Karlsburg ZONE 21 COL. XXIX
 
 #### Description ####
 Map of Alba Iulia (Karlsburg, Gyulafehérvár) and its surroundings, part of "Specialkarte der K. u. K. Österreichisch-Ungarischen Monarchie" printed by Militärgeographisches Institut in Vienna between 1873 and 1938
