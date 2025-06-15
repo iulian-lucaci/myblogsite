@@ -23,4 +23,3 @@ Paper size approx.: cm 60 x 48
 Militärgeographisches Institut Vienna
 
 #### References: ####
-<p><a href="https://digitalcollections.nypl.org/items/d789f4b0-c5ef-012f-10eb-58d385a7bc34#/?uuid=510d47df-8be3-a3d9-e040-e00a18064a99">1.digitalcollections.nypl.org</a></p>
