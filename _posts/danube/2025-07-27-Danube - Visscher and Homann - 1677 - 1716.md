@@ -60,12 +60,12 @@ One main difference is about the meridians and parallels lines which are part of
 The translation of Visscher’s map is “A very accurate map, showing both the lower part of the Danube River, from the city of Belgrade to its mouths, and the smaller rivers flowing into it – as well as adjacent regions, such as Transylvania, Wallachia, Moldavia, Bulgaria, Bessarabia and Rumelia, and other neighboring tracts of Ukraine and Podolia”. <sup>[\[1\]](#footnote-1)</sup>
 
 Fig. 2 Nicolaes Visscher, Map of Lower Part of Danube, 1677, 46 _x 58 cm._ ©Universitätsbibliothek Bern, <https://doi.org/10.3931/e-rara-128351>
-![Map](/img/posts/danube/2025-07-27-Fig2_Visscher_23_Map_of_Lower_Part_of_Danube.jpg "Map")
+<img src="/img/posts/danube/2025-07-27-Fig2_Visscher_23_Map_of_Lower_Part_of_Danube.jpg" alt="Nicolaes Visscher, Map of Lower Part of Danube" width="1280" height="1024">
 
 The Homann’s title translates as “The lowest part of the Danube River (here shown from the city of Belgrade, flowing through the Black Sea to Constantinople) – in which Transylvania, Wallachia, Moldavia, Bulgaria, Serbia, Rumelia and Bessarabia, with neighboring regions, are shown”. <sup>[\[2\]](#footnote-2)</sup>
 
 Fig. 3 Johann Baptist Homann, Map of Lower Part of Danube, 1716, 46 x 57 cm ©Universitätsbibliothek Bern, <https://doi.org/10.3931/e-rara-128379>
-![Map](/img/posts/danube/2025-07-27-Fig3_Homann_27_Map_of_Lower_Part_of_Danube.jpg "Map")
+<img src="/img/posts/danube/2025-07-27-Fig3_Homann_27_Map_of_Lower_Part_of_Danube.jpg" alt="Johann Baptist Homann, Map of Lower Part of Danube" width="1280" height="1024">
 
 From the titles of the two maps above it is worth mentioning a difference – the introduction of Serbia (‘Servia’) in the title of Homann’s map, which was included in the Habsburg monarchy after the Treaty of Passarowitz in 1718 as crownland but only till 1739 when was reconquered by Ottoman Empire.
 
@@ -88,15 +88,15 @@ What is missing on the Homann’s map of lower Danube is the town of Passarowitz
 The Danube in this region creates the impressive Iron Gates gorge thru the mountains. In 1972 and 1984 were 2 hydroelectric dams built on Danube and the resulted lakes changed the landscape and the position of the villages around Danube.
 
 Fig 4 Nicolaes Visscher, Details about Banat and Oltenia.
-![Map](/img/posts/danube/2025-07-27-Fig4_LowerDanubeDetailes_Visscher.jpg "Map")
+<img src="/img/posts/danube/2025-07-27-Fig4_LowerDanubeDetailes_Visscher.jpg" alt="Nicolaes Visscher, Details about Banat and Oltenia" width="1280" height="1024">
 
 Fig 5 Johann Baptist Homann, Details about Banat and Oltenia.
-![Map](/img/posts/danube/2025-07-27-Fig5_LowerDanubeDetailes_Homann.jpg "Map")
+<img src="/img/posts/danube/2025-07-27-Fig5_LowerDanubeDetailes_Homann.jpg" alt="Nicolaes Visscher, Details about Banat and Oltenia" width="1280" height="1024">
 
 Homann’s map marks the Danube River crossing the Black Sea to Constantinople and then the Marmara Sea. It is highlighted in the title of the map. It is a symbolical representation of an existing trade route which at the time when the map was created, around 1720, was still controlled by the Ottoman Empire, nevertheless Austria was allowed free trade all over the Ottoman Empire and to use their own ships on the Danube only. The route has this comment on the map: “Fluviales aqua Danubi a fragnante Pontica colore et mosu notabiliter distonete”, “The river water of the Danube is noticeably different from the breaking color and movement of the Black Sea”.
 
 Fig 6 Johann Baptist Homann, Details Danube – Constantinople Route
-![Map](/img/posts/danube/2025-07-27-Fig6_LowerDanube_Constatinople.jpg "Map")
+<img src="/img/posts/danube/2025-07-27-Fig6_LowerDanube_Constatinople.jpg" alt="Johann Baptist Homann, Details Danube Constantinople Route" width="1280" height="1024">
 
 Another small difference I noticed is the name Kersoua, a new fortress visible on the Homann’s map near the starting point of the Danube Delta, possible location of the antique town of Noviodunum, now Isaccea, Romania.
 
@@ -107,30 +107,30 @@ As for the maps legends both have similar content, although looking more stylish
 The full name of the Visscher’s map translates into “A very accurate map, showing both the middle part of the Danube River, from the city of Lintz to the city of Vienna and the smaller rivers flowing into it - as well as adjacent regions such as Hungary, Slavonia, Croatia, Bosnia, Dalmatia, Serbia, as well as the borders of Germany, Poland, and Greece”.<sup>[\[3\]](#footnote-3)</sup>
 
 Fig 7 Nicolaes Visscher, Map of Middle Part of Danube, 1677, 46 x 55 cm. ©Universitätsbibliothek Bern, [https://doi.org/10.3931/e-rara-128338](https://doi.org/10.3931/e-rara-128338).
-![Map](/img/posts/danube/2025-07-27-Fig7_Visscher_22_Map_of_Middle_Part_Of_Danube.jpg "Map")
+<img src="/img/posts/danube/2025-07-27-Fig7_Visscher_22_Map_of_Middle_Part_Of_Danube.jpg" alt="Nicolaes Visscher, Map of Middle Part of Danube" width="1280" height="1024">
 
 Moving to the Homann’s map the its full name is : “The middle part of the river Danube (delineated from the city of Lintz to and beyond the city of Vienna with the tributaries) - in which Hungary, Sclavonia, Bosnia, Dalmatia and Serbia with other neighboring regions are accurately described”.<sup>[\[4\]](#footnote-4)</sup> Fig 8 Johann Baptist Homann, Map of Middle Part of Danube, 1716, 46 x 57 cm ©Universitätsbibliothek Bern, [https://doi.org/10.3931/e-rara-128372](https://doi.org/10.3931/e-rara-128372).
-![Map](/img/posts/danube/2025-07-27-Fig8_Homann_26_Map_of_Middle_Part_Of_Danube.jpg "Map")
+<img src="/img/posts/danube/2025-07-27-Fig8_Homann_26_Map_of_Middle_Part_Of_Danube.jpg" alt="Johann Baptist Homann, Map of Middle Part of Danube" width="1280" height="1024">
 
 Comparing the maps, the differences are insignificant. I can highlight the presence on the Homann’s map of the city of Passarowitz, now Požarevac in Serbia, where the **Treaty of Passarowitz** was signed in 1718. The city is nevertheless missing from the common region in Homann’s map on the lower Danube, although represented on his middle map of the Danube. It seems that political updates were not propagated in all the maps. Fig 9 Johann Baptist Homann, Details about Passsarowitz.
-![Map](/img/posts/danube/2025-07-27-Fig9_MiddleDanube_Passarowitz.jpg "Map")
+<img src="/img/posts/danube/2025-07-27-Fig9_MiddleDanube_Passarowitz.jpg" alt="Johann Baptist Homann, Details about Passsarowitz" width="1280" height="1024">
 
 The map legends are similar in content, while on the Visscher’s map we can notice a drawing of 2 angels. Fig 10: Nicolaes Visscher, Details about legend.
-![Map](/img/posts/danube/2025-07-27-Fig10_MiddleDanube_Angels_Visscher.jpg "Map")
+<img src="/img/posts/danube/2025-07-27-Fig10_MiddleDanube_Angels_Visscher.jpg" alt="Nicolaes Visscher, Details about legend" width="1280" height="1024">
 
 
 ### **The Maps of Upper Part of the Danube**
 
 The full name of the Visscher’s map translated is “A very accurate map, showing both the upper part of the Danube River, from its sources to the city of Bratislava, and the smaller rivers flowing into it - as well as adjacent regions, such as Austria, Styria, Carinthia, Carniola, Bavaria, Suebia, Switzerland, Tyrol, the greater part of Italy, as well as the borders of France and Hungary”.<sup>[\[5\]](#footnote-5)</sup> Fig 11 Nicolaes Visscher, Map of Upper Part of Danube, 1677, 46 x 55 cm. ©Universitätsbibliothek Bern, [https://doi.org/10.3931/e-rara-128390](https://doi.org/10.3931/e-rara-128390).
-![Map](/img/posts/danube/2025-07-27-Fig11_Visscher_21_Map_of_Upper_Part_of_Danube.jpg "Map")
+<img src="/img/posts/danube/2025-07-27-Fig11_Visscher_21_Map_of_Upper_Part_of_Danube.jpg" alt="Nicolaes Visscher, Map of Upper Part of Danube" width="1280" height="1024">
 
 
 The full translated name of the Homann’ map is: translating into: “The upper part of the Danube River (designated from its sources near Donesching to the city of Bratislava) - in which Suebia, Bavaria, Austria, Styria, Carinthia, Carniola, Tyrol, Switzerland and a large part of Italy are shown”.<sup>[\[6\]](#footnote-6)</sup> Fig 12 Johann Baptist Homann, Map of Lower Part of Danube, 1716, 46 x 54 cm ©Universitätsbibliothek Bern, [https://doi.org/10.3931/e-rara-128325](https://doi.org/10.3931/e-rara-128325).
-![Map](/img/posts/danube/2025-07-27-Fig12_Homann_24_Map_of_Upper_Part_of_Danube.jpg "Map")
+<img src="/img/posts/danube/2025-07-27-Fig12_Homann_24_Map_of_Upper_Part_of_Danube.jpg" alt="Johann Baptist Homann, Map of Lower Part of Danube" width="1280" height="1024">
 
 Except the style of Visscher, who shows again two angels around the map legend these 2 maps are identical.
 Fig 13 Nicoles Visscher, Angels from legend
-![Map](/img/posts/danube/2025-07-27-Fig13_UpperDanube_Angels_Visscher.jpg "Map")
+<img src="/img/posts/danube/2025-07-27-Fig13_UpperDanube_Angels_Visscher.jpg" alt="Nicoles Visscher, Angels from legend" width="1280" height="1024">
 
 ### **Conclusions**
 
