@@ -17,6 +17,7 @@ Both mapmakers created a set of maps that covered the entire course of the river
 The striking similarities between these maps suggest a direct influence of Visscher’s work on Homann’s. It’s considered that Homann mastered engraving in Amsterdam when he might be the Visscher’ pupil. The first 2 maps from the sets are almost identical showing that Homann used the Visscher’s maps, but on the Danube lower part map he updated the content in the light of the latest Austria-Turkish War (1716-18) when he was the official cartographer of Habsburg emperor Carol VI. This pattern of Visscher’s influence is evident in Homann’s other work as well. For instance, his 1716 map of Ireland closely mirrors a 1689 map of Nicolaes Visscher II, with Homann explicitly crediting Visscher in the title cartouche.
 
 Fig. 1 Johann Baptist Homann, Map of Ireland,1716, 22 x 18.5 in, © Geographicus Rare Antique Map.
+![Map](/img/posts/danube/2025-07-27-Fig1_1716_Homann_Map_of_Ireland_-_Geographicus_-_Ireland-homann-1716.jpg "Map")
 
 This practice of building upon previous cartographic works was common among the mapmakers, allowing for the preservation of valuable geographical knowledge while integrating the latest updates and style preferences.
 
