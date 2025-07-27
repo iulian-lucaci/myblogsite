@@ -2,7 +2,7 @@
 title: "Danube - Visscher and Homann - 1677 - 1716"
 date: 2025-07-27
 categories: [danube]
-tags: [danube, banat, wallachia]
+tags: [Danube, Banat, Wallachia]
 layout: post
 background: '/img/posts/danube/2025-03-02-Exactissima Tabula qua tam Danubii Fluvii Pars Inferior - Nicolaus Visscher - 1680.jpg'
 ---
@@ -60,10 +60,12 @@ One main difference is about the meridians and parallels lines which are part of
 The translation of Visscher’s map is “A very accurate map, showing both the lower part of the Danube River, from the city of Belgrade to its mouths, and the smaller rivers flowing into it – as well as adjacent regions, such as Transylvania, Wallachia, Moldavia, Bulgaria, Bessarabia and Rumelia, and other neighboring tracts of Ukraine and Podolia”. <sup>[\[1\]](#footnote-1)</sup>
 
 Fig. 2 Nicolaes Visscher, Map of Lower Part of Danube, 1677, 46 _x 58 cm._ ©Universitätsbibliothek Bern, <https://doi.org/10.3931/e-rara-128351>
+![Map](/img/posts/danube/2025-07-27-Fig2_Visscher_23_Map_of_Lower_Part_of_Danube.jpg "Map")
 
 The Homann’s title translates as “The lowest part of the Danube River (here shown from the city of Belgrade, flowing through the Black Sea to Constantinople) – in which Transylvania, Wallachia, Moldavia, Bulgaria, Serbia, Rumelia and Bessarabia, with neighboring regions, are shown”. <sup>[\[2\]](#footnote-2)</sup>
 
 Fig. 3 Johann Baptist Homann, Map of Lower Part of Danube, 1716, 46 x 57 cm ©Universitätsbibliothek Bern, <https://doi.org/10.3931/e-rara-128379>
+![Map](/img/posts/danube/2025-07-27-Fig3_Homann_27_Map_of_Lower_Part_of_Danube.jpg "Map")
 
 From the titles of the two maps above it is worth mentioning a difference – the introduction of Serbia (‘Servia’) in the title of Homann’s map, which was included in the Habsburg monarchy after the Treaty of Passarowitz in 1718 as crownland but only till 1739 when was reconquered by Ottoman Empire.
 
