@@ -4,7 +4,7 @@ date: 2025-07-27
 categories: [danube]
 tags: [danube, banat, wallachia]
 layout: post
-background: '/img/posts/transylvania/2025-06-15-Alba Iulia - Militärgeographisches Institut - 1890.jpg'
+background: '/img/posts/danube/2025-03-02-Exactissima Tabula qua tam Danubii Fluvii Pars Inferior - Nicolaus Visscher - 1680.jpg'
 ---
 **The Cartography of the Danube River in two sets of maps by Nicolaes Visscher and Johann Baptist Homann**
 
