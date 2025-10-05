@@ -12,7 +12,8 @@ Das Temeschvarer Bannat, Nro. 6 - Franz Johann Joseph von Reilly - 1791
 
 #### Description ####
 The Temeschvar Bannat. No. 6. Colored copperplate map from Reilly's "Schauplatz der fünf Teile der Welt" (Scene of the Five Parts of the World). Vienna 1791
-Atlantes Austriaci Rei A/42.- Center: Temesvar.- 
+Atlantes Austriaci Rei A/42.- Center: Timisoara.- With place underlining and 3 manuscript additions to the map image, a small collection stamp on the right below the map, wide-margined copy.
+# Engraved map with contemporary coloring.
 
 #### Date ####
 1791 ( undated )
@@ -22,7 +23,8 @@ Paper size approx.: cm 21 x 29 cm
 
 #### Mapmaker: ####
 Franz Johann Joseph von Reilly (* August 18, 1766 in Vienna; ? July 6, 1820 in Vienna) was a successful cartographer and publisher, particularly in the field of atlas cartography. 
-His cartographic works includes a total of approximately 1,000 different map sheets. He played a significant role in Vienna becoming a center of commercial cartographic production in the German-speaking world in the late 18th and early 19th centuries.- With place underlining and 3 manuscript additions to the map image, a small collection stamp on the right below the map, wide-margined copy.# Engraved map with contemporary coloring.
+His cartographic works includes a total of approximately 1,000 different map sheets. He played a significant role in Vienna becoming a center of commercial cartographic production 
+in the German-speaking world in the late 18th and early 19th centuries.
 
 #### Reference: ####
 <p><a href="https://doi.org/10.3931/e-rara-128558">e-rara.ch</a></p>
