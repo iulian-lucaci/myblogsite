@@ -13,7 +13,7 @@ Das Temeschvarer Bannat, Nro. 6 - Franz Johann Joseph von Reilly - 1791
 #### Description ####
 The Temeschvar Bannat. No. 6. Colored copperplate map from Reilly's "Schauplatz der fünf Teile der Welt" (Scene of the Five Parts of the World). Vienna 1791
 Atlantes Austriaci Rei A/42.- Center: Timisoara.- With place underlining and 3 manuscript additions to the map image, a small collection stamp on the right below the map, wide-margined copy.
-# Engraved map with contemporary coloring.
+Engraved map with contemporary coloring.
 
 #### Date ####
 1791 ( undated )
