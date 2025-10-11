@@ -8,7 +8,7 @@ background: '/img/posts/transylvania/2025-10-11-Das Grossfürstenthum Siebenbür
 ---
 <img src="/img/posts/transylvania/2025-10-11-Das Grossfürstenthum Siebenbürgen. Nro. 7 - Franz Johann Joseph von Reilly - 1791.jpg" alt="Das Grossfürstenthum Siebenbürgen. Nro. 7, Franz Johann Joseph von Reilly" width="1280" height="1024">
 #### Title ####
-DDas Grossfürstenthum Siebenbürgen. Nro. 7 - Franz Johann Joseph von Reilly - 1791
+Das Grossfürstenthum Siebenbürgen. Nro. 7 - Franz Johann Joseph von Reilly - 1791
 
 #### Description ####
 Das Grossfürstenthum Siebenbürgen. Nro. 7. Colored copperplate map from Reilly's "Schauplatz der fünf Teile der Welt" (Scene of the Five Parts of the World). Vienna 1791
