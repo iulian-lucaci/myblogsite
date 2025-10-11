@@ -6,7 +6,7 @@ tags: [Transylvania]
 layout: post
 background: '/img/posts/transylvania/2025-10-11-Das Grossfürstenthum Siebenbürgen. Nro. 7 - Franz Johann Joseph von Reilly - 1791.jpg'
 ---
-<img src="/img/posts/transylvania/2025-10-11-Das Temeschvarer Bannat, Nro. 6 - Franz Johann Joseph von Reilly - 1791.jpg" alt="Das Grossfürstenthum Siebenbürgen. Nro. 7, Franz Johann Joseph von Reilly" width="1280" height="1024">
+<img src="/img/posts/transylvania/2025-10-11-Das Grossfürstenthum Siebenbürgen. Nro. 7 - Franz Johann Joseph von Reilly - 1791.jpg" alt="Das Grossfürstenthum Siebenbürgen. Nro. 7, Franz Johann Joseph von Reilly" width="1280" height="1024">
 #### Title ####
 DDas Grossfürstenthum Siebenbürgen. Nro. 7 - Franz Johann Joseph von Reilly - 1791
 
