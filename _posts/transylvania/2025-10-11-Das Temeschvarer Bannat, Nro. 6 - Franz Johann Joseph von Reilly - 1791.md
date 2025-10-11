@@ -12,7 +12,7 @@ Das Grossfürstenthum Siebenbürgen. Nro. 7 - Franz Johann Joseph von Reilly - 1
 
 #### Description ####
 Das Grossfürstenthum Siebenbürgen. Nro. 7. Colored copperplate map from Reilly's "Schauplatz der fünf Teile der Welt" (Scene of the Five Parts of the World). Vienna 1791
-Atlantes Austriaci Rei A/42. - Shows the area north of the Danube from Orsova to Braila. - Good, wide-margined copy. Engraved map with contemporary coloring.
+Atlantes Austriaci Rei A/42. - Shows Transylvania. - Good, wide-margined copy. Engraved map with contemporary coloring.
 
 #### Date ####
 1791 ( undated )
