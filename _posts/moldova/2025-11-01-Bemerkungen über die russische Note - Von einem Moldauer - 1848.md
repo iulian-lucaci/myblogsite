@@ -6,7 +6,7 @@ tags: [Moldova, Wallachia]
 layout: post
 background: '/img/posts/moldova/2025-11-01-Bemerkungen über die russische Note - Von einem Moldauer - 1848.jpg'
 ---
-![Map](/img/posts/moldova/2025-11-01-Bemerkungen über die russische Note - Von einem Moldauer - 1848.jpg "Map")
+<img src="/img/posts/moldova/2025-11-01-Bemerkungen über die russische Note - Von einem Moldauer - 1848.jpg" alt="Bemerkungen über die russische Note - Von einem Moldauer" width="1280" height="1024">
 #### Title ####
 Bemerkungen über die russische Note vom 19/31. Juli d. J. in Betreff der Intervention in den romanischen Donaufürstenthümern. Von einem Moldauer.
 
