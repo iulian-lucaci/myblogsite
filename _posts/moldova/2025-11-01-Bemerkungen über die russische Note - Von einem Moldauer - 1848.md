@@ -18,31 +18,31 @@ Vienna, Gerold, August 1848
 #### Description ####
 This document is a detailed political and legal critique of the Russian note dated 19/31 July 1848 concerning the intervention in the Romanian Danubian Principalities, specifically Moldavia and Wallachia. Written by a Moldavian author in August 1848, it addresses the legitimacy, motivations, and consequences of Russian actions in the region, while also discussing the historical sovereignty and rights of the principalities under Ottoman suzerainty and Russian protection.
 
-Overview of the Russian Note on Intervention
+**Overview of the Russian Note on Intervention**
 
 The Russian circular note outlines the justification for military intervention in the Danubian Principalities due to revolutionary upheaval threatening the established order. It claims that the principalities are not sovereign states but provinces under Ottoman suzerainty, governed by princes whose election requires confirmation by the Ottoman Porte and Russia. The note asserts that the revolutionary movements aimed to overthrow this order and establish an independent Daco-Roman kingdom, which Russia perceives as a threat to regional stability and its own security interests, especially in Bessarabia. Russia emphasizes that its intervention is lawful, based on treaties with the Ottoman Empire and is conducted jointly with Ottoman forces, with the promise of withdrawal once order is restored. The note distinguishes this intervention from Russia's policy toward independent European states, maintaining neutrality in their internal affairs.
 
-Critique of the Russian Justifications
+**Critique of the Russian Justifications**
 
 The Moldavian author challenges the Russian portrayal of the events and the principalities' political status. Contrary to the Russian claim that only a rebellious minority sought reforms, the author argues that the broader population supported the new institutions and reforms aimed at eliminating corruption. The alleged plans for a Daco-Roman empire are described as exaggerated political fantasies rather than genuine nationalist movements. The assassination attempt on the Wallachian Hospodar is attributed to a few individuals, not the nation as a whole.
 
 Legally, the author disputes Russia's denial of the principalities' sovereignty. The Danubian Principalities had historically been sovereign states with their own elected voivodes, maintaining internal self-government and external representation despite Ottoman suzerainty. The capitulations with the Ottoman Porte explicitly reserved internal sovereignty and rights such as legislation, administration, war, and peace. The author emphasizes that treaties between Russia and Turkey cannot diminish the principalities' rights gained through earlier capitulations. Russia's claim that the principalities have no political existence beyond what its treaties grant is therefore contested as unjust and contrary to international law.
 
-The Nature of Russian Protection and Its Consequences
+**The Nature of Russian Protection and Its Consequences**
 
 The document questions the nature and benefit of Russian protection over the principalities. It portrays Russian influence as corrupting and destructive, exemplified by the figure of Michael Sturdza, a hospodar described as a tyrant who undermined the country's moral and political integrity. The author argues that Russia's protection has become a form of control that undermines the principalities' autonomy and serves Russian interests rather than those of the local population. The proclamation of popular sovereignty by the principalities is seen as strengthening the Ottoman Porte's suzerainty rather than diminishing it, while Russian protection is characterized as increasingly oppressive.
 
 The author further critiques the Russian-imposed Organic Regulations, which replaced aristocratic institutions with assemblies dominated by boyars loyal to the hospodars, effectively consolidating power in a corrupt elite rather than promoting true democratic or socialist reforms. This electoral manipulation is presented to suppress opposition and maintain the status quo favorable to Russian interests.
 
-Political and Strategic Analysis
+**Political and Strategic Analysis**
 
 Politically, the author reflects on Russia's broader ambitions in the Orient, suggesting that Russia seeks to reshape the region according to its own designs, contrasting with other European powers that prefer to maintain the status quo. The document warns that Russia's interventionist policy risks alienating the principalities and losing their sympathies, which had been won previously through more benevolent governance. The author advocates for Russia to adopt a policy of goodwill, allowing the principalities to reform freely and regain their dignity, which would better serve Russia's long-term interests and European peace.
 
-Historical and Legal Context of the Principalities' Sovereignty
+**Historical and Legal Context of the Principalities' Sovereignty**
 
 The appendix provides a historical overview of the Danubian Principalities' sovereignty. It traces their origins as sovereign states ruled by self-elected voivodes, maintaining independence despite alliances with Hungary and Poland. The submission to Ottoman suzerainty occurred voluntarily, with explicit reservations of internal sovereignty, including rights to self-government, legislation, war, peace, and diplomatic representation. The document cites legal scholars affirming the principalities' sovereignty or semi-sovereignty, emphasizing that Ottoman suzerainty did not revoke their essential sovereign rights. The author argues that Russia's treaties with the Porte cannot override these foundational agreements and that Russia's intervention infringes on the principalities' rights and the integrity of the Ottoman Empire.
 
-Conclusion
+**Conclusion**
 
 The document concludes by appealing to the great European powers to recognize and enforce the true rights of the Danubian Principalities. It calls for peace and freedom to coexist and warns against further provocation or suppression of legitimate aspirations for reform and sovereignty. The author expresses hope that the powers will prevent ruin and uphold the law, emphasizing that freedom and peace are inseparable.
 
@@ -56,6 +56,9 @@ Page count: 26
 
 #### Author ####
 **Anonymous**
+
+#### Reference ####
+<p><a href="https://play.google.com/store/books/details/Anonymus_AC03672959_Bemerkungen_%C3%BCber_die_russische?id=xK5pbfmf7GwC">Google Play</a></p>
 
 #### Translation ####
 
