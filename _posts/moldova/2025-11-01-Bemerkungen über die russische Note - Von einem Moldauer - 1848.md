@@ -56,6 +56,7 @@ Page count: 26
 
 #### Author ####
 **Anonymous**
+According to Mr. Victor Taki, author of "Russia on the Danube", this article could be written by Mihai Kogălniceanu. The general character of the argument promoted in this publication resembles what Kogălniceanu wrote at the end of "The Wishes of the National Party in Moldova" from August 1848 and in "The Rebuttal of the Russian Dispatch of 19 July a. c.", article from the "Gazeta de Transilvania", written by a Moldavian (M. Kogalniceanu), included into "Year 1848 in the Romanian Principalities", ed. Ioan C. Bătianu, vol. 4 (Bucharest: Carl Göbl, 1903), 335 - 341. Also, the author of "Bemerkungen" mentions Martens and other German legal authors, and this is in agreement with the fact that Kogălniceanu studied in Berlin under Friedrich von Savigny.
 
 #### Reference ####
 <p><a href="https://play.google.com/store/books/details/Anonymus_AC03672959_Bemerkungen_%C3%BCber_die_russische?id=xK5pbfmf7GwC">Google Play</a></p>
