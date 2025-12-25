@@ -2,7 +2,7 @@
 title: "Hongrie - Delisle - 1780"
 date: 2025-04-26
 categories: [transylvania]
-tags: [Transylvania, Bukowina, Moldova, Wallachia, Banat, Dobrogea, Bessarabia]
+tags: [Transylvania, Bukovina, Moldova, Wallachia, Banat, Dobrogea, Bessarabia]
 layout: post
 background: '/img/posts/transylvania/Hongrie_DeLisle.jpg'
 ---

@@ -33,6 +33,11 @@ collections:
     - danube
     - transylvania
     - bukovina
+    - banat
+    - bessarabia
+    - dobrogea
+    - moldova
+    - wallachia
 
 defaults:
   - scope:

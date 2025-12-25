@@ -2,7 +2,7 @@
 title: "Hongrie - Nicolas de Fer - 1717"
 date: 2025-05-02
 categories: [transylvania]
-tags: [Transylvania, Bukowina, Moldova, Wallachia, Banat, Dobrogea, Bessarabia]
+tags: [Transylvania, Bukovina, Moldova, Wallachia, Banat, Dobrogea, Bessarabia]
 layout: post
 background: '/img/posts/transylvania/2025-05-02-Hongrie - Nicolas de Fer - 1717.jpg'
 ---

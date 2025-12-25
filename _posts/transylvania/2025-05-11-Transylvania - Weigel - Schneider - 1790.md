@@ -2,7 +2,7 @@
 title: "Transylvania - Weigel - Schneider - 1790"
 date: 2025-05-11
 categories: [transylvania]
-tags: [Transylvania, Bukowina, Moldova, Wallachia, Banat]
+tags: [Transylvania, Bukovina, Moldova, Wallachia, Banat]
 layout: post
 background: '/img/posts/transylvania/2025-05-11-Transylvania - Weigel - Schneider - 1790.jpg'
 ---

@@ -2,7 +2,7 @@
 title: "Charte von der Moldau und Walachey - Franz Ludwig Güssefeld - 1785"
 date: 2025-01-09
 categories: [moldova]
-tags: [Bukowina, Moldova, Wallachia]
+tags: [Bukovina, Moldova, Wallachia]
 layout: post
 background: '/img/posts/Gussefeld_Moldova.jpg'
 ---
