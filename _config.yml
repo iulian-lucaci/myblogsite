@@ -46,3 +46,4 @@ defaults:
     values:
       layout: post
       author: Iulian Lucaci
+      sitemap: true
