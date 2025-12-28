@@ -43,4 +43,3 @@ Daniel Meisner (1585-1625), was a German poet.
 
 Eberhard Kieser (1583-1631), was an German writer and editor.
 #### Reference: ####
-<p><a href="https://www.e-rara.ch/zuz/content/zoom/17675911">e-rara.ch</a></p>
