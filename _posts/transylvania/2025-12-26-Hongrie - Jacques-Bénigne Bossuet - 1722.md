@@ -2,7 +2,7 @@
 title: "Hongrie - Jacques-Bénigne Bossuet - 1722"
 date: 2025-12-26
 categories: [transylvania]
-tags: [Transylvania, Walachia, Moldova, Bessarabia, Dobrogea, Banat, Danube]
+tags: [Transylvania, Wallachia, Moldova, Bessarabia, Dobrogea, Banat, Danube]
 layout: post
 background: '/img/posts/transylvania/2025-12-26-Hongrie - Jacques-Bénigne Bossuet - 1722.jpg'
 ---
