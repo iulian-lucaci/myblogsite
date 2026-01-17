@@ -28,11 +28,13 @@ Approximately 25 x 37 cm
 This work is in good condition overall. There may be a few minor imperfections or fox or mottled marks to be expected with age
 
 #### Author: ####
-Sebastian Münster (1448 - 1552) was a renowned German scholar, cartographer, and cosmographer. 
+Sebastian Münster (1488 - 1552) was a renowned German scholar, cartographer, and cosmographer. 
 As a professor at the University of Basel, he was one of the most influential German-speaking scholars of his time. 
 His most famous work, the Cosmographia, was first published in 1544 and became one of the most widely circulated books of the 16th century. 
 It provided a comprehensive description of the world through maps, city views, and descriptive text. 
 Münster's meticulous approach to geography and his use of detailed woodcut illustrations made his work a foundational text for cartography and a crucial source of geographical knowledge for generations.
 
 #### Reference: ####
+<p><a href="https://doi.org/10.3931/e-rara-35929">1.e-rara.ch</a></p>
+<p><a href="https://doi.org/10.3931/e-rara-35928">2.e-rara.ch</a></p>
 <p><a href="https://www.vintage-maps.com/en/antique-maps/europe/poland/muenster-poland-eastern-europe-1550::552">www.vintage-maps.com</a></p>
