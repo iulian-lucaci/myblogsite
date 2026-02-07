@@ -42,6 +42,7 @@ categories.each do |category|
     title: #{title}
     category: #{category}
     permalink: /categories/#{category}/
+    background: '/img/bg-category.jpg'
     ---
   FRONT
   
