@@ -1,0 +1,42 @@
+name: Auto-generate Category Pages
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '_config.yml'
+      - 'bin/generate_categories.rb'
+  workflow_dispatch:
+
+jobs:
+  generate-categories:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+
+      - name: Run generate_categories script
+        run: ruby bin/generate_categories.rb
+
+      - name: Commit changes (if any)
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Check if there are any changes
+          if git diff --quiet; then
+            echo "No changes to commit"
+          else
+            git add categories/
+            git commit -m "chore: auto-generate category pages from _config.yml"
+            git push
+          fi
