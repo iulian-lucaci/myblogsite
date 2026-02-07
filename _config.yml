@@ -23,6 +23,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
+  - jekyll-archives
 
 # Tags
 collections:
@@ -46,3 +47,9 @@ defaults:
     values:
       layout: post
       author: Iulian Lucaci
+
+jekyll-archives:
+  enabled:
+    - categories
+  layouts:
+    category: archive
