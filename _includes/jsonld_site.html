@@ -1,0 +1,17 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "url": "{{ site.url }}{{ site.baseurl }}",
+      "name": "{{ site.title | escape }}",
+      "publisher": {
+        "@type": "Organization",
+        "name": "{{ site.title | escape }}",
+        "url": "{{ site.url }}{{ site.baseurl }}"
+      }
+    }
+  ]
+}
+</script>
