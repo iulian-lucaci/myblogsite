@@ -1,5 +1,5 @@
 ---
-title: "2026-01-04-Varnita - Aubry de la Mottraye - 1727"
+title: "Varnita - Aubry de la Mottraye - 1727"
 date: 2026-01-04
 categories: [bessarabia]
 tags: [Bessarabia]
