@@ -9,7 +9,7 @@ background: '/img/bg-categories.jpg'
 <ul>
   {% for cat in site.categories %}
     <li>
-      <a href="{{ site.baseurl }}/categories/{{ cat[0] | slugify }}/">{{ cat[0] }} ({{ cat[1].size }})</a>
+      <a href="{{ site.baseurl }}/categories/{{ cat[0] | slugify }}/">{{ cat[0] | capitalize }} ({{ cat[1].size }})</a>
     </li>
   {% endfor %}
 </ul>
