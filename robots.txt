@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://transylvaniadigitalantiques.com/myblogsite/sitemap.xml
+Sitemap: https://transylvaniadigitalantiques.com/sitemap.xml
