@@ -1,7 +1,7 @@
 ---
 title: "Rohbock - Cisnadioara, Michelsberg - 1864"
 date: 2025-01-03
-categories: [trasylvania]
+categories: [transylvania]
 tags: [Transylvania]
 layout: post
 background: '/img/posts/transylvania/Cisnadioara.jpg'

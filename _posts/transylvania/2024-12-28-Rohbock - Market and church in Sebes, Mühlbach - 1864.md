@@ -1,7 +1,7 @@
 ---
 title: "Rohbock - Market and church in Sebes, Mühlbach - 1864"
 date: 2024-12-28
-categories: [trasylvania]
+categories: [transylvania]
 tags: [Transylvania]
 layout: post
 background: '/img/posts/transylvania/Sebes_Markt.jpg'

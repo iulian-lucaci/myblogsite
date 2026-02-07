@@ -1,7 +1,7 @@
 ---
 title: "Neueste Karte von Siebenbürgen - Hauptmann C. Radefeld - 1849"
 date: 2025-01-06
-categories: [trasylvania]
+categories: [transylvania]
 tags: [Transylvania]
 layout: post
 background: '/img/posts/transylvania/Transylvania_Radefeld.jpg'

@@ -1,7 +1,7 @@
 ---
 title: "George II Rákóczi 1657, Erik Dahlberg, Jean Lepautre, Samuel von Pufendorf - 1697"
 date: 2025-01-04
-categories: [trasylvania]
+categories: [transylvania]
 tags: [Transylvania]
 layout: post
 background: '/img/posts/transylvania/Rakoczi_Pufendorf.jpg'
