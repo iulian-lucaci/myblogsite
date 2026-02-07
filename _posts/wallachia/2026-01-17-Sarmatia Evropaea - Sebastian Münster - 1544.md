@@ -1,7 +1,7 @@
 ---
 title: "Sarmatia Evropaea - Sebastian Münster - 1544"
 date: 2026-01-17
-categories: [wallachia, moldavia, transylvania, bessarabia, danube, banat, dobrogea]
+categories: [wallachia, moldova, transylvania, bessarabia, danube, banat, dobrogea]
 tags: [Wallachia, Moldavia, Transylvania, Bessarabia, Danube, Banat, Dobrogea]
 layout: post
 background: '/img/posts/wallachia/2026-01-17-Sarmatia Evropaea - Sebastian Münster - 1544 - 1.jpg'
