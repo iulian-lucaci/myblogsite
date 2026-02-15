@@ -47,11 +47,15 @@ function performSearch(query) {
     const safeExcerpt = (post.excerpt || '').substring(0, 150);
     const safeDate = post.date || '';
     const safeCategory = post.category || '';
+    const safeImage = post.image || '';
     html += `
-      <li>
-        <a href="{{ site.baseurl }}${post.url}"><strong>${safeTitle}</strong></a>
-        <p>${safeExcerpt}...</p>
-        <small>${safeDate} • ${safeCategory}</small>
+      <li class="search-result-item">
+        ${safeImage ? `<a class="search-thumb-link" href="{{ site.baseurl }}${post.url}"><img class="search-thumb" src="{{ site.baseurl }}${safeImage}" alt="${safeTitle}"></a>` : ''}
+        <div class="search-result-body">
+          <a href="{{ site.baseurl }}${post.url}"><strong>${safeTitle}</strong></a>
+          <p>${safeExcerpt}...</p>
+          <small>${safeDate} • ${safeCategory}</small>
+        </div>
       </li>
     `;
   });
@@ -108,4 +112,22 @@ document.getElementById('search-input').addEventListener('keyup', (e) => {
 #search-results small {
   color: #999;
 }
+
+/* Thumbnail styles for search results */
+.search-result-item {
+  display: flex;
+  gap: 1rem;
+  align-items: flex-start;
+}
+.search-thumb {
+  width: 96px;
+  height: 64px;
+  object-fit: cover;
+  border-radius: 4px;
+  flex-shrink: 0;
+}
+.search-result-body {
+  flex: 1 1 auto;
+}
+.search-thumb-link { display: inline-block; }
 </style>
