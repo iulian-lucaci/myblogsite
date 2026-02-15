@@ -1,0 +1,106 @@
+---
+layout: page
+title: "Search"
+permalink: /search/
+---
+
+<div id="search-container">
+  <input type="text" id="search-input" placeholder="Search posts...">
+  <div id="search-results"></div>
+</div>
+
+<script>
+// Load search data
+let searchData = [];
+
+fetch('{{ "/search.json" | relative_url }}')
+  .then(response => response.json())
+  .then(data => {
+    searchData = data;
+  });
+
+// Search function
+function performSearch(query) {
+  const resultsDiv = document.getElementById('search-results');
+  
+  if (!query.trim()) {
+    resultsDiv.innerHTML = '';
+    return;
+  }
+  
+  const lowerQuery = query.toLowerCase();
+  const results = searchData.filter(post => 
+    post.title.toLowerCase().includes(lowerQuery) ||
+    post.excerpt.toLowerCase().includes(lowerQuery) ||
+    post.category.toLowerCase().includes(lowerQuery)
+  );
+  
+  if (results.length === 0) {
+    resultsDiv.innerHTML = '<p>No results found.</p>';
+    return;
+  }
+  
+  let html = '<ul>';
+  results.forEach(post => {
+    html += `
+      <li>
+        <a href="{{ site.baseurl }}${post.url}"><strong>${post.title}</strong></a>
+        <p>${post.excerpt.substring(0, 150)}...</p>
+        <small>${post.date} • ${post.category}</small>
+      </li>
+    `;
+  });
+  html += '</ul>';
+  
+  resultsDiv.innerHTML = html;
+}
+
+// Search input event listener
+document.getElementById('search-input').addEventListener('keyup', (e) => {
+  performSearch(e.target.value);
+});
+</script>
+
+<style>
+#search-container {
+  margin-top: 2rem;
+}
+
+#search-input {
+  width: 100%;
+  padding: 0.75rem;
+  font-size: 1rem;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  margin-bottom: 1.5rem;
+}
+
+#search-results ul {
+  list-style: none;
+  padding: 0;
+}
+
+#search-results li {
+  padding: 1rem;
+  border-bottom: 1px solid #eee;
+}
+
+#search-results a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+#search-results a:hover {
+  text-decoration: underline;
+}
+
+#search-results p {
+  margin: 0.5rem 0;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+#search-results small {
+  color: #999;
+}
+</style>
