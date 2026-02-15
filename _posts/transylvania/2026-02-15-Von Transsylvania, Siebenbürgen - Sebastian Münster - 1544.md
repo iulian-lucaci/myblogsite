@@ -1,6 +1,6 @@
 ---
-title: "Von Tranſsiluania, Siebenbürgen - Sebastian Münster - 1544"
-date: 2026-01-24
+title: "Von Transsylvania, Siebenbürgen - Sebastian Münster - 1544"
+date: 2026-0103-15
 categories: [transylvania, wallachia, moldova, danube]
 tags: [Transylvania]
 layout: post
