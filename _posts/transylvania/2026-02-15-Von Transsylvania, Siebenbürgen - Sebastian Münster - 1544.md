@@ -8,7 +8,7 @@ background: '/img/posts/transylvania/2026-02-15-Von Transsylvania, Siebenbürgen
 ---
 <img src="/img/posts/transylvania/2026-02-15-Von Transsylvania, Siebenbürgen - Sebastian Münster - 1544 - 1.jpg" alt="2026-02-15-Von Transsylvania, Siebenbürgen - Sebastian Münster - 1544" width="1280" height="1024">
 #### Title ####
-Von Tranſsiluania, Siebenbürgen - Sebastian Münster - 1544
+Von Transsylvania, Siebenbürgen - Sebastian Münster - 1544
 #### Subitle ####
 
 #### Description ####
