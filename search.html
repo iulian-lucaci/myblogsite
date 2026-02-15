@@ -29,11 +29,12 @@ function performSearch(query) {
   }
   
   const lowerQuery = query.toLowerCase();
-  const results = searchData.filter(post => 
-    post.title.toLowerCase().includes(lowerQuery) ||
-    post.excerpt.toLowerCase().includes(lowerQuery) ||
-    post.category.toLowerCase().includes(lowerQuery)
-  );
+  const results = searchData.filter(post => {
+    const title = (post.title || '').toString().toLowerCase();
+    const excerpt = (post.excerpt || '').toString().toLowerCase();
+    const category = (post.category || '').toString().toLowerCase();
+    return title.includes(lowerQuery) || excerpt.includes(lowerQuery) || category.includes(lowerQuery);
+  });
   
   if (results.length === 0) {
     resultsDiv.innerHTML = '<p>No results found.</p>';
@@ -42,11 +43,15 @@ function performSearch(query) {
   
   let html = '<ul>';
   results.forEach(post => {
+    const safeTitle = post.title || '';
+    const safeExcerpt = (post.excerpt || '').substring(0, 150);
+    const safeDate = post.date || '';
+    const safeCategory = post.category || '';
     html += `
       <li>
-        <a href="{{ site.baseurl }}${post.url}"><strong>${post.title}</strong></a>
-        <p>${post.excerpt.substring(0, 150)}...</p>
-        <small>${post.date} • ${post.category}</small>
+        <a href="{{ site.baseurl }}${post.url}"><strong>${safeTitle}</strong></a>
+        <p>${safeExcerpt}...</p>
+        <small>${safeDate} • ${safeCategory}</small>
       </li>
     `;
   });
