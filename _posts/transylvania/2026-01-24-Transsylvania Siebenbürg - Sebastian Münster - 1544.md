@@ -9,7 +9,7 @@ background: '/img/posts/transylvania/2026-01-24-Transsylvania Siebenbürg - Seba
 <img src="/img/posts/transylvania/2026-01-24-Transsylvania Siebenbürg - Sebastian Münster - 1544 - 2.jpg" alt="2026-01-24-Transsylvania Siebenbürg - Sebastian Münster - 1544" width="1280" height="1024">
 #### Title ####
 Transsylvania Siebenbürg - Sebastian Münster - 1544
-#### Subitle ####
+#### Subtitle ####
 Die Siebenbürg / so man sunst auch Transsylvaniam nennt
 
 #### Description ####

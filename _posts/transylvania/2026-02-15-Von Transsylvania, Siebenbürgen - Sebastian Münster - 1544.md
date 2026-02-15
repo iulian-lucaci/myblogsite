@@ -9,7 +9,6 @@ background: '/img/posts/transylvania/2026-02-15-Von Transsylvania, Siebenbürgen
 <img src="/img/posts/transylvania/2026-02-15-Von Transsylvania, Siebenbürgen - Sebastian Münster - 1544 - 1.jpg" alt="2026-02-15-Von Transsylvania, Siebenbürgen - Sebastian Münster - 1544" width="1280" height="1024">
 #### Title ####
 Von Transsylvania, Siebenbürgen - Sebastian Münster - 1544
-#### Subitle ####
 
 #### Description ####
 This print is a folio page from a German edition of the monumental geographical treatise, the Cosmographia. The page features two German-language descriptions, with the overarching subject being the southeastern European territories. The central woodcut is a regional map focusing on Transylvania (Siebenbürgen), Wallachia, Bulgaria, and Macedonia, showing the Danube River and the western shore of the Black Sea (Pontus). The map details the geographical and political situation of these lands, which were of strategic importance during the 16th century. The text above the map provides a separate chapter, Cap. lxvj, focusing on the Wallachians and their customs.
