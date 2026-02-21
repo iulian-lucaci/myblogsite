@@ -39,6 +39,7 @@ collections:
     - dobrogea
     - moldova
     - wallachia
+    - europe
 
 defaults:
   - scope:
