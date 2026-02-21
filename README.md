@@ -152,3 +152,9 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 ## Copyright and License
 
 Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll/blob/master/LICENSE) license.
+
+## RSS Feed
+
+The site's Atom feed is available at: https://transylvaniadigitalantiques.com/feed.xml
+
+You can subscribe using that URL in feed readers or add it to your site's metadata.
