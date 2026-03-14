@@ -1,6 +1,6 @@
 ---
 title: "2026-03-14-Rohbock - Cluj-Napoca, Klausenburg - 1864"
-date: 2026-03-3014
+date: 2026-03-14
 categories: [transylvania]
 tags: [Transylvania]
 layout: post
