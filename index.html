@@ -40,16 +40,16 @@ pagination:
   {% endif %}
 
   <div class="page-numbers text-center">
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <span class="page-number current">{{ page }}</span>
+    {% for page_num in (1..paginator.total_pages) %}
+      {% if page_num == paginator.page %}
+        <span class="page-number current">{{ page_num }}</span>
       {% else %}
-        {% if page == 1 %}
+        {% if page_num == 1 %}
           {% assign page_path = '/' %}
         {% else %}
-          {% assign page_path = '/page' | append: page | append: '/' %}
+          {% assign page_path = '/page' | append: page_num | append: '/' %}
         {% endif %}
-        <a class="page-number" href="{{ page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+        <a class="page-number" href="{{ page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page_num }}</a>
       {% endif %}
     {% endfor %}
   </div>
