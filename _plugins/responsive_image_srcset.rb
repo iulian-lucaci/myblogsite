@@ -24,8 +24,19 @@ module Jekyll
         srcset = build_srcset(src, source_path, variant_path)
         next img_tag unless srcset
 
-        img_tag.sub(/>\z/, " srcset=\"#{srcset}\" sizes=\"(max-width: 768px) 100vw, 768px\">")
+        img_tag = add_loading_lazy(img_tag)
+        img_tag.sub(/(\s*\/?>)\z/, " srcset=\"#{srcset}\" sizes=\"(max-width: 768px) 100vw, 768px\"\1")
       end
+    end
+
+    def self.add_loading_lazy(img_tag)
+      img_tag = add_attribute(img_tag, 'loading', 'lazy')
+      add_attribute(img_tag, 'decoding', 'async')
+    end
+
+    def self.add_attribute(img_tag, name, value)
+      return img_tag if img_tag =~ /\b#{Regexp.escape(name)}=/i
+      img_tag.sub(/(\s*\/?>)\z/, " #{name}=\"#{value}\"\1")
     end
 
     def self.find_variant(source_path)
