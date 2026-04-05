@@ -1,28 +1,51 @@
 ---
 layout: page
+background: '/img/bg-category.jpg'
 ---
 
-{% assign tag = page.tag %}
-{% assign posts = site.tags[tag] | sort: 'date' | reverse %}
+<h1>Tag: {{ page.title }}</h1>
 
-{% if posts and posts.size > 0 %}
-  {% for post in posts %}
-    <article class="post-preview">
-      <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">
-        <h2 class="post-title">{{ post.title }}</h2>
-        {% if post.subtitle %}
-        <h3 class="post-subtitle">{{ post.subtitle }}</h3>
-        {% else %}
-        <h3 class="post-subtitle">{{ post.excerpt | strip_html | truncatewords: 15 }}</h3>
-        {% endif %}
-      </a>
-      <p class="post-meta">Posted by
-        {% if post.author %}{{ post.author }}{% else %}{{ site.author }}{% endif %}
-        on {{ post.date | date: '%B %d, %Y' }} &middot; {% include read_time.html content=post.content %}
-      </p>
-    </article>
-    <hr>
-  {% endfor %}
+{% if paginator.posts and paginator.posts.size > 0 %}
+  <ul>
+    {% for post in paginator.posts %}
+      <li>
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <span class="muted">— {{ post.date | date: "%Y-%m-%d" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
 {% else %}
-  <p>No posts for this tag.</p>
+  <p>No posts found with this tag.</p>
+{% endif %}
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+
+<div class="clearfix">
+
+  {% if paginator.previous_page %}
+  <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer<span class="d-none d-md-inline"> Posts</span></a>
+  {% endif %}
+
+  <div class="page-numbers text-center">
+    {% for page_num in (1..paginator.total_pages) %}
+      {% if page_num == paginator.page %}
+        <span class="page-number current">{{ page_num }}</span>
+      {% else %}
+        {% if page_num == 1 %}
+          {% assign page_path = '/tags/' | append: page.tag | append: '/' %}
+        {% else %}
+          {% assign page_path = '/tags/' | append: page.tag | append: '/page/' | append: page_num | append: '/' %}
+        {% endif %}
+        <a class="page-number" href="{{ page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page_num }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  {% if paginator.next_page %}
+  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
+  {% endif %}
+
+</div>
+
 {% endif %}
