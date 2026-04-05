@@ -53,6 +53,20 @@ module Jekyll
         alt_match = img_tag.match(/alt=(['"])([^'">]*?)\1/i)
         title_attr = alt_match ? escape_html(alt_match[2]) : nil
 
+        # Add copyright to alt text if not already present
+        if alt_match
+          alt_value = alt_match[2]
+          unless alt_value.include?('@transylvaniadigitalantiques.com')
+            alt_value += ' © transylvaniadigitalantiques.com'
+            img_tag = img_tag.sub(/alt=(['"])([^'">]*?)\1/i, "alt=\"#{escape_html(alt_value)}\"")
+            title_attr = escape_html(alt_value)
+          end
+        else
+          # Add alt attribute with copyright if missing
+          img_tag = img_tag.sub(/(\s*\/?>)\z/, " alt=\"© transylvaniadigitalantiques.com\"\1")
+          title_attr = '© transylvaniadigitalantiques.com'
+        end
+
         link_attrs = ["href=\"#{src}\"", 'class="glightbox"', "data-gallery=\"#{gallery_id}\""]
         link_attrs << "data-title=\"#{title_attr}\"" if title_attr
 
