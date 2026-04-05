@@ -51,6 +51,13 @@
   border-color: #007bff;
 }
 
+.page-content img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1rem 0;
+}
+
 .archive-count,
 .archive-summary {
   color: #6c757d;
