@@ -5,10 +5,9 @@ background: '/img/bg-category.jpg'
 
 <h1>Category: {{ page.title }}</h1>
 
-{% assign posts = site.categories[page.category] %}
-{% if posts and posts.size > 0 %}
+{% if paginator.posts and paginator.posts.size > 0 %}
   <ul>
-    {% for post in posts %}
+    {% for post in paginator.posts %}
       <li>
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         <span class="muted">— {{ post.date | date: "%Y-%m-%d" }}</span>
@@ -17,4 +16,35 @@ background: '/img/bg-category.jpg'
   </ul>
 {% else %}
   <p>No posts found in this category.</p>
+{% endif %}
+
+<!-- Pager -->
+{% if paginator.total_pages > 1 %}
+
+<div class="clearfix">
+
+  {% if paginator.previous_page %}
+  <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer<span class="d-none d-md-inline"> Posts</span></a>
+  {% endif %}
+
+  <div class="page-numbers text-center">
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <span class="page-number current">{{ page }}</span>
+      {% else %}
+        {% assign page_path = paginator.permalink | replace: ':num', page %}
+        {% if page == 1 %}
+          {% assign page_path = '/' | append: page.category | append: '/' %}
+        {% endif %}
+        <a class="page-number" href="{{ page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
+
+  {% if paginator.next_page %}
+  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
+  {% endif %}
+
+</div>
+
 {% endif %}

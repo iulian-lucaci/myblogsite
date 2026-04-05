@@ -2,6 +2,8 @@
 layout: page
 title: Posts
 background: '/img/bg-post.jpg'
+pagination:
+  enabled: true
 ---
 
 {% for post in paginator.posts %}
@@ -38,6 +40,20 @@ background: '/img/bg-post.jpg'
   <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
     Newer<span class="d-none d-md-inline"> Posts</span></a>
   {% endif %}
+
+  <div class="page-numbers text-center">
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <span class="page-number current">{{ page }}</span>
+      {% else %}
+        {% assign page_path = site.paginate_path | replace: ':num', page %}
+        {% if page == 1 %}
+          {% assign page_path = '/posts/' %}
+        {% endif %}
+        <a class="page-number" href="{{ page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
+  </div>
 
   {% if paginator.next_page %}
   <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>

@@ -3,3 +3,28 @@
 
 // Navbar override: ensure toggler icon displays on GitHub Pages
 @import "navbar";
+
+// Custom pagination styles
+.page-numbers {
+  margin: 20px 0;
+}
+
+.page-number {
+  display: inline-block;
+  margin: 0 5px;
+  padding: 8px 12px;
+  text-decoration: none;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  color: #007bff;
+}
+
+.page-number:hover {
+  background-color: #f8f9fa;
+}
+
+.page-number.current {
+  background-color: #007bff;
+  color: white;
+  border-color: #007bff;
+}
