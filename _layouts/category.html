@@ -35,7 +35,7 @@ background: '/img/bg-category.jpg'
         {% if page == 1 %}
           {% assign page_path = '/categories/' | append: page.category | append: '/' %}
         {% else %}
-          {% assign page_path = '/categories/' | append: page.category | append: '/page' | append: page | append: '/' %}
+          {% assign page_path = '/categories/' | append: page.category | append: '/page/' | append: page | append: '/' %}
         {% endif %}
         <a class="page-number" href="{{ page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
       {% endif %}

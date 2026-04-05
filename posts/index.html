@@ -49,7 +49,7 @@ pagination:
         {% if page == 1 %}
           {% assign page_path = '/posts/' %}
         {% else %}
-          {% assign page_path = '/posts/page' | append: page | append: '/' %}
+          {% assign page_path = '/posts/page/' | append: page | append: '/' %}
         {% endif %}
         <a class="page-number" href="{{ page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
       {% endif %}
