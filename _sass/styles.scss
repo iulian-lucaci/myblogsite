@@ -9,9 +9,10 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  flex-wrap: wrap;
+  flex-wrap: nowrap;
   gap: 10px;
   margin: 20px 0;
+  overflow-x: auto;
 }
 
 .page-nav-button {
@@ -22,6 +23,11 @@
   margin: 0;
   text-align: center;
   flex: 1 1 auto;
+  display: flex;
+  justify-content: center;
+  flex-wrap: nowrap;
+  min-width: 0;
+  overflow-x: auto;
 }
 
 .page-number {
@@ -32,6 +38,7 @@
   border: 1px solid #ddd;
   border-radius: 4px;
   color: #007bff;
+  white-space: nowrap;
 }
 
 .page-number:hover {
