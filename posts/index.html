@@ -46,9 +46,10 @@ pagination:
       {% if page == paginator.page %}
         <span class="page-number current">{{ page }}</span>
       {% else %}
-        {% assign page_path = site.paginate_path | replace: ':num', page %}
         {% if page == 1 %}
           {% assign page_path = '/posts/' %}
+        {% else %}
+          {% assign page_path = '/posts/page' | append: page | append: '/' %}
         {% endif %}
         <a class="page-number" href="{{ page_path | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
       {% endif %}
