@@ -24,6 +24,9 @@ plugins:
   - jekyll-archives
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
+seo:
+  hide_comments: true
+
 pagination:
   enabled: true
   per_page: 5
