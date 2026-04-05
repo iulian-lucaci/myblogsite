@@ -3,6 +3,14 @@
 <script src="{{"/assets/vendor/startbootstrap-clean-blog/js/scripts.js" | relative_url }}"></script>
 
 <script src="{{"/assets/scripts.js" | relative_url }}"></script>
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    if (typeof GLightbox === 'function') {
+      GLightbox({ selector: '.glightbox', touchNavigation: true, loop: true });
+    }
+  });
+</script>
 
 {% if page.url contains 'contact' %}
   <!-- Form Validation -->
