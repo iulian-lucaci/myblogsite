@@ -34,14 +34,14 @@ pagination:
 <!-- Pager -->
 {% if paginator.total_pages > 1 %}
 
-<div class="clearfix">
+<div class="page-nav-row">
 
   {% if paginator.previous_page %}
-  <a class="btn btn-primary float-left" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
+  <a class="btn btn-primary page-nav-button" href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr;
     Newer<span class="d-none d-md-inline"> Posts</span></a>
   {% endif %}
 
-  <div class="page-numbers text-center">
+  <div class="page-numbers">
     {% for page_num in (1..paginator.total_pages) %}
       {% if page_num == paginator.page %}
         <span class="page-number current">{{ page_num }}</span>
@@ -57,7 +57,7 @@ pagination:
   </div>
 
   {% if paginator.next_page %}
-  <a class="btn btn-primary float-right" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
+  <a class="btn btn-primary page-nav-button" href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older<span class="d-none d-md-inline"> Posts</span> &rarr;</a>
   {% endif %}
 
 </div>
