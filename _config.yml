@@ -21,6 +21,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-feed
   - jekyll-paginate-v2
+  - jekyll-archives
   - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site
 
 pagination:
@@ -31,6 +32,17 @@ pagination:
   limit: 0
   sort_field: 'date'
   sort_reverse: true
+
+jekyll-archives:
+  enabled:
+    - year
+    - month
+  layouts:
+    year: archive
+    month: archive
+  permalinks:
+    year: /archives/:year/
+    month: /archives/:year/:month/
 
 # Tags
 collections:

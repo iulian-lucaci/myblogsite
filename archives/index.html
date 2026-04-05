@@ -10,19 +10,20 @@ background: '/img/bg-archive.jpg'
 {% assign posts_by_year = site.posts | group_by_exp: "post", "post.date | date: '%Y'" %}
 
 {% for year in posts_by_year %}
-  <h2 id="year-{{ year.name }}">{{ year.name }}</h2>
+  <h2 id="year-{{ year.name }}">
+    <a href="{{ '/archives/' | append: year.name | append: '/' | relative_url }}">{{ year.name }}</a>
+    <small class="archive-count">({{ year.items | size }} posts)</small>
+  </h2>
   {% assign months = year.items | group_by_exp: "post", "post.date | date: '%m'" %}
-  {% for month in months %}
-    {% assign month_num = month.name %}
-    {% assign month_name = month.items.first.date | date: '%B' %}
-    <h3>{{ month_name }}</h3>
-    <ul>
-      {% for post in month.items %}
-        <li>
-          <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
-          <span class="meta">— {{ post.date | date: '%B %d' }}</span>
-        </li>
-      {% endfor %}
-    </ul>
-  {% endfor %}
+  <ul>
+    {% for month in months %}
+      {% assign month_name = month.items.first.date | date: '%B' %}
+      <li>
+        <a href="{{ '/archives/' | append: year.name | append: '/' | append: month.name | append: '/' | relative_url }}">
+          {{ month_name }}
+        </a>
+        <small class="archive-count">({{ month.items | size }} posts)</small>
+      </li>
+    {% endfor %}
+  </ul>
 {% endfor %}

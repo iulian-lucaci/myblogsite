@@ -19,6 +19,9 @@
         <li class="nav-item {% if page.url == '/tags/' or page.url contains '/tags' %}active{% endif %}">
           <a class="nav-link" {% if page.url == '/tags/' or page.url contains '/tags' %}aria-current="page"{% endif %} href="{{ "/tags/" | relative_url }}">Tags</a>
         </li>
+        <li class="nav-item {% if page.url == '/archives/' or page.url contains '/archives' %}active{% endif %}">
+          <a class="nav-link" {% if page.url == '/archives/' or page.url contains '/archives' %}aria-current="page"{% endif %} href="{{ "/archives/" | relative_url }}">Archives</a>
+        </li>
         <li class="nav-item {% if page.url == '/search/' or page.url contains '/search' %}active{% endif %}">
           <a class="nav-link" {% if page.url == '/search/' or page.url contains '/search' %}aria-current="page"{% endif %} href="{{ "/search/" | relative_url }}">Search</a>
         </li>

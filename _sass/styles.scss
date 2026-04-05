@@ -50,3 +50,21 @@
   color: white;
   border-color: #007bff;
 }
+
+.archive-count,
+.archive-summary {
+  color: #6c757d;
+  font-size: 0.95rem;
+}
+
+.archive-count {
+  display: inline-block;
+  margin-left: 0.5rem;
+  padding: 0.1rem 0.45rem;
+  background-color: rgba(0, 0, 0, 0.05);
+  border-radius: 0.35rem;
+}
+
+.archive-summary {
+  margin-bottom: 1rem;
+}

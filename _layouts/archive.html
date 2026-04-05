@@ -1,0 +1,26 @@
+---
+layout: page
+background: '/img/bg-archive.jpg'
+---
+
+{% if page.title %}
+  <h1>Archive: {{ page.title }}</h1>
+{% else %}
+  <h1>Archive</h1>
+{% endif %}
+
+{% assign archive_posts = page.posts | sort: 'date' | reverse %}
+
+{% if archive_posts and archive_posts.size > 0 %}
+  <p class="archive-summary"><strong>{{ archive_posts.size }} posts</strong> in this archive.</p>
+  <ul>
+    {% for post in archive_posts %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+        <span class="muted">— {{ post.date | date: "%Y-%m-%d" }}</span>
+      </li>
+    {% endfor %}
+  </ul>
+{% else %}
+  <p>No posts found for this archive.</p>
+{% endif %}
