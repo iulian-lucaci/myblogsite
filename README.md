@@ -85,6 +85,21 @@ ruby bin/new_post.rb \
 
 This generates a new Markdown file in `_posts/<category>/` with the front matter filled in.
 
+### Update existing posts with missing metadata
+
+A helper script is available at `bin/update_old_posts.rb` to scan old posts and backfill missing fields.
+
+It will:
+- add `description` using the existing `title` if missing
+- add `excerpt` using the existing `title` if missing
+- add `image` using the existing `background` if missing
+
+Run it with:
+
+```bash
+ruby bin/update_old_posts.rb
+```
+
 5. Add the form to the `contact.html` page. Add the following code to your `contact.html` page:
 
     ```html
