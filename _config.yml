@@ -6,6 +6,8 @@ baseurl:            "/myblogsite"
 url:                "https://transylvaniadigitalantiques.com"
 lang:               en
 locale:             en_US
+image:              "/img/bg-post.jpg"
+logo:               "/img/bg-post.jpg"
 
 # Social Profiles
 twitter_username:   SBootstrap
@@ -72,3 +74,4 @@ defaults:
     values:
       layout: post
       author: Iulian Lucaci
+      image: "/img/bg-post.jpg"

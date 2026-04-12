@@ -5,6 +5,13 @@
 
   {% seo %}
 
+  {% assign seo_image = page.image | default: page.background | default: site.image %}
+  {% if seo_image %}
+    <meta property="og:image" content="{{ seo_image | absolute_url }}">
+    <meta property="og:image:secure_url" content="{{ seo_image | absolute_url }}">
+    <meta name="twitter:image" content="{{ seo_image | absolute_url }}">
+  {% endif %}
+
   <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
 

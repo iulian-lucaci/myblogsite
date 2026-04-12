@@ -8,7 +8,7 @@
   },
   "url": "{{ page.url | absolute_url }}",
   "headline": "{{ page.title | escape }}",
-  {% assign json_image = page.image | default: page.background %}{% if json_image %}"image": ["{{ json_image | absolute_url }}"],{% endif %}
+  {% assign json_image = page.image | default: page.background | default: site.image %}{% if json_image %}"image": ["{{ json_image | absolute_url }}"],{% endif %}
   "datePublished": "{{ page.date | date_to_xmlschema }}",
   "dateModified": "{{ page.last_modified_at | default: page.date | date_to_xmlschema }}",
   "author": {
@@ -20,7 +20,7 @@
     "name": "{{ site.title | escape }}",
     "logo": {
       "@type": "ImageObject",
-      "url": "{{ '/img/logo.png' | absolute_url }}"
+      "url": "{{ site.logo | default: site.image | absolute_url }}"
     }
   },
   "description": "{{ page.excerpt | default: page.description | strip_html | normalize_whitespace | truncate: 200 | escape }}"{% if page.tags and page.tags != empty %},
