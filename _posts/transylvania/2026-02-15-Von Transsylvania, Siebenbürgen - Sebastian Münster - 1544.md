@@ -4,8 +4,8 @@ title: Von Transsylvania, Siebenbürgen - Sebastian Münster - 1544
 date: 2026-02-15
 categories: ["transylvania"]
 tags: ["Transylvania", "Wallachia", "Moldova", "Danube"]
-description: Von Transsylvania, Siebenbürgen - Sebastian Münster - 1544
-excerpt: Von Transsylvania, Siebenbürgen - Sebastian Münster - 1544
+description: This print is a folio page from a German edition of the monumental geographical treatise, the Cosmographia. The page features two German-language...
+excerpt: This print is a folio page from a German edition of the monumental geographical treatise, the Cosmographia. The page...
 background: /img/posts/transylvania/2026-02-15-Von Transsylvania, Siebenbürgen - Sebastian Münster - 1544 - 2.jpg
 image: /img/posts/transylvania/2026-02-15-Von Transsylvania, Siebenbürgen - Sebastian Münster - 1544 - 2.jpg
 ---

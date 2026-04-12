@@ -4,8 +4,8 @@ title: Hongrie - Jacques-Bénigne Bossuet - 1722
 date: 2025-12-26
 categories: ["transylvania"]
 tags: ["Transylvania", "Wallachia", "Moldova", "Bessarabia", "Dobrogea", "Banat", "Danube"]
-description: Hongrie - Jacques-Bénigne Bossuet - 1722
-excerpt: Hongrie - Jacques-Bénigne Bossuet - 1722
+description: "Colored copperplate map from Bossuet's \"L'Histoire Universelle\" (The Universal History), published by Etienne Roger, Amsterdam 1722, produced after Nicolas..."
+excerpt: "Colored copperplate map from Bossuet's \"L'Histoire Universelle\" (The Universal History), published by Etienne Roger,..."
 background: /img/posts/transylvania/2025-12-26-Hongrie - Jacques-Bénigne Bossuet - 1722.jpg
 image: /img/posts/transylvania/2025-12-26-Hongrie - Jacques-Bénigne Bossuet - 1722.jpg
 ---

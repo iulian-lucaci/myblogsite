@@ -4,8 +4,8 @@ title: Karte von Rumänien - Gustav Freytag - 1916
 date: 2026-03-01
 categories: ["romania"]
 tags: ["Romania", "Transylvania", "Wallachia", "Moldova", "Bessarabia", "Danube"]
-description: Karte von Rumänien - Gustav Freytag - 1916
-excerpt: Karte von Rumänien - Gustav Freytag - 1916
+description: Map of Romania published in 1916 in Viena by Gustav Freytag which depicts Romania after the 1913 Treaty of Bucharest (including the Southern Dobruja region...
+excerpt: Map of Romania published in 1916 in Viena by Gustav Freytag which depicts Romania after the 1913 Treaty of Bucharest...
 background: /img/posts/romania/2026-03-01-Karte von Rumänien - Gustav Freytag - 1916 - 1.jpg
 image: /img/posts/romania/2026-03-01-Karte von Rumänien - Gustav Freytag - 1916 - 1.jpg
 ---

@@ -4,8 +4,8 @@ title: Rochbock - Baile Herculane, Bad bei Mehadia - 1864
 date: 2025-01-02
 categories: ["banat"]
 tags: ["Banat"]
-description: Rochbock - Baile Herculane, Bad bei Mehadia - 1864
-excerpt: Rochbock - Baile Herculane, Bad bei Mehadia - 1864
+description: "Old lithography signed by Ludwig Rohbock and Johann Poppel and included in \"Ungarn und Siebenbürgen in malerischen Original-Ansichten\", Gustav Georg Lange,..."
+excerpt: "Old lithography signed by Ludwig Rohbock and Johann Poppel and included in \"Ungarn und Siebenbürgen in malerischen..."
 background: /img/posts/Mehadia.jpg
 image: /img/posts/Mehadia.jpg
 ---

@@ -4,8 +4,8 @@ title: Hongrie - Nicolas de Fer - 1717
 date: 2025-05-02
 categories: ["transylvania"]
 tags: ["Transylvania", "Bukovina", "Moldova", "Wallachia", "Banat", "Dobrogea", "Bessarabia"]
-description: Hongrie - Nicolas de Fer - 1717
-excerpt: Hongrie - Nicolas de Fer - 1717
+description: Border-colored copper map by Nicolas de Fer, Paris, 1717; engraved by Harmanus van Loon. With figurative cartouche (small view, inscription) and text box....
+excerpt: Border-colored copper map by Nicolas de Fer, Paris, 1717; engraved by Harmanus van Loon. With figurative cartouche...
 background: /img/posts/transylvania/2025-05-02-Hongrie - Nicolas de Fer - 1717.jpg
 image: /img/posts/transylvania/2025-05-02-Hongrie - Nicolas de Fer - 1717.jpg
 ---

@@ -4,8 +4,8 @@ title: Neueste Karte von Siebenbürgen - Hauptmann C. Radefeld - 1849
 date: 2025-01-06
 categories: ["transylvania"]
 tags: ["Transylvania"]
-description: Neueste Karte von Siebenbürgen - Hauptmann C. Radefeld - 1849
-excerpt: Neueste Karte von Siebenbürgen - Hauptmann C. Radefeld - 1849
+description: "Transylvania (Siebenbürgen) engraved map from 1849 by Hauptmann von Radefeld, published in Meyer's Handatlas. Very detailed maps showing many cities,..."
+excerpt: "Transylvania (Siebenbürgen) engraved map from 1849 by Hauptmann von Radefeld, published in Meyer's Handatlas. Very..."
 background: /img/posts/transylvania/Transylvania_Radefeld.jpg
 image: /img/posts/transylvania/Transylvania_Radefeld.jpg
 ---

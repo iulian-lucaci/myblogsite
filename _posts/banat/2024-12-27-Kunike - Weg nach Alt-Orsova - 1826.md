@@ -4,8 +4,8 @@ title: Kunike - Weg nach Alt-Orsova - 1826
 date: 2024-12-27
 categories: ["banat"]
 tags: ["Banat"]
-description: Kunike - Weg nach Alt-Orsova - 1826
-excerpt: Kunike - Weg nach Alt-Orsova - 1826
+description: Old colored lithography signed by Franz Wolf and printed by Adolph Friedrich Kunike at Vienna in Zwey hundert vier und sechzig Donau-Ansichten nach dem Laufe...
+excerpt: Old colored lithography signed by Franz Wolf and printed by Adolph Friedrich Kunike at Vienna in Zwey hundert vier und...
 background: /img/posts/Orsova.jpg
 image: /img/posts/Orsova.jpg
 ---

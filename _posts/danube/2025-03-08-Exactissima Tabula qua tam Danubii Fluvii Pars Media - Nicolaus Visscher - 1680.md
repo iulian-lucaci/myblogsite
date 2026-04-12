@@ -4,8 +4,8 @@ title: Exactissima Tabula qua tam Danubii Fluvii Pars Media - Nicolaus Visscher 
 date: 2025-03-08
 categories: ["danube"]
 tags: ["Banat", "Danube", "Transylvania", "Wallachia"]
-description: Exactissima Tabula qua tam Danubii Fluvii Pars Media - Nicolaus Visscher - 1680
-excerpt: Exactissima Tabula qua tam Danubii Fluvii Pars Media - Nicolaus Visscher - 1680
+description: Detailed map of the inferior course of the Danube River from Linz to Vidin
+excerpt: Detailed map of the inferior course of the Danube River from Linz to Vidin
 background: /img/posts/danube/2025-03-08-Exactissima Tabula qua tam Danubii Fluvii Pars Media - Nicolaus Visscher - 1680.jpg
 image: /img/posts/danube/2025-03-08-Exactissima Tabula qua tam Danubii Fluvii Pars Media - Nicolaus Visscher - 1680.jpg
 ---

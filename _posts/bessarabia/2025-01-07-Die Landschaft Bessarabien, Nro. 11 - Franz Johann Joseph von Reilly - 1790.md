@@ -4,8 +4,8 @@ title: Die Landschaft Bessarabien, Nro. 11 - Franz Johann Joseph von Reilly - 17
 date: 2025-01-07
 categories: ["bessarabia"]
 tags: ["Bessarabia"]
-description: Die Landschaft Bessarabien, Nro. 11 - Franz Johann Joseph von Reilly - 1790
-excerpt: Die Landschaft Bessarabien, Nro. 11 - Franz Johann Joseph von Reilly - 1790
+description: "Map of Bessarabia, copper engraving with nice old color, published in Vienna in 1790 in \"Schauplatz der funf Theile der Welt,\" Franz Johann Joseph von Reilly...."
+excerpt: "Map of Bessarabia, copper engraving with nice old color, published in Vienna in 1790 in \"Schauplatz der funf Theile..."
 background: /img/posts/Reilly_Bessarabia.jpg
 image: /img/posts/Reilly_Bessarabia.jpg
 ---

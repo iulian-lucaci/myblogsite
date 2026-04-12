@@ -4,8 +4,8 @@ title: La Hongrie avec les Provinces adjacentes - Louis Brion de la Tour - 1766
 date: 2024-12-07
 categories: ["transylvania"]
 tags: ["Transylvania"]
-description: La Hongrie avec les Provinces adjacentes - Louis Brion de la Tour - 1766
-excerpt: La Hongrie avec les Provinces adjacentes - Louis Brion de la Tour - 1766
+description: Hungary at this time was under the role of Joseph II, a dynamic leader strongly influenced by the enlightenment. Joseph shook Hungary from its malaise when he...
+excerpt: Hungary at this time was under the role of Joseph II, a dynamic leader strongly influenced by the enlightenment....
 background: /img/posts/transylvania/Hongrie_Tour.jpg
 image: /img/posts/transylvania/Hongrie_Tour.jpg
 ---

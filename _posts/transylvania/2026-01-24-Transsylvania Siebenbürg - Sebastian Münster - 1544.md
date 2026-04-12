@@ -4,8 +4,8 @@ title: Transsylvania Siebenbürg - Sebastian Münster - 1544
 date: 2026-01-24
 categories: ["transylvania"]
 tags: ["Transylvania"]
-description: Transsylvania Siebenbürg - Sebastian Münster - 1544
-excerpt: Transsylvania Siebenbürg - Sebastian Münster - 1544
+description: Woodcut with letterpress text on laid paper (Circa 1544–1568). This print is a folio page from a German edition of the monumental geographical treatise, the...
+excerpt: Woodcut with letterpress text on laid paper (Circa 1544–1568). This print is a folio page from a German edition of the...
 background: /img/posts/transylvania/2026-01-24-Transsylvania Siebenbürg - Sebastian Münster - 1544 - 1.jpg
 image: /img/posts/transylvania/2026-01-24-Transsylvania Siebenbürg - Sebastian Münster - 1544 - 1.jpg
 ---

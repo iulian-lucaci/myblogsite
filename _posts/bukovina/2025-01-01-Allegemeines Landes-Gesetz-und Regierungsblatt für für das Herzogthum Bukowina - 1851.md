@@ -4,8 +4,8 @@ title: Allegemeines Landes-Gesetz-und Regierungsblatt für für das Herzogthum B
 date: 2025-01-01
 categories: ["bukovina"]
 tags: ["Bukovina"]
-description: Allegemeines Landes-Gesetz-und Regierungsblatt für für das Herzogthum Bukowina - 1851
-excerpt: Allegemeines Landes-Gesetz-und Regierungsblatt für für das Herzogthum Bukowina - 1851
+description: Official collection of the laws for Bucovina from year 1851 in German and Romanian languages. Bucovina was part of Moldavia till 1774, when was occupied by...
+excerpt: Official collection of the laws for Bucovina from year 1851 in German and Romanian languages. Bucovina was part of...
 background: /img/posts/Bukowina1851 (3).jpg
 image: /img/posts/Bukowina1851 (3).jpg
 ---

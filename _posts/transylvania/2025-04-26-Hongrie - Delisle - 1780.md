@@ -4,8 +4,8 @@ title: Hongrie - Delisle - 1780
 date: 2025-04-26
 categories: ["transylvania"]
 tags: ["Transylvania", "Bukovina", "Moldova", "Wallachia", "Banat", "Dobrogea", "Bessarabia"]
-description: Hongrie - Delisle - 1780
-excerpt: Hongrie - Delisle - 1780
+description: "Beautiful map published in France, with wide margins, and geographically well detailed in every point including: Transylvania, Wallachia, Moldavia, Bukovina,..."
+excerpt: "Beautiful map published in France, with wide margins, and geographically well detailed in every point including:..."
 background: /img/posts/transylvania/Hongrie_DeLisle.jpg
 image: /img/posts/transylvania/Hongrie_DeLisle.jpg
 ---

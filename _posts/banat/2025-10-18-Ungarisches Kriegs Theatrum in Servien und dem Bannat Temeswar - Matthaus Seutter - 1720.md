@@ -4,8 +4,8 @@ title: Ungarisches Kriegs Theatrum in Servien und dem Bannat Temeswar - Matthaus
 date: 2025-10-18
 categories: ["banat"]
 tags: ["Banat", "Danube"]
-description: Ungarisches Kriegs Theatrum in Servien und dem Bannat Temeswar - Matthaus Seutter - 1720
-excerpt: Ungarisches Kriegs Theatrum in Servien und dem Bannat Temeswar - Matthaus Seutter - 1720
+description: "This is the very rare pocket edition of Matthäus Seutter's atlas, published in 1720, titled 'ATLAS MINOR - Atlas novus sive Tabulae geographicae totius Orbis..."
+excerpt: "This is the very rare pocket edition of Matthäus Seutter's atlas, published in 1720, titled 'ATLAS MINOR - Atlas novus..."
 background: /img/posts/banat/2025-10-18-Ungarisches Kriegs Theatrum in Servien und dem Bannat Temeswar - Matthaus Seutter - 1720.jpg
 image: /img/posts/banat/2025-10-18-Ungarisches Kriegs Theatrum in Servien und dem Bannat Temeswar - Matthaus Seutter - 1720.jpg
 ---

@@ -4,8 +4,8 @@ title: Danubius Fonte Usque ad Ostiae - Johann Christoph Weigel - 1745
 date: 2024-12-29
 categories: ["danube"]
 tags: ["Banat", "Bessarabia", "Danube", "Dobrogea", "Moldova", "Transylvania", "Wallachia"]
-description: Danubius Fonte Usque ad Ostiae - Johann Christoph Weigel - 1745
-excerpt: Danubius Fonte Usque ad Ostiae - Johann Christoph Weigel - 1745
+description: "Old colored copper engraving map from the atlas by Johann Christoph Weigel (1654-1725) \"Atlas Portatilis Oder Compendieuse Vorstellung Der gantzen Welt in..."
+excerpt: "Old colored copper engraving map from the atlas by Johann Christoph Weigel (1654-1725) \"Atlas Portatilis Oder..."
 background: /img/posts/danube/2024-04-07-Danubius Fonte Usque ad Ostiae - Johann Christoph Weigel - 1745.jpg
 image: /img/posts/danube/2024-04-07-Danubius Fonte Usque ad Ostiae - Johann Christoph Weigel - 1745.jpg
 ---

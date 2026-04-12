@@ -4,8 +4,8 @@ title: Rohbock - Cluj-Napoca, Klausenburg - 1864
 date: 2026-03-14
 categories: ["transylvania"]
 tags: ["Transylvania"]
-description: Rohbock - Cluj-Napoca, Klausenburg - 1864
-excerpt: Rohbock - Cluj-Napoca, Klausenburg - 1864
+description: "Miklós Bánffy (1873–1950): A polymath known as a writer, illustrator, and diplomat. He is the author of the famous Transylvanian Trilogy and lived in the..."
+excerpt: "Miklós Bánffy (1873–1950): A polymath known as a writer, illustrator, and diplomat. He is the author of the famous..."
 background: /img/posts/transylvania/2026-03-14-Rohbock - Cluj-Napoca, Klausenburg - 1864.jpg
 image: /img/posts/transylvania/2026-03-14-Rohbock - Cluj-Napoca, Klausenburg - 1864.jpg
 ---

@@ -4,8 +4,8 @@ title: Walachia - Michael Wolgemut - 1493
 date: 2025-04-06
 categories: ["wallachia"]
 tags: ["Wallachia"]
-description: Walachia - Michael Wolgemut - 1493
-excerpt: Walachia - Michael Wolgemut - 1493
+description: Page of the World Chronicle by the Nuremberg doctor and humanist Hartmann Schedel (1440-1514). On the verso there is a Latin text about Hungary. In the...
+excerpt: Page of the World Chronicle by the Nuremberg doctor and humanist Hartmann Schedel (1440-1514). On the verso there is a...
 background: /img/posts/wallachia/2025-04-06-Walachia - Michael Wolgemut - 1493 - 1.jpg
 image: /img/posts/wallachia/2025-04-06-Walachia - Michael Wolgemut - 1493 - 1.jpg
 ---

@@ -4,8 +4,8 @@ title: Transylvania - Blaeu - 1635
 date: 2025-04-13
 categories: ["transylvania"]
 tags: ["Transylvania"]
-description: Transylvania - Blaeu - 1635
-excerpt: Transylvania - Blaeu - 1635
+description: Willem Jansz. Blaeu and his son Joan Blaeu are the most widely known cartographic publishers of the seventeenth century. Willem Jansz. (also written...
+excerpt: Willem Jansz. Blaeu and his son Joan Blaeu are the most widely known cartographic publishers of the seventeenth...
 background: /img/posts/transylvania/Transylvania_Blaeu.jpg
 image: /img/posts/transylvania/Transylvania_Blaeu.jpg
 ---

@@ -4,8 +4,8 @@ title: Transylvania - Weigel - Schneider - 1790
 date: 2025-05-11
 categories: ["transylvania"]
 tags: ["Transylvania", "Bukovina", "Moldova", "Wallachia", "Banat"]
-description: Transylvania - Weigel - Schneider - 1790
-excerpt: Transylvania - Weigel - Schneider - 1790
+description: Map of all war incidents between the combined Austro-Russian and Turkish armies in 1788. Based on the best maps, drawings, and the Vienna Court reports,...
+excerpt: Map of all war incidents between the combined Austro-Russian and Turkish armies in 1788. Based on the best maps,...
 background: /img/posts/transylvania/2025-05-11-Transylvania - Weigel - Schneider - 1790.jpg
 image: /img/posts/transylvania/2025-05-11-Transylvania - Weigel - Schneider - 1790.jpg
 ---

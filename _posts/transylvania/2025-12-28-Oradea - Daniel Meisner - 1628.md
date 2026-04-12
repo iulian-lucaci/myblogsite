@@ -4,8 +4,8 @@ title: Oradea - Daniel Meisner - 1628
 date: 2025-12-28
 categories: ["transylvania"]
 tags: ["Transylvania"]
-description: Oradea - Daniel Meisner - 1628
-excerpt: Oradea - Daniel Meisner - 1628
+description: "Translation: GENS DEDITA CHRISTO Dedita gens Chrifto bona tantum curat amatge Das Volck welches dem Berrer Shrift Sewidmet und ergeben ist Cælica, et ardenti..."
+excerpt: "Translation: GENS DEDITA CHRISTO Dedita gens Chrifto bona tantum curat amatge Das Volck welches dem Berrer Shrift..."
 background: /img/posts/transylvania/2025-12-28-Oradea - Daniel Meisner - 1628.jpg
 image: /img/posts/transylvania/2025-12-28-Oradea - Daniel Meisner - 1628.jpg
 ---

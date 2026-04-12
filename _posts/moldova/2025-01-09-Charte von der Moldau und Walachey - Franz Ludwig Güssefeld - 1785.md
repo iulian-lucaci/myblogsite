@@ -4,8 +4,8 @@ title: Charte von der Moldau und Walachey - Franz Ludwig Güssefeld - 1785
 date: 2025-01-09
 categories: ["moldova"]
 tags: ["Bukovina", "Moldova", "Wallachia"]
-description: Charte von der Moldau und Walachey - Franz Ludwig Güssefeld - 1785
-excerpt: Charte von der Moldau und Walachey - Franz Ludwig Güssefeld - 1785
+description: Charte von de Moldau und Walachey nach den Astronomischen Beobachtungen des Russiseh Kaiserl Majors Jslenief und denen Charten und Beschreibungde H. Hauptm....
+excerpt: Charte von de Moldau und Walachey nach den Astronomischen Beobachtungen des Russiseh Kaiserl Majors Jslenief und denen...
 background: /img/posts/Gussefeld_Moldova.jpg
 image: /img/posts/Gussefeld_Moldova.jpg
 ---

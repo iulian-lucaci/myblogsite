@@ -4,8 +4,8 @@ title: Principatus Transilvaniae - Johann Baptist Homann - 1716
 date: 2025-01-10
 categories: ["transylvania"]
 tags: ["Transylvania"]
-description: Principatus Transilvaniae - Johann Baptist Homann - 1716
-excerpt: Principatus Transilvaniae - Johann Baptist Homann - 1716
+description: Benevole Spectaror adverte, Transylvaniam ex diversis Nationibus, Religione et lingua inter se differentibus consister, quarum quae Status Provinciae...
+excerpt: Benevole Spectaror adverte, Transylvaniam ex diversis Nationibus, Religione et lingua inter se differentibus...
 background: /img/posts/transylvania/Transylvania_Homann.jpg
 image: /img/posts/transylvania/Transylvania_Homann.jpg
 ---

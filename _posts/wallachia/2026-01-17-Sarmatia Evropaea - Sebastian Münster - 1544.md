@@ -4,8 +4,8 @@ title: Sarmatia Evropaea - Sebastian Münster - 1544
 date: 2026-01-17
 categories: ["wallachia", "moldova", "transylvania", "bessarabia", "danube", "banat", "dobrogea"]
 tags: ["Wallachia", "Moldova", "Transylvania", "Bessarabia", "Danube", "Banat", "Dobrogea"]
-description: Sarmatia Evropaea - Sebastian Münster - 1544
-excerpt: Sarmatia Evropaea - Sebastian Münster - 1544
+description: "This woodcut map from Sebastian Münster's landmark geographical work, Cosmographia, provides a detailed view of Eastern Europe. Titled in German, the print..."
+excerpt: "This woodcut map from Sebastian Münster's landmark geographical work, Cosmographia, provides a detailed view of..."
 background: /img/posts/wallachia/2026-01-17-Sarmatia Evropaea - Sebastian Münster - 1544 - 1.jpg
 image: /img/posts/wallachia/2026-01-17-Sarmatia Evropaea - Sebastian Münster - 1544 - 1.jpg
 ---

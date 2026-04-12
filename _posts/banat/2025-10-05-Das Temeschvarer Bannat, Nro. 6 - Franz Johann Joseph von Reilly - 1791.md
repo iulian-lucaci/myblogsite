@@ -4,8 +4,8 @@ title: Das Temeschvarer Bannat, Nro. 6 - Franz Johann Joseph von Reilly - 1791
 date: 2025-10-05
 categories: ["banat"]
 tags: ["Banat", "Danube"]
-description: Das Temeschvarer Bannat, Nro. 6 - Franz Johann Joseph von Reilly - 1791
-excerpt: Das Temeschvarer Bannat, Nro. 6 - Franz Johann Joseph von Reilly - 1791
+description: "The Temeschvar Bannat. No. 6. Colored copperplate map from Reilly's \"Schauplatz der fünf Teile der Welt\" (Scene of the Five Parts of the World). Vienna 1791..."
+excerpt: "The Temeschvar Bannat. No. 6. Colored copperplate map from Reilly's \"Schauplatz der fünf Teile der Welt\" (Scene of the..."
 background: /img/posts/banat/2025-10-05-Das Temeschvarer Bannat, Nro. 6 - Franz Johann Joseph von Reilly - 1791.jpg
 image: /img/posts/banat/2025-10-05-Das Temeschvarer Bannat, Nro. 6 - Franz Johann Joseph von Reilly - 1791.jpg
 ---

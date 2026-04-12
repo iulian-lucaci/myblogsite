@@ -4,8 +4,8 @@ title: Bemerkungen über die russische Note - Von einem Moldauer - 1848
 date: 2025-11-01
 categories: ["moldova", "wallachia"]
 tags: ["Moldova", "Wallachia"]
-description: Bemerkungen über die russische Note - Von einem Moldauer - 1848
-excerpt: Bemerkungen über die russische Note - Von einem Moldauer - 1848
+description: Remarks on the Russian note of 19/31 July 1848 regarding intervention in the Romanian Danubian Principalities.By a Moldavian
+excerpt: Remarks on the Russian note of 19/31 July 1848 regarding intervention in the Romanian Danubian Principalities.By a...
 background: /img/posts/moldova/2025-11-01-Bemerkungen über die russische Note - Von einem Moldauer - 1848.jpg
 image: /img/posts/moldova/2025-11-01-Bemerkungen über die russische Note - Von einem Moldauer - 1848.jpg
 ---

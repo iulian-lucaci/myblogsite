@@ -4,8 +4,8 @@ title: Das Fürstenthum Walachey, Nro. 13 - Franz Johann Joseph von Reilly - 179
 date: 2024-12-26
 categories: ["wallachia"]
 tags: ["Danube", "Wallachia"]
-description: Das Fürstenthum Walachey, Nro. 13 - Franz Johann Joseph von Reilly - 1790
-excerpt: Das Fürstenthum Walachey, Nro. 13 - Franz Johann Joseph von Reilly - 1790
+description: "Map of Wallachia, copper engraving with nice old color, published in Vienna in 1790 in \"Schauplatz der funf Theile der Welt,\" Franz Johann Joseph von Reilly...."
+excerpt: "Map of Wallachia, copper engraving with nice old color, published in Vienna in 1790 in \"Schauplatz der funf Theile der..."
 background: /img/posts/Reilly_Wallachia.jpg
 image: /img/posts/Reilly_Wallachia.jpg
 ---

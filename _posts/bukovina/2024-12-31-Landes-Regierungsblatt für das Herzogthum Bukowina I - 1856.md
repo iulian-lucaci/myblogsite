@@ -4,8 +4,8 @@ title: Landes-Regierungsblatt für das Herzogthum Bukowina I, 1856
 date: 2024-12-31
 categories: ["bukovina"]
 tags: ["Bukovina"]
-description: Landes-Regierungsblatt für das Herzogthum Bukowina I, 1856
-excerpt: Landes-Regierungsblatt für das Herzogthum Bukowina I, 1856
+description: Official collection of the laws published in German and Romania languages. Includes Treaty of Paris, signed on 30.04.1856 at the Congress of Paris after the...
+excerpt: Official collection of the laws published in German and Romania languages. Includes Treaty of Paris, signed on...
 background: /img/posts/2023-10-08_001080-4.jpg
 image: /img/posts/2023-10-08_001080-4.jpg
 ---

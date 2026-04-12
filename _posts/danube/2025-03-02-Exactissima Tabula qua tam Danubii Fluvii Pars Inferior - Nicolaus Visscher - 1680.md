@@ -4,8 +4,8 @@ title: Exactissima Tabula qua tam Danubii Fluvii Pars Inferior - Nicolaus Vissch
 date: 2025-03-02
 categories: ["danube"]
 tags: ["Banat", "Bessarabia", "Danube", "Dobrogea", "Moldova", "Transylvania", "Wallachia"]
-description: Exactissima Tabula qua tam Danubii Fluvii Pars Inferior - Nicolaus Visscher - 1680
-excerpt: Exactissima Tabula qua tam Danubii Fluvii Pars Inferior - Nicolaus Visscher - 1680
+description: Detailed map of the inferior course of the Danube River from Belgrad to Black Sea
+excerpt: Detailed map of the inferior course of the Danube River from Belgrad to Black Sea
 background: /img/posts/danube/2025-03-02-Exactissima Tabula qua tam Danubii Fluvii Pars Inferior - Nicolaus Visscher - 1680.jpg
 image: /img/posts/danube/2025-03-02-Exactissima Tabula qua tam Danubii Fluvii Pars Inferior - Nicolaus Visscher - 1680.jpg
 ---

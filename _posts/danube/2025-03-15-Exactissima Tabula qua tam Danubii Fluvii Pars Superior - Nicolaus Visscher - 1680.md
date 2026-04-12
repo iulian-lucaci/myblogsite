@@ -4,8 +4,8 @@ title: Exactissima Tabula qua tam Danubii Fluvii Pars Superior - Nicolaus Vissch
 date: 2025-03-15
 categories: ["danube"]
 tags: ["Banat", "Danube", "Transylvania", "Wallachia"]
-description: Exactissima Tabula qua tam Danubii Fluvii Pars Superior - Nicolaus Visscher - 1680
-excerpt: Exactissima Tabula qua tam Danubii Fluvii Pars Superior - Nicolaus Visscher - 1680
+description: Detailed map of the superior course of the Danube River till Presburg (Bratislava)
+excerpt: Detailed map of the superior course of the Danube River till Presburg (Bratislava)
 background: /img/posts/danube/2025-03-15-Exactissima Tabula qua tam Danubii Fluvii Pars Superior - Nicolaus Visscher - 1680.jpg
 image: /img/posts/danube/2025-03-15-Exactissima Tabula qua tam Danubii Fluvii Pars Superior - Nicolaus Visscher - 1680.jpg
 ---

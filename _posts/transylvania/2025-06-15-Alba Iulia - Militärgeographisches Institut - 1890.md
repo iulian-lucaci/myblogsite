@@ -4,8 +4,8 @@ title: Alba Iulia - Militärgeographisches Institut - 1890
 date: 2025-06-15
 categories: ["transylvania"]
 tags: ["Transylvania"]
-description: Alba Iulia - Militärgeographisches Institut - 1890
-excerpt: Alba Iulia - Militärgeographisches Institut - 1890
+description: "Map of Alba Iulia (Karlsburg, Gyulafehérvár) and its surroundings, part of \"Specialkarte der K. u. K. Österreichisch-Ungarischen Monarchie\" printed by..."
+excerpt: "Map of Alba Iulia (Karlsburg, Gyulafehérvár) and its surroundings, part of \"Specialkarte der K. u. K...."
 background: /img/posts/transylvania/2025-06-15-Alba Iulia - Militärgeographisches Institut - 1890.jpg
 image: /img/posts/transylvania/2025-06-15-Alba Iulia - Militärgeographisches Institut - 1890.jpg
 ---

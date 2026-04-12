@@ -4,8 +4,8 @@ title: Varnita - Aubry de la Mottraye - 1727
 date: 2026-01-04
 categories: ["bessarabia"]
 tags: ["Bessarabia"]
-description: Varnita - Aubry de la Mottraye - 1727
-excerpt: Varnita - Aubry de la Mottraye - 1727
+description: "Source: Aubry de la Mottraye. Voyages du S.r A. de La Motraye, en Europe, Asie & Afrique. Où l’on trouve une grande varieté de Recherches géographiques,..."
+excerpt: "Source: Aubry de la Mottraye. Voyages du S.r A. de La Motraye, en Europe, Asie & Afrique. Où l’on trouve une grande..."
 background: /img/posts/bessarabia/2026-01-04-Varnita - Aubry de la Mottraye - 1727.jpg
 image: /img/posts/bessarabia/2026-01-04-Varnita - Aubry de la Mottraye - 1727.jpg
 ---

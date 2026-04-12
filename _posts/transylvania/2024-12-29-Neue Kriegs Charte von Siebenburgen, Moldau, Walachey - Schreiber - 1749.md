@@ -4,8 +4,8 @@ title: Neue Kriegs Charte von Siebenburgen, Moldau, Walachey - Johann Georg Schr
 date: 2024-12-29
 categories: ["transylvania"]
 tags: ["Banat", "Bessarabia", "Bukovina", "Dobrogea", "Moldova", "Transylvania", "Wallachia"]
-description: Neue Kriegs Charte von Siebenburgen, Moldau, Walachey - Johann Georg Schreiber - 1749
-excerpt: Neue Kriegs Charte von Siebenburgen, Moldau, Walachey - Johann Georg Schreiber - 1749
+description: "Original copper engraving with excellent and original watercolour, published in 1749 in Schreiber's atlas which bears the name of: \"ATLAS SELECTUS - Atlas..."
+excerpt: "Original copper engraving with excellent and original watercolour, published in 1749 in Schreiber's atlas which bears..."
 background: /img/posts/transylvania/Transylvania_Schreiber.jpg
 image: /img/posts/transylvania/Transylvania_Schreiber.jpg
 ---

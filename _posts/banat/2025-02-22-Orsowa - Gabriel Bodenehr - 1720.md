@@ -4,8 +4,8 @@ title: Orsowa - Gabriel Bodenehr - 1720
 date: 2025-02-22
 categories: ["banat"]
 tags: ["Banat", "Danube", "Wallachia"]
-description: Orsowa - Gabriel Bodenehr - 1720
-excerpt: Orsowa - Gabriel Bodenehr - 1720
+description: "Striking and highly detailed fine 1720 Gabriel Bodenehr's copper engraved map featuring an aerial plan of Orsova, also illustrating the Ada Kaleh island. The..."
+excerpt: "Striking and highly detailed fine 1720 Gabriel Bodenehr's copper engraved map featuring an aerial plan of Orsova, also..."
 background: /img/posts/banat/2025-02-22-Orsowa - Gabriel Bodenehr - 1720.jpg
 image: /img/posts/banat/2025-02-22-Orsowa - Gabriel Bodenehr - 1720.jpg
 ---

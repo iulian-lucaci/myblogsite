@@ -4,8 +4,8 @@ title: Bessarabia.Podolia.Lituania - Johannes Hoffmann - 1688
 date: 2026-03-08
 categories: ["bessarabia"]
 tags: ["Bessarabia"]
-description: Bessarabia.Podolia.Lituania - Johannes Hoffmann - 1688
-excerpt: Bessarabia.Podolia.Lituania - Johannes Hoffmann - 1688
+description: "Source: Die Donau, der Fürst aller Europaeischen Flüsse: Das ist: Eine genaue Darstellung Aller der um an der Donau gelegenen Königreiche, Fürtenthümer,..."
+excerpt: "Source: Die Donau, der Fürst aller Europaeischen Flüsse: Das ist: Eine genaue Darstellung Aller der um an der Donau..."
 background: /img/posts/bessarabia/2026-03-08-Bessarabia.Podolia.Lituania - Johannes Hoffmann - 1688.jpg
 image: /img/posts/bessarabia/2026-03-08-Bessarabia.Podolia.Lituania - Johannes Hoffmann - 1688.jpg
 ---

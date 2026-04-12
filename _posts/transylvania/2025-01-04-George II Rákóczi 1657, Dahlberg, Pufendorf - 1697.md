@@ -4,8 +4,8 @@ title: George II Rákóczi 1657, Erik Dahlberg, Jean Lepautre, Samuel von Pufend
 date: 2025-01-04
 categories: ["transylvania"]
 tags: ["Transylvania"]
-description: George II Rákóczi 1657, Erik Dahlberg, Jean Lepautre, Samuel von Pufendorf - 1697
-excerpt: George II Rákóczi 1657, Erik Dahlberg, Jean Lepautre, Samuel von Pufendorf - 1697
+description: Depiction of the encounter between the Prince of Transylvania, George II Rakoczi (1621-1660) and the Swedish King Karl X Gustav (1622-1660) on April 7th, 1657...
+excerpt: Depiction of the encounter between the Prince of Transylvania, George II Rakoczi (1621-1660) and the Swedish King Karl...
 background: /img/posts/transylvania/Rakoczi_Pufendorf.jpg
 image: /img/posts/transylvania/Rakoczi_Pufendorf.jpg
 ---

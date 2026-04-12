@@ -4,8 +4,8 @@ title: Europa religionis christianae morum et pacis ac belli artium cultu omnium
 date: 2026-02-21
 categories: ["europe"]
 tags: ["Europe", "Transylvania", "Wallachia", "Moldova", "Bessarabia", "Danube"]
-description: Europa religionis christianae morum et pacis ac belli artium cultu omnium terrarum orbis partium praestantiss - Tobias Conrad Lotter - 1740
-excerpt: Europa religionis christianae morum et pacis ac belli artium cultu omnium terrarum orbis partium praestantiss - Tobias Conrad Lotter - 1740
+description: "Title translation: \"Europe, the most excellent of all parts of the world by its cultivation of the Christian religion, good morals, and the arts of peace and..."
+excerpt: "Title translation: \"Europe, the most excellent of all parts of the world by its cultivation of the Christian religion,..."
 background: /img/posts/europe/2026-02-21-Europa religionis christianae morum et pacis ac belli artium cultu omnium terrarum orbis partium praestantiss - Tobias Conrad Lotter - 1740.jpg
 image: /img/posts/europe/2026-02-21-Europa religionis christianae morum et pacis ac belli artium cultu omnium terrarum orbis partium praestantiss - Tobias Conrad Lotter - 1740.jpg
 ---

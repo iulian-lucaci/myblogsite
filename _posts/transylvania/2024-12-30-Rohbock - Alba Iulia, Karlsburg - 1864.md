@@ -4,8 +4,8 @@ title: Rohbock - Alba Iulia, Karlsburg - 1864
 date: 2024-12-30
 categories: ["transylvania"]
 tags: ["Transylvania"]
-description: Rohbock - Alba Iulia, Karlsburg - 1864
-excerpt: Rohbock - Alba Iulia, Karlsburg - 1864
+description: "Old lithography signed by Ludwig Rohbock and Johann Poppel and included in \"Ungarn und Siebenbürgen in malerischen Original-Ansichten\", Gustav Georg Lange,..."
+excerpt: "Old lithography signed by Ludwig Rohbock and Johann Poppel and included in \"Ungarn und Siebenbürgen in malerischen..."
 background: /img/posts/transylvania/AlbaIulia.jpg
 image: /img/posts/transylvania/AlbaIulia.jpg
 ---

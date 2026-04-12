@@ -4,8 +4,8 @@ title: Map of Expeditions made by Gen. Weissman in 1771 against Tulcea - Pierre 
 date: 2025-01-11
 categories: ["dobrogea"]
 tags: ["Dobrogea"]
-description: Map of Expeditions made by Gen. Weissman in 1771 against Tulcea - Pierre François Tardieu - 1783
-excerpt: Map of Expeditions made by Gen. Weissman in 1771 against Tulcea - Pierre François Tardieu - 1783
+description: "It was published in the \"Histoire physique, morale, civile et politique de la Russie Ancienne\" by N. G. Le Clerc, Paris 1783."
+excerpt: "It was published in the \"Histoire physique, morale, civile et politique de la Russie Ancienne\" by N. G. Le Clerc,..."
 background: /img/posts/Tardieu_Tulcea.jpg
 image: /img/posts/Tardieu_Tulcea.jpg
 ---
