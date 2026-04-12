@@ -1,10 +1,14 @@
 ---
+layout: post
 title: "Rohbock - Șiria, Vilagos - 1864"
 date: 2026-04-12
 categories: [transylvania]
 tags: [Transylvania]
-layout: post
+description: "A historic Rohbock lithograph showing the castle and village of Șiria, published in 1864."
+excerpt: "A 19th-century lithograph of Șiria fortress and Vilagos village, highlighting Transylvania's historic landscape."
 background: '/img/posts/transylvania/2026-04-12-Rohbock - Șiria, Vilagos - 1864.jpg'
+image: "/img/posts/transylvania/2026-04-12-Rohbock - Șiria, Vilagos - 1864.jpg"
+
 ---
 <img src="/img/posts/transylvania/2026-04-12-Rohbock - Șiria, Vilagos - 1864.jpg" alt="Rohbock - Șiria, Vilagos - 1864" width="1280" height="1024">
 #### Title ####
