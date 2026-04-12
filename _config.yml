@@ -1,9 +1,11 @@
 title:              Old Prints about Romania
 email:              iulianl2000@gmail.com
-description:        A Blog Theme by Start Bootstrap
+description:        Old maps, prints and historical cartography of Romania and Eastern Europe.
 author:             Iulian Lucaci
 baseurl:            "/myblogsite"
 url:                "https://transylvaniadigitalantiques.com"
+lang:               en
+locale:             en_US
 
 # Social Profiles
 twitter_username:   SBootstrap
