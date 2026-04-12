@@ -1,11 +1,15 @@
 ---
-title: "Transsylvania Siebenbürg - Sebastian Münster - 1544"
-date: 2026-01-24
-categories: [transylvania]
-tags: [Transylvania]
 layout: post
-background: '/img/posts/transylvania/2026-01-24-Transsylvania Siebenbürg - Sebastian Münster - 1544 - 1.jpg'
+title: Transsylvania Siebenbürg - Sebastian Münster - 1544
+date: 2026-01-24
+categories: ["transylvania"]
+tags: ["Transylvania"]
+description: Transsylvania Siebenbürg - Sebastian Münster - 1544
+excerpt: Transsylvania Siebenbürg - Sebastian Münster - 1544
+background: /img/posts/transylvania/2026-01-24-Transsylvania Siebenbürg - Sebastian Münster - 1544 - 1.jpg
+image: /img/posts/transylvania/2026-01-24-Transsylvania Siebenbürg - Sebastian Münster - 1544 - 1.jpg
 ---
+
 <img src="/img/posts/transylvania/2026-01-24-Transsylvania Siebenbürg - Sebastian Münster - 1544 - 2.jpg" alt="2026-01-24-Transsylvania Siebenbürg - Sebastian Münster - 1544" width="1280" height="1024">
 #### Title ####
 Transsylvania Siebenbürg - Sebastian Münster - 1544

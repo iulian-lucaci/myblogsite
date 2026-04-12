@@ -1,11 +1,15 @@
 ---
-title: "Allegemeines Landes-Gesetz-und Regierungsblatt für für das Herzogthum Bukowina - 1851"
-date: 2025-01-01
-categories: [bukovina]
-tags: [Bukovina]
 layout: post
-background: '/img/posts/Bukowina1851 (3).jpg'
+title: Allegemeines Landes-Gesetz-und Regierungsblatt für für das Herzogthum Bukowina - 1851
+date: 2025-01-01
+categories: ["bukovina"]
+tags: ["Bukovina"]
+description: Allegemeines Landes-Gesetz-und Regierungsblatt für für das Herzogthum Bukowina - 1851
+excerpt: Allegemeines Landes-Gesetz-und Regierungsblatt für für das Herzogthum Bukowina - 1851
+background: /img/posts/Bukowina1851 (3).jpg
+image: /img/posts/Bukowina1851 (3).jpg
 ---
+
 ![Map](/img/posts/Bukowina1851 (3).jpg "Map")
 #### Title ####
 Allegemeines Landes-Gesetz-und Regierungsblatt für Herzogthum Bukowina  Jahrgang 1851 / Foaia generala a legilor si a guvernului tarii pentru Ducatul Bucovina pe intregul an 1851

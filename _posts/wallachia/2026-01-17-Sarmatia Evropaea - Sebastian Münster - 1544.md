@@ -1,11 +1,15 @@
 ---
-title: "Sarmatia Evropaea - Sebastian Münster - 1544"
-date: 2026-01-17
-categories: [wallachia, moldova, transylvania, bessarabia, danube, banat, dobrogea]
-tags: [Wallachia, Moldova, Transylvania, Bessarabia, Danube, Banat, Dobrogea]
 layout: post
-background: '/img/posts/wallachia/2026-01-17-Sarmatia Evropaea - Sebastian Münster - 1544 - 1.jpg'
+title: Sarmatia Evropaea - Sebastian Münster - 1544
+date: 2026-01-17
+categories: ["wallachia", "moldova", "transylvania", "bessarabia", "danube", "banat", "dobrogea"]
+tags: ["Wallachia", "Moldova", "Transylvania", "Bessarabia", "Danube", "Banat", "Dobrogea"]
+description: Sarmatia Evropaea - Sebastian Münster - 1544
+excerpt: Sarmatia Evropaea - Sebastian Münster - 1544
+background: /img/posts/wallachia/2026-01-17-Sarmatia Evropaea - Sebastian Münster - 1544 - 1.jpg
+image: /img/posts/wallachia/2026-01-17-Sarmatia Evropaea - Sebastian Münster - 1544 - 1.jpg
 ---
+
 <img src="/img/posts/wallachia/2026-01-17-Sarmatia Evropaea - Sebastian Münster - 1544 - 2.jpg" alt="2026-01-17-Sarmatia Evropaea - Sebastian Münster - 1544" width="1280" height="1024">
 #### Title ####
 Sarmatia Evropaea - Sebastian Münster - 1544

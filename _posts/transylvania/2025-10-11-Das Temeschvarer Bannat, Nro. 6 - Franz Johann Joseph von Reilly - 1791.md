@@ -1,11 +1,15 @@
 ---
-title: "Das Grossfürstenthum Siebenbürgen. Nro. 7 - Franz Johann Joseph von Reilly - 1791"
-date: 2025-10-11
-categories: [transylvania]
-tags: [Transylvania]
 layout: post
-background: '/img/posts/transylvania/2025-10-11-Das Grossfürstenthum Siebenbürgen. Nro. 7 - Franz Johann Joseph von Reilly - 1791.jpg'
+title: Das Grossfürstenthum Siebenbürgen. Nro. 7 - Franz Johann Joseph von Reilly - 1791
+date: 2025-10-11
+categories: ["transylvania"]
+tags: ["Transylvania"]
+description: Das Grossfürstenthum Siebenbürgen. Nro. 7 - Franz Johann Joseph von Reilly - 1791
+excerpt: Das Grossfürstenthum Siebenbürgen. Nro. 7 - Franz Johann Joseph von Reilly - 1791
+background: /img/posts/transylvania/2025-10-11-Das Grossfürstenthum Siebenbürgen. Nro. 7 - Franz Johann Joseph von Reilly - 1791.jpg
+image: /img/posts/transylvania/2025-10-11-Das Grossfürstenthum Siebenbürgen. Nro. 7 - Franz Johann Joseph von Reilly - 1791.jpg
 ---
+
 <img src="/img/posts/transylvania/2025-10-11-Das Grossfürstenthum Siebenbürgen. Nro. 7 - Franz Johann Joseph von Reilly - 1791.jpg" alt="Das Grossfürstenthum Siebenbürgen. Nro. 7, Franz Johann Joseph von Reilly" width="1280" height="1024">
 #### Title ####
 Das Grossfürstenthum Siebenbürgen. Nro. 7 - Franz Johann Joseph von Reilly - 1791

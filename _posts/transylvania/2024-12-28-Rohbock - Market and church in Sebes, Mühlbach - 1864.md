@@ -1,11 +1,15 @@
 ---
-title: "Rohbock - Market and church in Sebes, Mühlbach - 1864"
-date: 2024-12-28
-categories: [transylvania]
-tags: [Transylvania]
 layout: post
-background: '/img/posts/transylvania/Sebes_Markt.jpg'
+title: Rohbock - Market and church in Sebes, Mühlbach - 1864
+date: 2024-12-28
+categories: ["transylvania"]
+tags: ["Transylvania"]
+description: Rohbock - Market and church in Sebes, Mühlbach - 1864
+excerpt: Rohbock - Market and church in Sebes, Mühlbach - 1864
+background: /img/posts/transylvania/Sebes_Markt.jpg
+image: /img/posts/transylvania/Sebes_Markt.jpg
 ---
+
 ![Map](/img/posts/transylvania/Sebes_Markt.jpg "Map")
 #### Title ####
 Rohbock - Market and church in Sebes, Mühlbach - 1864

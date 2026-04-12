@@ -1,11 +1,15 @@
 ---
-title: "Varnita - Aubry de la Mottraye - 1727"
-date: 2026-01-04
-categories: [bessarabia]
-tags: [Bessarabia]
 layout: post
-background: '/img/posts/bessarabia/2026-01-04-Varnita - Aubry de la Mottraye - 1727.jpg'
+title: Varnita - Aubry de la Mottraye - 1727
+date: 2026-01-04
+categories: ["bessarabia"]
+tags: ["Bessarabia"]
+description: Varnita - Aubry de la Mottraye - 1727
+excerpt: Varnita - Aubry de la Mottraye - 1727
+background: /img/posts/bessarabia/2026-01-04-Varnita - Aubry de la Mottraye - 1727.jpg
+image: /img/posts/bessarabia/2026-01-04-Varnita - Aubry de la Mottraye - 1727.jpg
 ---
+
 <img src="/img/posts/bessarabia/2026-01-04-Varnita - Aubry de la Mottraye - 1727.jpg" alt="2026-01-04-Varnita - Aubry de la Mottraye - 1727" width="1280" height="1024">
 #### Title ####
 Warnitza where H.S.M. fought against the Turks & was taken Prisonzer the 1st of Febr. 1713 = Ou S. M. Se battit contre les Turcs le 1er de Fevrier de 1713.

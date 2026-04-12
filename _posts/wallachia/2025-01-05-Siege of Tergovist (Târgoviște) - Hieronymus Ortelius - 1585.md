@@ -1,11 +1,15 @@
 ---
-title: "Siege of Tergovist (Târgoviște) 1595 - Hieronymus Ortelius - 1602"
-date: 2025-01-05
-categories: [wallachia]
-tags: [Wallachia]
 layout: post
-background: '/img/posts/Targoviste_Ortelius.jpg'
+title: Siege of Tergovist (Târgoviște) 1595 - Hieronymus Ortelius - 1602
+date: 2025-01-05
+categories: ["wallachia"]
+tags: ["Wallachia"]
+description: Siege of Tergovist (Târgoviște) 1595 - Hieronymus Ortelius - 1602
+excerpt: Siege of Tergovist (Târgoviște) 1595 - Hieronymus Ortelius - 1602
+background: /img/posts/Targoviste_Ortelius.jpg
+image: /img/posts/Targoviste_Ortelius.jpg
 ---
+
 ![Map](/img/posts/Targoviste_Ortelius.jpg "Map")
 #### Title ####
 Siege of Tergovist (Târgoviște) 1595 - Hieronymus Ortelius - 1602

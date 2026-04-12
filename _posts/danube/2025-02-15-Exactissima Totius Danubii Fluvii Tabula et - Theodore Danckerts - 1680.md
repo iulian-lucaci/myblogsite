@@ -1,11 +1,15 @@
 ---
-title: "Exactissima Totius Danubii Fluvii Tabula et - Theodore Danckerts - 1680"
-date: 2025-02-15
-categories: [danube]
-tags: [Banat, Bessarabia, Danube, Dobrogea, Moldova, Transylvania, Wallachia]
 layout: post
-background: '/img/posts/danube/2025-02-15-Exactissima Totius Danubii Fluvii Tabula et - Theodore Danckerts - 1680.jpg'
+title: Exactissima Totius Danubii Fluvii Tabula et - Theodore Danckerts - 1680
+date: 2025-02-15
+categories: ["danube"]
+tags: ["Banat", "Bessarabia", "Danube", "Dobrogea", "Moldova", "Transylvania", "Wallachia"]
+description: Exactissima Totius Danubii Fluvii Tabula et - Theodore Danckerts - 1680
+excerpt: Exactissima Totius Danubii Fluvii Tabula et - Theodore Danckerts - 1680
+background: /img/posts/danube/2025-02-15-Exactissima Totius Danubii Fluvii Tabula et - Theodore Danckerts - 1680.jpg
+image: /img/posts/danube/2025-02-15-Exactissima Totius Danubii Fluvii Tabula et - Theodore Danckerts - 1680.jpg
 ---
+
 ![Map](/img/posts/danube/2025-02-15-Exactissima Totius Danubii Fluvii Tabula et - Theodore Danckerts - 1680.jpg "Map")
 #### Title ####
 Exactissima Totius Danubii Fluvii Tabula et - Theodore Danckerts - 1680

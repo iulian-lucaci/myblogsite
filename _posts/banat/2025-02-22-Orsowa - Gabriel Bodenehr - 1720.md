@@ -1,11 +1,15 @@
 ---
-title: "Orsowa - Gabriel Bodenehr - 1720"
-date: 2025-02-22
-categories: [banat]
-tags: [Banat, Danube, Wallachia]
 layout: post
-background: '/img/posts/banat/2025-02-22-Orsowa - Gabriel Bodenehr - 1720.jpg'
+title: Orsowa - Gabriel Bodenehr - 1720
+date: 2025-02-22
+categories: ["banat"]
+tags: ["Banat", "Danube", "Wallachia"]
+description: Orsowa - Gabriel Bodenehr - 1720
+excerpt: Orsowa - Gabriel Bodenehr - 1720
+background: /img/posts/banat/2025-02-22-Orsowa - Gabriel Bodenehr - 1720.jpg
+image: /img/posts/banat/2025-02-22-Orsowa - Gabriel Bodenehr - 1720.jpg
 ---
+
 ![Map](/img/posts/banat/2025-02-22-Orsowa - Gabriel Bodenehr - 1720.jpg "Map")
 #### Title ####
 Orsowa - Gabriel Bodenehr - 1720

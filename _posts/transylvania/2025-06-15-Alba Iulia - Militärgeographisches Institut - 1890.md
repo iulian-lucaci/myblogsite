@@ -1,11 +1,15 @@
 ---
-title: "Alba Iulia - Militärgeographisches Institut - 1890"
-date: 2025-06-15
-categories: [transylvania]
-tags: [Transylvania]
 layout: post
-background: '/img/posts/transylvania/2025-06-15-Alba Iulia - Militärgeographisches Institut - 1890.jpg'
+title: Alba Iulia - Militärgeographisches Institut - 1890
+date: 2025-06-15
+categories: ["transylvania"]
+tags: ["Transylvania"]
+description: Alba Iulia - Militärgeographisches Institut - 1890
+excerpt: Alba Iulia - Militärgeographisches Institut - 1890
+background: /img/posts/transylvania/2025-06-15-Alba Iulia - Militärgeographisches Institut - 1890.jpg
+image: /img/posts/transylvania/2025-06-15-Alba Iulia - Militärgeographisches Institut - 1890.jpg
 ---
+
 ![Map](/img/posts/transylvania/2025-06-15-Alba Iulia - Militärgeographisches Institut - 1890.jpg "Map")
 #### Title ####
 Karlsburg ZONE 21 COL. XXIX

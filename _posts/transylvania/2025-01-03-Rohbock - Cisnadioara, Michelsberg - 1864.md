@@ -1,11 +1,15 @@
 ---
-title: "Rohbock - Cisnadioara, Michelsberg - 1864"
-date: 2025-01-03
-categories: [transylvania]
-tags: [Transylvania]
 layout: post
-background: '/img/posts/transylvania/Cisnadioara.jpg'
+title: Rohbock - Cisnadioara, Michelsberg - 1864
+date: 2025-01-03
+categories: ["transylvania"]
+tags: ["Transylvania"]
+description: Rohbock - Cisnadioara, Michelsberg - 1864
+excerpt: Rohbock - Cisnadioara, Michelsberg - 1864
+background: /img/posts/transylvania/Cisnadioara.jpg
+image: /img/posts/transylvania/Cisnadioara.jpg
 ---
+
 ![Map](/img/posts/transylvania/Cisnadioara.jpg "Map")
 #### Title ####
 Rohbock - Cisnadioara, Michelsberg - 1864

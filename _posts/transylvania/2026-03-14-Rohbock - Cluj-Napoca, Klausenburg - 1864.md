@@ -1,11 +1,15 @@
 ---
-title: "Rohbock - Cluj-Napoca, Klausenburg - 1864"
-date: 2026-03-14
-categories: [transylvania]
-tags: [Transylvania]
 layout: post
-background: '/img/posts/transylvania/2026-03-14-Rohbock - Cluj-Napoca, Klausenburg - 1864.jpg'
+title: Rohbock - Cluj-Napoca, Klausenburg - 1864
+date: 2026-03-14
+categories: ["transylvania"]
+tags: ["Transylvania"]
+description: Rohbock - Cluj-Napoca, Klausenburg - 1864
+excerpt: Rohbock - Cluj-Napoca, Klausenburg - 1864
+background: /img/posts/transylvania/2026-03-14-Rohbock - Cluj-Napoca, Klausenburg - 1864.jpg
+image: /img/posts/transylvania/2026-03-14-Rohbock - Cluj-Napoca, Klausenburg - 1864.jpg
 ---
+
 <img src="/img/posts/transylvania/2026-03-14-Rohbock - Cluj-Napoca, Klausenburg - 1864.jpg" alt="Rohbock - Cluj-Napoca, Klausenburg - 1864" width="1280" height="1024">
 #### Title ####
 Rohbock - Cluj-Napoca, Klausenburg - 1864

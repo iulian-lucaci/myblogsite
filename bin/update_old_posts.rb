@@ -23,7 +23,7 @@ Dir.glob(File.join(POSTS_DIR, '**', '*.md')).sort.each do |path|
   body = parts[2..-1].join("---\n")
 
   begin
-    front_matter = YAML.safe_load(raw_front_matter) || {}
+    front_matter = YAML.safe_load(raw_front_matter, permitted_classes: [Date, Time]) || {}
   rescue Psych::SyntaxError => e
     warn "Skipping #{path}: YAML syntax error - #{e.message}"
     next

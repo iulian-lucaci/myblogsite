@@ -1,11 +1,15 @@
 ---
-title: "Karte von Rumänien - Gustav Freytag - 1916"
-date: 2026-03-01
-categories: [romania]
-tags: [Romania, Transylvania, Wallachia, Moldova, Bessarabia, Danube]
 layout: post
-background: '/img/posts/romania/2026-03-01-Karte von Rumänien - Gustav Freytag - 1916 - 1.jpg'
+title: Karte von Rumänien - Gustav Freytag - 1916
+date: 2026-03-01
+categories: ["romania"]
+tags: ["Romania", "Transylvania", "Wallachia", "Moldova", "Bessarabia", "Danube"]
+description: Karte von Rumänien - Gustav Freytag - 1916
+excerpt: Karte von Rumänien - Gustav Freytag - 1916
+background: /img/posts/romania/2026-03-01-Karte von Rumänien - Gustav Freytag - 1916 - 1.jpg
+image: /img/posts/romania/2026-03-01-Karte von Rumänien - Gustav Freytag - 1916 - 1.jpg
 ---
+
 <img src="/img/posts/romania/2026-03-01-Karte von Rumänien - Gustav Freytag - 1916 - 2.jpg" alt="Karte von Rumänien - Gustav Freytag - 1916" width="1280" height="1024">
 #### Title ####
 Karte von Rumänien

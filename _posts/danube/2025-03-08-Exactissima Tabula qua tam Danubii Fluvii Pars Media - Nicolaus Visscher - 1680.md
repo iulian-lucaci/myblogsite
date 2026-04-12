@@ -1,11 +1,15 @@
 ---
-title: "Exactissima Tabula qua tam Danubii Fluvii Pars Media - Nicolaus Visscher - 1680"
-date: 2025-03-08
-categories: [danube]
-tags: [Banat, Danube, Transylvania, Wallachia]
 layout: post
-background: '/img/posts/danube/2025-03-08-Exactissima Tabula qua tam Danubii Fluvii Pars Media - Nicolaus Visscher - 1680.jpg'
+title: Exactissima Tabula qua tam Danubii Fluvii Pars Media - Nicolaus Visscher - 1680
+date: 2025-03-08
+categories: ["danube"]
+tags: ["Banat", "Danube", "Transylvania", "Wallachia"]
+description: Exactissima Tabula qua tam Danubii Fluvii Pars Media - Nicolaus Visscher - 1680
+excerpt: Exactissima Tabula qua tam Danubii Fluvii Pars Media - Nicolaus Visscher - 1680
+background: /img/posts/danube/2025-03-08-Exactissima Tabula qua tam Danubii Fluvii Pars Media - Nicolaus Visscher - 1680.jpg
+image: /img/posts/danube/2025-03-08-Exactissima Tabula qua tam Danubii Fluvii Pars Media - Nicolaus Visscher - 1680.jpg
 ---
+
 ![Map](/img/posts/danube/2025-03-08-Exactissima Tabula qua tam Danubii Fluvii Pars Media - Nicolaus Visscher - 1680.jpg "Map")
 #### Title ####
 Exactissima tabula, qua tam Danubii fluvii pars media, ab urbe Lentiæ ad Bydenam urbem, et minores in eum influentes fluvii, quam regiones adjacentes ut Hungaria, Slavonia, Croatia, Bosnia, Dalmatia, Servia, nec non Germaniæ, Poloniæ, et Græciæ confinia ostenduntur :  / per Nicolaum Visscher

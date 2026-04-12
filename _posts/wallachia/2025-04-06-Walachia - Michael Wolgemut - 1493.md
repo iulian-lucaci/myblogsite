@@ -1,11 +1,15 @@
 ---
-title: "Walachia - Michael Wolgemut - 1493"
-date: 2025-04-06
-categories: [wallachia]
-tags: [Wallachia]
 layout: post
-background: '/img/posts/wallachia/2025-04-06-Walachia - Michael Wolgemut - 1493 - 1.jpg'
+title: Walachia - Michael Wolgemut - 1493
+date: 2025-04-06
+categories: ["wallachia"]
+tags: ["Wallachia"]
+description: Walachia - Michael Wolgemut - 1493
+excerpt: Walachia - Michael Wolgemut - 1493
+background: /img/posts/wallachia/2025-04-06-Walachia - Michael Wolgemut - 1493 - 1.jpg
+image: /img/posts/wallachia/2025-04-06-Walachia - Michael Wolgemut - 1493 - 1.jpg
 ---
+
 ![Map](/img/posts/wallachia/2025-04-06-Walachia - Michael Wolgemut - 1493 - 1.jpg "Map")
 ![Map](/img/posts/wallachia/2025-04-06-Walachia - Michael Wolgemut - 1493 - 2.jpg "Map")
 #### Title ####

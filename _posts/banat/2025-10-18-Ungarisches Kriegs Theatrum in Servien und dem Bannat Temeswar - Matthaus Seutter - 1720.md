@@ -1,11 +1,15 @@
 ---
-title: "Ungarisches Kriegs Theatrum in Servien und dem Bannat Temeswar - Matthaus Seutter - 1720"
-date: 2025-10-18
-categories: [banat]
-tags: [Banat, Danube]
 layout: post
-background: '/img/posts/banat/2025-10-18-Ungarisches Kriegs Theatrum in Servien und dem Bannat Temeswar - Matthaus Seutter - 1720.jpg'
+title: Ungarisches Kriegs Theatrum in Servien und dem Bannat Temeswar - Matthaus Seutter - 1720
+date: 2025-10-18
+categories: ["banat"]
+tags: ["Banat", "Danube"]
+description: Ungarisches Kriegs Theatrum in Servien und dem Bannat Temeswar - Matthaus Seutter - 1720
+excerpt: Ungarisches Kriegs Theatrum in Servien und dem Bannat Temeswar - Matthaus Seutter - 1720
+background: /img/posts/banat/2025-10-18-Ungarisches Kriegs Theatrum in Servien und dem Bannat Temeswar - Matthaus Seutter - 1720.jpg
+image: /img/posts/banat/2025-10-18-Ungarisches Kriegs Theatrum in Servien und dem Bannat Temeswar - Matthaus Seutter - 1720.jpg
 ---
+
 <img src="/img/posts/banat/2025-10-18-Ungarisches Kriegs Theatrum in Servien und dem Bannat Temeswar - Matthaus Seutter - 1720.jpg" alt="Ungarisches Kriegs Theatrum in Servien und dem Bannat Temeswar - Matthaus Seutter" width="1280" height="1024">
 #### Title ####
 Ungarisches Kriegs Theatrum in Servien und dem Bannat Temeswar - Matthaus Seutter - 1720

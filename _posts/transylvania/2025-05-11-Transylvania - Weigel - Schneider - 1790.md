@@ -1,11 +1,15 @@
 ---
-title: "Transylvania - Weigel - Schneider - 1790"
-date: 2025-05-11
-categories: [transylvania]
-tags: [Transylvania, Bukovina, Moldova, Wallachia, Banat]
 layout: post
-background: '/img/posts/transylvania/2025-05-11-Transylvania - Weigel - Schneider - 1790.jpg'
+title: Transylvania - Weigel - Schneider - 1790
+date: 2025-05-11
+categories: ["transylvania"]
+tags: ["Transylvania", "Bukovina", "Moldova", "Wallachia", "Banat"]
+description: Transylvania - Weigel - Schneider - 1790
+excerpt: Transylvania - Weigel - Schneider - 1790
+background: /img/posts/transylvania/2025-05-11-Transylvania - Weigel - Schneider - 1790.jpg
+image: /img/posts/transylvania/2025-05-11-Transylvania - Weigel - Schneider - 1790.jpg
 ---
+
 ![Map](/img/posts/transylvania/2025-05-11-Transylvania - Weigel - Schneider - 1790.jpg "Map")
 #### Title ####
 Karte der sämtlichen Krieges Vorfaelle bey den vereinigten Oesterreichisch-Russischen und Türkischen Armeen im Jahr 1788. Nach den besten Karten, Zeichnungen und den Wienerhofberichten herausgegeben von C. Weigel und Schneider

@@ -1,11 +1,15 @@
 ---
-title: "Nova totius Hungariæ, Transilvaniæ - Gerard van Schagen - 1685"
-date: 2024-12-25
-categories: [danube]
-tags: [Banat, Bessarabia, Bukovina, Danube, Dobrogea, Moldova, Transylvania, Wallachia]
 layout: post
-background: '/img/posts/danube/2024-12-25-Nova totius Hungariæ, Transilvaniæ - Gerard van Schagen - 1685.jpg'
+title: Nova totius Hungariæ, Transilvaniæ - Gerard van Schagen - 1685
+date: 2024-12-25
+categories: ["danube"]
+tags: ["Banat", "Bessarabia", "Bukovina", "Danube", "Dobrogea", "Moldova", "Transylvania", "Wallachia"]
+description: Nova totius Hungariæ, Transilvaniæ - Gerard van Schagen - 1685
+excerpt: Nova totius Hungariæ, Transilvaniæ - Gerard van Schagen - 1685
+background: /img/posts/danube/2024-12-25-Nova totius Hungariæ, Transilvaniæ - Gerard van Schagen - 1685.jpg
+image: /img/posts/danube/2024-12-25-Nova totius Hungariæ, Transilvaniæ - Gerard van Schagen - 1685.jpg
 ---
+
 ![Map](/img/posts/danube/2024-12-25-Nova totius Hungariæ, Transilvaniæ - Gerard van Schagen - 1685.jpg "Map")
 #### Title ####
 

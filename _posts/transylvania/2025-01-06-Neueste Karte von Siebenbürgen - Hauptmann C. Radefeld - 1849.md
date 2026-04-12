@@ -1,11 +1,15 @@
 ---
-title: "Neueste Karte von Siebenbürgen - Hauptmann C. Radefeld - 1849"
-date: 2025-01-06
-categories: [transylvania]
-tags: [Transylvania]
 layout: post
-background: '/img/posts/transylvania/Transylvania_Radefeld.jpg'
+title: Neueste Karte von Siebenbürgen - Hauptmann C. Radefeld - 1849
+date: 2025-01-06
+categories: ["transylvania"]
+tags: ["Transylvania"]
+description: Neueste Karte von Siebenbürgen - Hauptmann C. Radefeld - 1849
+excerpt: Neueste Karte von Siebenbürgen - Hauptmann C. Radefeld - 1849
+background: /img/posts/transylvania/Transylvania_Radefeld.jpg
+image: /img/posts/transylvania/Transylvania_Radefeld.jpg
 ---
+
 ![Map](/img/posts/transylvania/Transylvania_Radefeld.jpg "Map")
 #### Title ####
 Neueste Karte von Siebenbürgen. Nach den besten Quellen entworf. u. gezeichn. von Hauptm. Radefeld. 1849, Meyer's Grosser Zeitungs-Atlas, Verlag des Bibliographischen Instituts zu Hildburghausen. Amsterdam, Paris u. Philadelphia.

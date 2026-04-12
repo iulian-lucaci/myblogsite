@@ -1,11 +1,15 @@
 ---
-title: "Danubius Fonte Usque ad Ostiae - Johann Christoph Weigel - 1745"
-date: 2024-12-29
-categories: [danube]
-tags: [Banat, Bessarabia, Danube, Dobrogea, Moldova, Transylvania, Wallachia]
 layout: post
-background: '/img/posts/danube/2024-04-07-Danubius Fonte Usque ad Ostiae - Johann Christoph Weigel - 1745.jpg'
+title: Danubius Fonte Usque ad Ostiae - Johann Christoph Weigel - 1745
+date: 2024-12-29
+categories: ["danube"]
+tags: ["Banat", "Bessarabia", "Danube", "Dobrogea", "Moldova", "Transylvania", "Wallachia"]
+description: Danubius Fonte Usque ad Ostiae - Johann Christoph Weigel - 1745
+excerpt: Danubius Fonte Usque ad Ostiae - Johann Christoph Weigel - 1745
+background: /img/posts/danube/2024-04-07-Danubius Fonte Usque ad Ostiae - Johann Christoph Weigel - 1745.jpg
+image: /img/posts/danube/2024-04-07-Danubius Fonte Usque ad Ostiae - Johann Christoph Weigel - 1745.jpg
 ---
+
 ![Map](/img/posts/danube/2024-04-07-Danubius Fonte Usque ad Ostiae - Johann Christoph Weigel - 1745.jpg "Map")
 #### Title ####
 Danubius Fonte Usque ad Ostiae - Johann Christoph Weigel - 1745

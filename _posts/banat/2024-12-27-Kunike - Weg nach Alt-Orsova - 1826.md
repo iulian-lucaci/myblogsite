@@ -1,11 +1,15 @@
 ---
-title: "Kunike - Weg nach Alt-Orsova - 1826"
-date: 2024-12-27
-categories: [banat]
-tags: [Banat]
 layout: post
-background: '/img/posts/Orsova.jpg'
+title: Kunike - Weg nach Alt-Orsova - 1826
+date: 2024-12-27
+categories: ["banat"]
+tags: ["Banat"]
+description: Kunike - Weg nach Alt-Orsova - 1826
+excerpt: Kunike - Weg nach Alt-Orsova - 1826
+background: /img/posts/Orsova.jpg
+image: /img/posts/Orsova.jpg
 ---
+
 ![Map](/img/posts/Orsova.jpg "Map")
 #### Title ####
 Kunike - Weg nach Alt-Orsova - 1826

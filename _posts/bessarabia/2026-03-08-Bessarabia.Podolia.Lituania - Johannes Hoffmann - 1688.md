@@ -1,11 +1,15 @@
 ---
-title: "Bessarabia.Podolia.Lituania - Johannes Hoffmann - 1688"
-date: 2026-03-08
-categories: [bessarabia]
-tags: [Bessarabia]
 layout: post
-background: '/img/posts/bessarabia/2026-03-08-Bessarabia.Podolia.Lituania - Johannes Hoffmann - 1688.jpg'
+title: Bessarabia.Podolia.Lituania - Johannes Hoffmann - 1688
+date: 2026-03-08
+categories: ["bessarabia"]
+tags: ["Bessarabia"]
+description: Bessarabia.Podolia.Lituania - Johannes Hoffmann - 1688
+excerpt: Bessarabia.Podolia.Lituania - Johannes Hoffmann - 1688
+background: /img/posts/bessarabia/2026-03-08-Bessarabia.Podolia.Lituania - Johannes Hoffmann - 1688.jpg
+image: /img/posts/bessarabia/2026-03-08-Bessarabia.Podolia.Lituania - Johannes Hoffmann - 1688.jpg
 ---
+
 <img src="/img/posts/bessarabia/2026-03-08-Bessarabia.Podolia.Lituania - Johannes Hoffmann - 1688.jpg" alt="Bessarabia.Podolia.Lituania - Johannes Hoffmann - 1688" width="1280" height="1024">
 #### Title ####
 Bessarabia.Podolia.Lituania.

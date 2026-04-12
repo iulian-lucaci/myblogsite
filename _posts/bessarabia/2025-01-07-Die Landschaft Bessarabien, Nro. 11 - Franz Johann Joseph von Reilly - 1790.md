@@ -1,11 +1,15 @@
 ---
-title: "Die Landschaft Bessarabien, Nro. 11 - Franz Johann Joseph von Reilly - 1790"
-date: 2025-01-07
-categories: [bessarabia]
-tags: [Bessarabia]
 layout: post
-background: '/img/posts/Reilly_Bessarabia.jpg'
+title: Die Landschaft Bessarabien, Nro. 11 - Franz Johann Joseph von Reilly - 1790
+date: 2025-01-07
+categories: ["bessarabia"]
+tags: ["Bessarabia"]
+description: Die Landschaft Bessarabien, Nro. 11 - Franz Johann Joseph von Reilly - 1790
+excerpt: Die Landschaft Bessarabien, Nro. 11 - Franz Johann Joseph von Reilly - 1790
+background: /img/posts/Reilly_Bessarabia.jpg
+image: /img/posts/Reilly_Bessarabia.jpg
 ---
+
 ![Map](/img/posts/Reilly_Bessarabia.jpg "Map")
 #### Title ####
 Die Landschaft Bessarabien, Nro. 11 - Franz Johann Joseph von Reilly - 1790

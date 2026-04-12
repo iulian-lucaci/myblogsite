@@ -1,11 +1,15 @@
 ---
-title: "Charte von der Moldau und Walachey - Franz Ludwig Güssefeld - 1785"
-date: 2025-01-09
-categories: [moldova]
-tags: [Bukovina, Moldova, Wallachia]
 layout: post
-background: '/img/posts/Gussefeld_Moldova.jpg'
+title: Charte von der Moldau und Walachey - Franz Ludwig Güssefeld - 1785
+date: 2025-01-09
+categories: ["moldova"]
+tags: ["Bukovina", "Moldova", "Wallachia"]
+description: Charte von der Moldau und Walachey - Franz Ludwig Güssefeld - 1785
+excerpt: Charte von der Moldau und Walachey - Franz Ludwig Güssefeld - 1785
+background: /img/posts/Gussefeld_Moldova.jpg
+image: /img/posts/Gussefeld_Moldova.jpg
 ---
+
 ![Map](/img/posts/Gussefeld_Moldova.jpg "Map")
 #### Title ####
 Charte de la Moldavie et de la Valachie dressee d'apres de Memoires autentiques par F. L. Güssefeld, Nuremberg chez les Heritieres de Homann. Jl est marque entre auters dans cette Charte, la Boukovine, appartenante jadis a la Moldavie.

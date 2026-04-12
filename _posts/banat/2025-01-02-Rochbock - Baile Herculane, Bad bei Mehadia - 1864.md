@@ -1,11 +1,15 @@
 ---
-title: "Rochbock - Baile Herculane, Bad bei Mehadia - 1864"
-date: 2025-01-02
-categories: [banat]
-tags: [Banat]
 layout: post
-background: '/img/posts/Mehadia.jpg'
+title: Rochbock - Baile Herculane, Bad bei Mehadia - 1864
+date: 2025-01-02
+categories: ["banat"]
+tags: ["Banat"]
+description: Rochbock - Baile Herculane, Bad bei Mehadia - 1864
+excerpt: Rochbock - Baile Herculane, Bad bei Mehadia - 1864
+background: /img/posts/Mehadia.jpg
+image: /img/posts/Mehadia.jpg
 ---
+
 ![Map](/img/posts/Mehadia.jpg "Map")
 #### Title ####
 Rochbock - Baile Herculane, Bad bei Mehadia, 1864

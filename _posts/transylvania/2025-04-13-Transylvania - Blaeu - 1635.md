@@ -1,11 +1,15 @@
 ---
-title: "Transylvania - Blaeu - 1635"
-date: 2025-04-13
-categories: [transylvania]
-tags: [Transylvania]
 layout: post
-background: '/img/posts/transylvania/Transylvania_Blaeu.jpg'
+title: Transylvania - Blaeu - 1635
+date: 2025-04-13
+categories: ["transylvania"]
+tags: ["Transylvania"]
+description: Transylvania - Blaeu - 1635
+excerpt: Transylvania - Blaeu - 1635
+background: /img/posts/transylvania/Transylvania_Blaeu.jpg
+image: /img/posts/transylvania/Transylvania_Blaeu.jpg
 ---
+
 ![Map](/img/posts/transylvania/Transylvania_Blaeu.jpg "Map")
 #### Title ####
 Transylvania - Sibenburgen

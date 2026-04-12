@@ -1,11 +1,15 @@
 ---
-title: "Oradea - Daniel Meisner - 1628"
-date: 2025-12-28
-categories: [transylvania]
-tags: [Transylvania]
 layout: post
-background: '/img/posts/transylvania/2025-12-28-Oradea - Daniel Meisner - 1628.jpg'
+title: Oradea - Daniel Meisner - 1628
+date: 2025-12-28
+categories: ["transylvania"]
+tags: ["Transylvania"]
+description: Oradea - Daniel Meisner - 1628
+excerpt: Oradea - Daniel Meisner - 1628
+background: /img/posts/transylvania/2025-12-28-Oradea - Daniel Meisner - 1628.jpg
+image: /img/posts/transylvania/2025-12-28-Oradea - Daniel Meisner - 1628.jpg
 ---
+
 <img src="/img/posts/transylvania/2025-12-28-Oradea - Daniel Meisner - 1628.jpg" alt="2025-12-28-Oradea - Daniel Meisner - 1623" width="1280" height="1024">
 #### Title ####
 Oradea - Daniel Meisner - 1628

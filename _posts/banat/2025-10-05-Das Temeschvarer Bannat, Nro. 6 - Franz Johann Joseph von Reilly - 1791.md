@@ -1,11 +1,15 @@
 ---
-title: "Das Temeschvarer Bannat, Nro. 6 - Franz Johann Joseph von Reilly - 1791"
-date: 2025-10-05
-categories: [banat]
-tags: [Banat, Danube]
 layout: post
-background: '/img/posts/banat/2025-10-05-Das Temeschvarer Bannat, Nro. 6 - Franz Johann Joseph von Reilly - 1791.jpg'
+title: Das Temeschvarer Bannat, Nro. 6 - Franz Johann Joseph von Reilly - 1791
+date: 2025-10-05
+categories: ["banat"]
+tags: ["Banat", "Danube"]
+description: Das Temeschvarer Bannat, Nro. 6 - Franz Johann Joseph von Reilly - 1791
+excerpt: Das Temeschvarer Bannat, Nro. 6 - Franz Johann Joseph von Reilly - 1791
+background: /img/posts/banat/2025-10-05-Das Temeschvarer Bannat, Nro. 6 - Franz Johann Joseph von Reilly - 1791.jpg
+image: /img/posts/banat/2025-10-05-Das Temeschvarer Bannat, Nro. 6 - Franz Johann Joseph von Reilly - 1791.jpg
 ---
+
 <img src="/img/posts/banat/2025-10-05-Das Temeschvarer Bannat, Nro. 6 - Franz Johann Joseph von Reilly - 1791.jpg" alt="Das Temeschvarer Bannat, Nro. 6, Franz Johann Joseph von Reilly" width="1280" height="1024">
 #### Title ####
 Das Temeschvarer Bannat, Nro. 6 - Franz Johann Joseph von Reilly - 1791

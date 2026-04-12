@@ -1,11 +1,15 @@
 ---
-title: "Das Fürstenthum Walachey, Nro. 13 - Franz Johann Joseph von Reilly - 1790"
-date: 2024-12-26
-categories: [wallachia]
-tags: [Danube, Wallachia]
 layout: post
-background: '/img/posts/Reilly_Wallachia.jpg'
+title: Das Fürstenthum Walachey, Nro. 13 - Franz Johann Joseph von Reilly - 1790
+date: 2024-12-26
+categories: ["wallachia"]
+tags: ["Danube", "Wallachia"]
+description: Das Fürstenthum Walachey, Nro. 13 - Franz Johann Joseph von Reilly - 1790
+excerpt: Das Fürstenthum Walachey, Nro. 13 - Franz Johann Joseph von Reilly - 1790
+background: /img/posts/Reilly_Wallachia.jpg
+image: /img/posts/Reilly_Wallachia.jpg
 ---
+
 ![Map](/img/posts/Reilly_Wallachia.jpg "Map")
 #### Title ####
 Das Fürstenthum Walachey, Nro. 13 - Franz Johann Joseph von Reilly - 1790

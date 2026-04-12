@@ -1,11 +1,15 @@
 ---
-title: "Hongrie - Delisle - 1780"
-date: 2025-04-26
-categories: [transylvania]
-tags: [Transylvania, Bukovina, Moldova, Wallachia, Banat, Dobrogea, Bessarabia]
 layout: post
-background: '/img/posts/transylvania/Hongrie_DeLisle.jpg'
+title: Hongrie - Delisle - 1780
+date: 2025-04-26
+categories: ["transylvania"]
+tags: ["Transylvania", "Bukovina", "Moldova", "Wallachia", "Banat", "Dobrogea", "Bessarabia"]
+description: Hongrie - Delisle - 1780
+excerpt: Hongrie - Delisle - 1780
+background: /img/posts/transylvania/Hongrie_DeLisle.jpg
+image: /img/posts/transylvania/Hongrie_DeLisle.jpg
 ---
+
 ![Map](/img/posts/transylvania/Hongrie_DeLisle.jpg "Map")
 #### Title ####
 Carte de la Hongrie et des Pays qui en dependoient Autresois - Guillaume Delisle

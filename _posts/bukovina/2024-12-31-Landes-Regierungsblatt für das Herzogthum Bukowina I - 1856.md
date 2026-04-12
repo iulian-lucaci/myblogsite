@@ -1,11 +1,15 @@
 ---
-title: "Landes-Regierungsblatt für das Herzogthum Bukowina I, 1856"
-date: 2024-12-31
-categories: [bukovina]
-tags: [Bukovina]
 layout: post
-background: '/img/posts/2023-10-08_001080-4.jpg'
+title: Landes-Regierungsblatt für das Herzogthum Bukowina I, 1856
+date: 2024-12-31
+categories: ["bukovina"]
+tags: ["Bukovina"]
+description: Landes-Regierungsblatt für das Herzogthum Bukowina I, 1856
+excerpt: Landes-Regierungsblatt für das Herzogthum Bukowina I, 1856
+background: /img/posts/2023-10-08_001080-4.jpg
+image: /img/posts/2023-10-08_001080-4.jpg
 ---
+
 ![Map](/img/posts/2023-10-08_001080-4.jpg "Map")
 #### Title ####
 Landes-Regierungsblatt für das Herzogthum Bukowina, Erste Abtheilung - 1856 / Foaia guvernului tarii pentru Ducatul Bucovina, Partea I

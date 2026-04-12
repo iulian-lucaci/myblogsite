@@ -1,11 +1,15 @@
 ---
-title: "George II Rákóczi 1657, Erik Dahlberg, Jean Lepautre, Samuel von Pufendorf - 1697"
-date: 2025-01-04
-categories: [transylvania]
-tags: [Transylvania]
 layout: post
-background: '/img/posts/transylvania/Rakoczi_Pufendorf.jpg'
+title: George II Rákóczi 1657, Erik Dahlberg, Jean Lepautre, Samuel von Pufendorf - 1697
+date: 2025-01-04
+categories: ["transylvania"]
+tags: ["Transylvania"]
+description: George II Rákóczi 1657, Erik Dahlberg, Jean Lepautre, Samuel von Pufendorf - 1697
+excerpt: George II Rákóczi 1657, Erik Dahlberg, Jean Lepautre, Samuel von Pufendorf - 1697
+background: /img/posts/transylvania/Rakoczi_Pufendorf.jpg
+image: /img/posts/transylvania/Rakoczi_Pufendorf.jpg
 ---
+
 ![Map](/img/posts/transylvania/Rakoczi_Pufendorf.jpg "Map")
 #### Title ####
 George II Rákóczi 1657, Dahlberg, Pufendorf - 1697

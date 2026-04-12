@@ -1,11 +1,15 @@
 ---
-title: "Die Landschaft Bukowina, Nro. 8 - Franz Johann Joseph von Reilly - 1790"
-date: 2025-01-08
-categories: [bukovina]
-tags: [Bukovina]
 layout: post
-background: '/img/posts/Reilly_Bukowina.jpg'
+title: Die Landschaft Bukowina, Nro. 8 - Franz Johann Joseph von Reilly - 1790
+date: 2025-01-08
+categories: ["bukovina"]
+tags: ["Bukovina"]
+description: Die Landschaft Bukowina, Nro. 8 - Franz Johann Joseph von Reilly - 1790
+excerpt: Die Landschaft Bukowina, Nro. 8 - Franz Johann Joseph von Reilly - 1790
+background: /img/posts/Reilly_Bukowina.jpg
+image: /img/posts/Reilly_Bukowina.jpg
 ---
+
 ![Map](/img/posts/Reilly_Bukowina.jpg "Map")
 #### Title ####
 Die Landschaft Bukowina, Nro. 8 - Franz Johann Joseph von Reilly - 1790

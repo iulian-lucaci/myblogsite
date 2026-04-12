@@ -1,11 +1,15 @@
 ---
-title: "Principatus Transilvaniae - Johann Baptist Homann - 1716"
-date: 2025-01-10
-categories: [transylvania]
-tags: [Transylvania]
 layout: post
-background: '/img/posts/transylvania/Transylvania_Homann.jpg'
+title: Principatus Transilvaniae - Johann Baptist Homann - 1716
+date: 2025-01-10
+categories: ["transylvania"]
+tags: ["Transylvania"]
+description: Principatus Transilvaniae - Johann Baptist Homann - 1716
+excerpt: Principatus Transilvaniae - Johann Baptist Homann - 1716
+background: /img/posts/transylvania/Transylvania_Homann.jpg
+image: /img/posts/transylvania/Transylvania_Homann.jpg
 ---
+
 ![Map](/img/posts/transylvania/Transylvania_Homann.jpg "Map")
 #### Title ####
 Principatus Transilvaniae : In Suas Quasque Nationes earumque Sedes Et Regiones cum finitimis vicinorum Statuum Provinciis accurate divisus / opera Ioh. Baptistae Homanni, Sac. Caes Majest. Geographi, Reg Borus.e Societatis Scientiarum me, Norimbergae, Cum Privil. S.C.M.

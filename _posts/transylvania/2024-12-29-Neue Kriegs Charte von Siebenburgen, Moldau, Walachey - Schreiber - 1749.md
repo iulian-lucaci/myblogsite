@@ -1,11 +1,15 @@
 ---
-title: "Neue Kriegs Charte von Siebenburgen, Moldau, Walachey - Johann Georg Schreiber - 1749"
-date: 2024-12-29
-categories: [transylvania]
-tags: [Banat, Bessarabia, Bukovina, Dobrogea, Moldova, Transylvania, Wallachia]
 layout: post
-background: '/img/posts/transylvania/Transylvania_Schreiber.jpg'
+title: Neue Kriegs Charte von Siebenburgen, Moldau, Walachey - Johann Georg Schreiber - 1749
+date: 2024-12-29
+categories: ["transylvania"]
+tags: ["Banat", "Bessarabia", "Bukovina", "Dobrogea", "Moldova", "Transylvania", "Wallachia"]
+description: Neue Kriegs Charte von Siebenburgen, Moldau, Walachey - Johann Georg Schreiber - 1749
+excerpt: Neue Kriegs Charte von Siebenburgen, Moldau, Walachey - Johann Georg Schreiber - 1749
+background: /img/posts/transylvania/Transylvania_Schreiber.jpg
+image: /img/posts/transylvania/Transylvania_Schreiber.jpg
 ---
+
 ![Map](/img/posts/transylvania/Transylvania_Schreiber.jpg "Map")
 #### Title ####
 Neue Kriegs Charte von Siebenburgen, Moldau, Walachey - Johann Georg Schreiber - 1749

@@ -1,11 +1,15 @@
 ---
-title: "Europa religionis christianae morum et pacis ac belli artium cultu omnium terrarum orbis partium praestantiss - Tobias Conrad Lotter - 1740"
-date: 2026-02-21
-categories: [europe]
-tags: [Europe, Transylvania, Wallachia, Moldova, Bessarabia, Danube]
 layout: post
-background: '/img/posts/europe/2026-02-21-Europa religionis christianae morum et pacis ac belli artium cultu omnium terrarum orbis partium praestantiss - Tobias Conrad Lotter - 1740.jpg'
+title: Europa religionis christianae morum et pacis ac belli artium cultu omnium terrarum orbis partium praestantiss - Tobias Conrad Lotter - 1740
+date: 2026-02-21
+categories: ["europe"]
+tags: ["Europe", "Transylvania", "Wallachia", "Moldova", "Bessarabia", "Danube"]
+description: Europa religionis christianae morum et pacis ac belli artium cultu omnium terrarum orbis partium praestantiss - Tobias Conrad Lotter - 1740
+excerpt: Europa religionis christianae morum et pacis ac belli artium cultu omnium terrarum orbis partium praestantiss - Tobias Conrad Lotter - 1740
+background: /img/posts/europe/2026-02-21-Europa religionis christianae morum et pacis ac belli artium cultu omnium terrarum orbis partium praestantiss - Tobias Conrad Lotter - 1740.jpg
+image: /img/posts/europe/2026-02-21-Europa religionis christianae morum et pacis ac belli artium cultu omnium terrarum orbis partium praestantiss - Tobias Conrad Lotter - 1740.jpg
 ---
+
 <img src="/img/posts/europe/2026-02-21-Europa religionis christianae morum et pacis ac belli artium cultu omnium terrarum orbis partium praestantiss - Tobias Conrad Lotter - 1740.jpg" alt="Europa religionis christianae morum et pacis ac belli artium cultu omnium terrarum orbis partium praestantiss - Tobias Conrad Lotter - 1740" width="1280" height="1024">
 #### Title ####
 Europa religionis christianae morum et pacis ac belli artium cultu omnium terrarum orbis partium praestantiss - Tobias Conrad Lotter - 1740

@@ -1,11 +1,15 @@
 ---
-title: "Danube - Visscher and Homann - 1677 - 1716"
-date: 2025-07-27
-categories: [danube]
-tags: [Danube, Banat, Wallachia]
 layout: post
-background: '/img/posts/danube/2025-03-02-Exactissima Tabula qua tam Danubii Fluvii Pars Inferior - Nicolaus Visscher - 1680.jpg'
+title: Danube - Visscher and Homann - 1677 - 1716
+date: 2025-07-27
+categories: ["danube"]
+tags: ["Danube", "Banat", "Wallachia"]
+description: Danube - Visscher and Homann - 1677 - 1716
+excerpt: Danube - Visscher and Homann - 1677 - 1716
+background: /img/posts/danube/2025-03-02-Exactissima Tabula qua tam Danubii Fluvii Pars Inferior - Nicolaus Visscher - 1680.jpg
+image: /img/posts/danube/2025-03-02-Exactissima Tabula qua tam Danubii Fluvii Pars Inferior - Nicolaus Visscher - 1680.jpg
 ---
+
 **The Cartography of the Danube River in two sets of maps by Nicolaes Visscher and Johann Baptist Homann**
 
 **by Iulian Lucaci**

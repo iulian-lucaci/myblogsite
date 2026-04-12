@@ -1,11 +1,15 @@
 ---
-title: "Hongrie - Nicolas de Fer - 1717"
-date: 2025-05-02
-categories: [transylvania]
-tags: [Transylvania, Bukovina, Moldova, Wallachia, Banat, Dobrogea, Bessarabia]
 layout: post
-background: '/img/posts/transylvania/2025-05-02-Hongrie - Nicolas de Fer - 1717.jpg'
+title: Hongrie - Nicolas de Fer - 1717
+date: 2025-05-02
+categories: ["transylvania"]
+tags: ["Transylvania", "Bukovina", "Moldova", "Wallachia", "Banat", "Dobrogea", "Bessarabia"]
+description: Hongrie - Nicolas de Fer - 1717
+excerpt: Hongrie - Nicolas de Fer - 1717
+background: /img/posts/transylvania/2025-05-02-Hongrie - Nicolas de Fer - 1717.jpg
+image: /img/posts/transylvania/2025-05-02-Hongrie - Nicolas de Fer - 1717.jpg
 ---
+
 ![Map](/img/posts/transylvania/2025-05-02-Hongrie - Nicolas de Fer - 1717.jpg "Map")
 #### Title ####
 Le theatre de la guerre sur les frontieres des deux empires depuis Vienne jusques à Constantinople ou se trouvent la Hongrie, la Transilvanie, la Valaquie, la Moldavie, l'Esclavonie, la Bosnie, la Servie, et la Bulgarie, la republique de Raguse, et partie de la Dalmatie de l'Albanie, et de la Romanie / tiré de plusieurs voyages et ambassades par N. der Fer geographe de sa Majesté catolique et de Monseigneur le Dauphin ; H. van Loon sculp
