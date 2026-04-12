@@ -39,43 +39,40 @@ layout: default
           {{ content }}
         </div>
 
-        {% assign related_posts = "" | split: "" %}
-        {% assign related_urls = "" | split: "" %}
+        {% capture related_list %}{% endcapture %}
+        {% assign related_urls = "" %}
+        {% assign related_count = 0 %}
 
         {% if page.tags %}
           {% for tag in page.tags %}
             {% for related in site.tags[tag] %}
-              {% if related.url != page.url and related_urls contains related.url == false %}
-                {% assign related_urls = related_urls | push: related.url %}
-                {% assign related_posts = related_posts | push: related %}
-              {% endif %}
+              {% unless related.url == page.url or related_urls contains related.url or related_count == 5 %}
+                {% capture related_list %}{{ related_list }}<li><a href="{{ related.url | prepend: site.baseurl | replace: '//', '/' }}">{{ related.title }}</a>{% if related.tags %} <small class="text-muted">({{ related.tags | join: ', ' }})</small>{% endif %}</li>{% endcapture %}
+                {% assign related_urls = related_urls | append: related.url | append: '|' %}
+                {% assign related_count = related_count | plus: 1 %}
+              {% endunless %}
             {% endfor %}
           {% endfor %}
         {% endif %}
 
-        {% if related_posts.size < 5 and page.categories %}
+        {% if related_count < 5 and page.categories %}
           {% for category in page.categories %}
             {% for related in site.categories[category] %}
-              {% if related.url != page.url and related_urls contains related.url == false %}
-                {% assign related_urls = related_urls | push: related.url %}
-                {% assign related_posts = related_posts | push: related %}
-              {% endif %}
+              {% unless related.url == page.url or related_urls contains related.url or related_count == 5 %}
+                {% capture related_list %}{{ related_list }}<li><a href="{{ related.url | prepend: site.baseurl | replace: '//', '/' }}">{{ related.title }}</a>{% if related.tags %} <small class="text-muted">({{ related.tags | join: ', ' }})</small>{% endif %}</li>{% endcapture %}
+                {% assign related_urls = related_urls | append: related.url | append: '|' %}
+                {% assign related_count = related_count | plus: 1 %}
+              {% endunless %}
             {% endfor %}
           {% endfor %}
         {% endif %}
 
-        {% if related_posts.size > 0 %}
+        {% if related_count > 0 %}
           <section class="related-posts mt-5">
             <h3>Related entries</h3>
             <p>Posts with the same tags or categories.</p>
             <ul>
-              {% for related in related_posts limit:5 %}
-                <li><a href="{{ related.url | prepend: site.baseurl | replace: '//', '/' }}">{{ related.title }}</a>
-                  {% if related.tags %}
-                    <small class="text-muted">({{ related.tags | join: ', ' }})</small>
-                  {% endif %}
-                </li>
-              {% endfor %}
+              {{ related_list }}
             </ul>
           </section>
         {% endif %}
