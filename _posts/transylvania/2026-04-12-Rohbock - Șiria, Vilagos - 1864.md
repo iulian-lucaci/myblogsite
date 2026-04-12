@@ -20,7 +20,9 @@ Historical Significance
 
 Origins: Built in the 13th century, it served a vital strategic role for five centuries in defending Transylvania's western border.
 Famous Owners: The fortress changed hands many times, belonging to figures like Iancu de Hunedoara (John Hunyadi), Matei Corvin (Matthias Corvinus), and the Bathory family.
+
 Military History: It was occupied by Ottoman forces for nearly a century (1607–1693) and served as a garrison for Michael the Brave (Mihai Viteazul) around 1599–1600.
+
 Destruction: In 1784, Habsburg troops bombarded and destroyed the fortress with artillery to prevent it from being used as a base of resistance during the Horea, Cloșca, and Crișan uprising. 
 
 #### Date ####
