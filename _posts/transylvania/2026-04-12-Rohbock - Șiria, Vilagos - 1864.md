@@ -10,7 +10,7 @@ background: '/img/posts/transylvania/2026-04-12-Rohbock - Șiria, Vilagos - 1864
 image: "/img/posts/transylvania/2026-04-12-Rohbock - Șiria, Vilagos - 1864.jpg"
 
 ---
-<img src="/img/posts/transylvania/2026-04-12-Rohbock - Șiria, Vilagos - 1864.jpg" alt="Antique Lithograph: Rohbock - Șiria, Vilagos - 1864" width="1280" height="1024">
+<img src="/img/posts/transylvania/2026-04-12-Rohbock - Șiria, Vilagos - 1864.jpg" alt="1864 Rohbock lithograph of Șiria fortress and Vilagos village" width="1280" height="1024">
 #### Title ####
 Rohbock - Șiria, Vilagos - 1864
 
