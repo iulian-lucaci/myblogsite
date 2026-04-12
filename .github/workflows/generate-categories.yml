@@ -1,5 +1,8 @@
 name: Auto-generate Category Pages
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 on:
   push:
     branches:
