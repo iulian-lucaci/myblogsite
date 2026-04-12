@@ -39,6 +39,47 @@ layout: default
           {{ content }}
         </div>
 
+        {% assign related_posts = "" | split: "" %}
+        {% assign related_urls = "" | split: "" %}
+
+        {% if page.tags %}
+          {% for tag in page.tags %}
+            {% for related in site.tags[tag] %}
+              {% if related.url != page.url and related_urls contains related.url == false %}
+                {% assign related_urls = related_urls | push: related.url %}
+                {% assign related_posts = related_posts | push: related %}
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+        {% endif %}
+
+        {% if related_posts.size < 5 and page.categories %}
+          {% for category in page.categories %}
+            {% for related in site.categories[category] %}
+              {% if related.url != page.url and related_urls contains related.url == false %}
+                {% assign related_urls = related_urls | push: related.url %}
+                {% assign related_posts = related_posts | push: related %}
+              {% endif %}
+            {% endfor %}
+          {% endfor %}
+        {% endif %}
+
+        {% if related_posts.size > 0 %}
+          <section class="related-posts mt-5">
+            <h3>Related entries</h3>
+            <p>Posts with the same tags or categories.</p>
+            <ul>
+              {% for related in related_posts limit:5 %}
+                <li><a href="{{ related.url | prepend: site.baseurl | replace: '//', '/' }}">{{ related.title }}</a>
+                  {% if related.tags %}
+                    <small class="text-muted">({{ related.tags | join: ', ' }})</small>
+                  {% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          </section>
+        {% endif %}
+
         <hr>
 
         <div class="clearfix">

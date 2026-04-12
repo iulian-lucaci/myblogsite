@@ -58,6 +58,31 @@
   margin: 1rem 0;
 }
 
+.related-posts {
+  margin-top: 2rem;
+}
+
+.related-posts h3 {
+  margin-bottom: 0.75rem;
+}
+
+.related-posts ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.related-posts li {
+  margin-bottom: 0.5rem;
+}
+
+.related-posts a {
+  color: #007bff;
+}
+
+.related-posts a:hover {
+  color: #0056b3;
+}
+
 .archive-count,
 .archive-summary {
   color: #6c757d;
