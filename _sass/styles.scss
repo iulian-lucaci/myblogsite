@@ -64,6 +64,31 @@
   font-size: 0.95rem;
 }
 
+.tag-cloud {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  padding: 1rem 0;
+}
+
+.tag-cloud-item {
+  display: inline-block;
+  color: #007bff;
+  text-decoration: none;
+  transition: color 0.15s ease, transform 0.15s ease;
+}
+
+.tag-cloud-item:hover {
+  color: #0056b3;
+  transform: translateY(-1px);
+}
+
+.tag-weight-1 { font-size: 0.95rem; }
+.tag-weight-2 { font-size: 1.1rem; }
+.tag-weight-3 { font-size: 1.25rem; }
+.tag-weight-4 { font-size: 1.4rem; }
+.tag-weight-5 { font-size: 1.6rem; }
+
 .archive-count {
   display: inline-block;
   margin-left: 0.5rem;

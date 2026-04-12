@@ -5,6 +5,8 @@ permalink: /tags/
 background: '/img/bg-category.jpg'
 ---
 
+<p><a href="{{ "/tags/cloud/" | relative_url }}">View the tag cloud</a></p>
+
 <h1>Tags</h1>
 <ul>
   {% for tag in site.tags %}
