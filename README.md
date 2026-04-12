@@ -65,6 +65,26 @@ Assuming there are no errors and the site is building properly, follow these ste
 
     For reference, look at the [demo repository](https://github.com/StartBootstrap/startbootstrap-clean-blog-jekyll) to see how the files are set up.
 
+### Create a new post with the helper script
+
+A helper script is available at `bin/new_post.rb` to create new posts with recommended metadata.
+
+Example usage:
+
+```bash
+ruby bin/new_post.rb \
+  -c transylvania \
+  --tags Transylvania,History \
+  --subtitle "A historic map of Șiria" \
+  --description "A short SEO description for the post." \
+  --excerpt "A brief excerpt describing the content." \
+  --background "/img/posts/transylvania/2026-04-12-Rohbock - Șiria, Vilagos - 1864.jpg" \
+  --image "/img/posts/transylvania/2026-04-12-Rohbock - Șiria, Vilagos - 1864.jpg" \
+  "Rohbock - Șiria, Vilagos - 1864"
+```
+
+This generates a new Markdown file in `_posts/<category>/` with the front matter filled in.
+
 5. Add the form to the `contact.html` page. Add the following code to your `contact.html` page:
 
     ```html
