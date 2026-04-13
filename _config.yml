@@ -6,6 +6,7 @@ baseurl:            "/myblogsite"
 url:                "https://transylvaniadigitalantiques.com"
 lang:               en
 locale:             en_US
+slugify:            ascii
 image:              "/img/bg-post.jpg"
 logo:               "/img/bg-post.jpg"
 
