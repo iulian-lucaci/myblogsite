@@ -22,6 +22,7 @@ google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
 
 # Google Site Verification (replace with your code from Google Search Console)
 google_site_verification: "OIb7ZZzkydJmddvLOh6ibPdXIgHPd-tQ0neGiMiyEH4"
+google_site_verification: "uQ0pkn4KyWI33QEKbj7nrsjKNdoh5BtU0oiCy1g4iZo"
 
 # Build settings
 markdown:           kramdown
