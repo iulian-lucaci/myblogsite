@@ -9,6 +9,11 @@
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id={{ site.google_tag_manager }}" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   {% endif %}
 
+  <!-- Consent Banner -->
+  {% if site.google_consent_mode_enabled %}
+  {% include consent-banner.html %}
+  {% endif %}
+
   {% include navbar.html %}
 
   {{ content }}

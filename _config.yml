@@ -24,6 +24,9 @@ google_analytics_enabled: true # Set false to disable the manual GA tag when usi
 # Add your Google Tag Manager container ID here
 google_tag_manager: "GTM-PDFS2JSM"
 
+# Google Consent Mode - set false to disable the consent banner
+google_consent_mode_enabled: true
+
 # Google Site Verification is now in _includes/head.html
 
 # Build settings

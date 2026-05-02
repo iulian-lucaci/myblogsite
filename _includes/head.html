@@ -24,6 +24,9 @@
   <link rel="stylesheet" href="{{"/assets/main.css" | relative_url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ "/feed.xml" | relative_url }}">
 
+  <!-- Google Consent Mode Script (loads before GTM/GA) -->
+  <script src="{{ "/assets/consent.js" | relative_url }}"></script>
+
   {% if site.google_tag_manager %}
   <!-- Google Tag Manager -->
   <script>
