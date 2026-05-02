@@ -62,7 +62,7 @@
 
   // Wait for DOM to be ready
   function bindToggle() {
-    const toggleBtn = document.getElementById('theme-toggle');
+    toggleBtn = document.getElementById('theme-toggle');
     if (toggleBtn) {
       toggleBtn.addEventListener('click', toggleTheme);
     }
