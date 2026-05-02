@@ -27,6 +27,9 @@ google_tag_manager: "GTM-PDFS2JSM"
 # Google Consent Mode - set false to disable the consent banner
 google_consent_mode_enabled: true
 
+# Comments - set false to disable comments on posts
+comments_enabled: true
+
 # Google Site Verification is now in _includes/head.html
 
 # Build settings
