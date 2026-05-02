@@ -20,13 +20,13 @@
   --text-color: #e4e4e4;
   --navbar-bg: rgba(26, 26, 26, 0.95);
   --navbar-text: #e4e4e4;
-  --card-bg: #2d2d2d;
-  --border-color: #404040;
-  --link-color: #4dabf7;
+  --card-bg: #333333;
+  --border-color: #444444;
+  --link-color: #5dade2;
   --muted-text: #adb5bd;
-  --shadow: rgba(0, 0, 0, 0.3);
+  --shadow: rgba(0, 0, 0, 0.4);
   --code-bg: #2d2d2d;
-  --blockquote-border: #4dabf7;
+  --blockquote-border: #5dade2;
 }
 
 // Apply theme variables to body and common elements
@@ -60,6 +60,10 @@ body {
   color: var(--text-color);
   border-color: var(--border-color);
   transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  box-shadow: var(--shadow);
 }
 
 hr {
@@ -73,6 +77,21 @@ a {
     color: var(--link-color);
     opacity: 0.8;
   }
+}
+
+.post-preview a {
+  text-decoration: none;
+
+  &:hover .post-title,
+  &:hover .post-subtitle {
+    color: var(--link-color);
+  }
+}
+
+.post-title,
+.post-subtitle {
+  color: var(--text-color);
+  transition: color 0.3s ease;
 }
 
 .text-muted {
