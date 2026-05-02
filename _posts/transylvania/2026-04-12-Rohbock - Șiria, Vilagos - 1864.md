@@ -36,5 +36,5 @@ Destruction: In 1784, Habsburg troops bombarded and destroyed the fortress with 
 Picture size approx.: 11 x 16 cm 
 
 #### Author: ####
-Ludwig Rohbock (1824–1893) was a German artist, renowed for his detailed ararchitectural and landscape depictions across Central Europe.
+Ludwig Rohbock (1824–1893) was a German artist, renowed for his detailed architectural and landscape depictions across Central Europe.
 
