@@ -30,10 +30,26 @@
 }
 
 // Apply theme variables to body and common elements
-body {
+html[data-theme="dark"] body,
+html.theme-dark body,
+html.theme-light body {
   background-color: var(--bg-color);
   color: var(--text-color);
   transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+html.theme-dark header.masthead .overlay,
+html[data-theme="dark"] header.masthead .overlay {
+  background: rgba(0, 0, 0, 0.6);
+}
+
+html.theme-dark .post-preview,
+html[data-theme="dark"] .post-preview,
+html.theme-dark .page-content,
+html[data-theme="dark"] .page-content,
+html.theme-dark .related-posts,
+html[data-theme="dark"] .comments {
+  color: var(--text-color);
 }
 
 .navbar {
@@ -55,7 +71,9 @@ body {
 .post-preview,
 .page-content,
 .related-posts,
-.comments {
+.comments,
+html[data-theme="dark"] .post-preview,
+html.theme-dark .post-preview {
   background-color: var(--card-bg);
   color: var(--text-color);
   border-color: var(--border-color);
@@ -118,7 +136,7 @@ blockquote {
   cursor: pointer;
   padding: 0.5rem;
   border-radius: 4px;
-  transition: all 0.2s ease;
+  transition: background-color 0.2s ease, color 0.2s ease, transform 0.3s ease;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -138,6 +156,15 @@ blockquote {
   svg {
     width: 20px;
     height: 20px;
+    transition: transform 0.3s ease, opacity 0.25s ease;
+  }
+
+  &.theme-toggle-animating {
+    transform: rotate(20deg);
+  }
+
+  &.theme-toggle-animating svg {
+    transform: rotate(180deg);
   }
 }
 

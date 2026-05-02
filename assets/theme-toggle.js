@@ -4,11 +4,6 @@
   const THEME_LIGHT = 'light';
   const THEME_DARK = 'dark';
 
-  // DOM elements
-  const toggleBtn = document.getElementById('theme-toggle');
-  const sunIcon = document.getElementById('theme-icon-sun');
-  const moonIcon = document.getElementById('theme-icon-moon');
-
   // Get saved theme or default to light
   function getSavedTheme() {
     return localStorage.getItem(THEME_KEY) || THEME_LIGHT;
@@ -21,15 +16,22 @@
 
   // Apply theme to document
   function applyTheme(theme) {
-    document.documentElement.setAttribute('data-theme', theme);
+    const root = document.documentElement;
+    root.setAttribute('data-theme', theme);
+    root.classList.toggle('theme-dark', theme === THEME_DARK);
+    root.classList.toggle('theme-light', theme === THEME_LIGHT);
 
-    // Update icon visibility
-    if (theme === THEME_DARK) {
-      sunIcon.style.display = 'none';
-      moonIcon.style.display = 'block';
-    } else {
-      sunIcon.style.display = 'block';
-      moonIcon.style.display = 'none';
+    const sunIcon = document.getElementById('theme-icon-sun');
+    const moonIcon = document.getElementById('theme-icon-moon');
+
+    if (sunIcon && moonIcon) {
+      if (theme === THEME_DARK) {
+        sunIcon.style.display = 'none';
+        moonIcon.style.display = 'block';
+      } else {
+        sunIcon.style.display = 'block';
+        moonIcon.style.display = 'none';
+      }
     }
   }
 
@@ -37,6 +39,11 @@
   function toggleTheme() {
     const currentTheme = getSavedTheme();
     const newTheme = currentTheme === THEME_LIGHT ? THEME_DARK : THEME_LIGHT;
+
+    if (toggleBtn) {
+      toggleBtn.classList.add('theme-toggle-animating');
+      window.setTimeout(() => toggleBtn.classList.remove('theme-toggle-animating'), 300);
+    }
 
     saveTheme(newTheme);
     applyTheme(newTheme);
@@ -49,21 +56,21 @@
   }
 
   // Wait for DOM to be ready
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', function() {
-      initTheme();
-
-      // Add event listener to toggle button
-      if (toggleBtn) {
-        toggleBtn.addEventListener('click', toggleTheme);
-      }
-    });
-  } else {
-    initTheme();
-
+  function bindToggle() {
+    const toggleBtn = document.getElementById('theme-toggle');
     if (toggleBtn) {
       toggleBtn.addEventListener('click', toggleTheme);
     }
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', function() {
+      initTheme();
+      bindToggle();
+    });
+  } else {
+    initTheme();
+    bindToggle();
   }
 
   // Optional: Detect system preference on first visit
