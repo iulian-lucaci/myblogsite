@@ -38,6 +38,11 @@ html.theme-light body {
   transition: background-color 0.3s ease, color 0.3s ease;
 }
 
+html.theme-switching body {
+  opacity: 0.95;
+  transition: opacity 0.25s ease;
+}
+
 html.theme-dark header.masthead .overlay,
 html[data-theme="dark"] header.masthead .overlay {
   background: rgba(0, 0, 0, 0.6);
@@ -129,6 +134,7 @@ blockquote {
 
 // Theme toggle button
 .theme-toggle {
+  position: relative;
   background: none;
   border: none;
   color: var(--navbar-text);
@@ -156,7 +162,15 @@ blockquote {
   svg {
     width: 20px;
     height: 20px;
-    transition: transform 0.3s ease, opacity 0.25s ease;
+    position: absolute;
+    opacity: 0;
+    transform: scale(0.8);
+    transition: transform 0.25s ease, opacity 0.25s ease;
+  }
+
+  .active-icon {
+    opacity: 1;
+    transform: scale(1);
   }
 
   &.theme-toggle-animating {

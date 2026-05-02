@@ -3,6 +3,7 @@
   const THEME_KEY = 'site-theme';
   const THEME_LIGHT = 'light';
   const THEME_DARK = 'dark';
+  let toggleBtn = null;
 
   // Get saved theme or default to light
   function getSavedTheme() {
@@ -26,11 +27,11 @@
 
     if (sunIcon && moonIcon) {
       if (theme === THEME_DARK) {
-        sunIcon.style.display = 'none';
-        moonIcon.style.display = 'block';
+        sunIcon.classList.remove('active-icon');
+        moonIcon.classList.add('active-icon');
       } else {
-        sunIcon.style.display = 'block';
-        moonIcon.style.display = 'none';
+        sunIcon.classList.add('active-icon');
+        moonIcon.classList.remove('active-icon');
       }
     }
   }
@@ -39,11 +40,15 @@
   function toggleTheme() {
     const currentTheme = getSavedTheme();
     const newTheme = currentTheme === THEME_LIGHT ? THEME_DARK : THEME_LIGHT;
+    const root = document.documentElement;
 
     if (toggleBtn) {
       toggleBtn.classList.add('theme-toggle-animating');
       window.setTimeout(() => toggleBtn.classList.remove('theme-toggle-animating'), 300);
     }
+
+    root.classList.add('theme-switching');
+    window.setTimeout(() => root.classList.remove('theme-switching'), 300);
 
     saveTheme(newTheme);
     applyTheme(newTheme);
