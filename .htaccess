@@ -1,0 +1,28 @@
+# Enable mod_rewrite
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteBase /
+
+  # Set 410 status for permanently removed pages
+  # Add paths here as you remove content
+  # Example: RewriteRule ^old-page/$ - [G]
+  
+  # Default 404 for other missing pages
+  ErrorDocument 404 /404.html
+  ErrorDocument 410 /410.html
+</IfModule>
+
+# Caching headers
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresDefault "access plus 2 days"
+  ExpiresByType text/html "access plus 0 seconds"
+  ExpiresByType image/jpeg "access plus 30 days"
+  ExpiresByType image/png "access plus 30 days"
+  ExpiresByType application/json "access plus 0 seconds"
+</IfModule>
+
+# Enable compression
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/plain text/xml text/css text/javascript application/javascript application/json
+</IfModule>
