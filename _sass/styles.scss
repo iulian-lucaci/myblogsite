@@ -57,6 +57,38 @@
   border-color: #007bff;
 }
 
+// Mobile responsive pagination
+@media (max-width: 767px) {
+  .page-nav-row {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 5px;
+  }
+
+  .page-nav-button {
+    flex: 1 1 100%;
+    margin: 5px 0;
+    font-size: 0.9rem;
+    padding: 8px 12px;
+  }
+
+  .page-numbers {
+    flex: 1 1 100%;
+    justify-content: center;
+    margin-top: 10px;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .page-number {
+    padding: 6px 8px;
+    margin: 0 2px;
+    font-size: 0.85rem;
+    min-width: 32px;
+    text-align: center;
+  }
+}
+
 .page-content img {
   max-width: 100%;
   height: auto;
