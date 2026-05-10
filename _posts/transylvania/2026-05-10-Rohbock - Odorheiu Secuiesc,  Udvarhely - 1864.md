@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Antique Lithograph: Rohbock - Odoreheiu Secuiesc,  Udvarhely - 1864"
+title: "Antique Lithograph: Rohbock - Odorheiu Secuiesc,  Udvarhely - 1864"
 date: 2026-05-10
 categories: [transylvania]
 tags: [Transylvania]
