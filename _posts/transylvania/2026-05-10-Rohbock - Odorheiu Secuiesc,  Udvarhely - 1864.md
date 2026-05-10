@@ -6,13 +6,13 @@ categories: [transylvania]
 tags: [Transylvania]
 description: "A historic Rohbock lithograph showing the town of Odorheiu Secuiesc, published in 1864."
 excerpt: "A 19th-century lithograph of Odorheiu Secuiesc, highlighting the ruins of the fortress."
-background: '/img/posts/transylvania/2026-05-10-Rohbock - Odoreheiu Secuiesc,  Udvarhely - 1864.jpg'
-image: "/img/posts/transylvania/2026-05-10-Rohbock - Odoreheiu Secuiesc,  Udvarhely - 1864.jpg"
+background: '/img/posts/transylvania/2026-05-10-Rohbock - Odorheiu Secuiesc,  Udvarhely - 1864.jpg'
+image: "/img/posts/transylvania/2026-05-10-Rohbock - Odorheiu Secuiesc,  Udvarhely - 1864.jpg"
 
 ---
-<img src="/img/posts/transylvania/2026-05-10-Rohbock - Odoreheiu Secuiesc,  Udvarhely - 1864.jpg" alt="1864 Rohbock lithograph of Odorheiu Secuiesc" width="1280" height="1024">
+<img src="/img/posts/transylvania/2026-05-10-Rohbock - Odorheiu Secuiesc,  Udvarhely - 1864.jpg" alt="1864 Rohbock lithograph of Odorheiu Secuiesc" width="1280" height="1024">
 #### Title ####
-Rohbock - Odoreheiu Secuiesc,  Udvarhely - 1864
+Rohbock - Odorheiu Secuiesc,  Udvarhely - 1864
 
 #### Description ####
 Old lithography signed by Ludwig Rohbock and Johann Hablitscheck and included in "Ungarn und Siebenbürgen in malerischen Original-Ansichten", publisher Gustav Georg Lange, Darmstadt 1863-1864 with texts by János Hunfalvy.
