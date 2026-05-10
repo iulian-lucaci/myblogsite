@@ -9,6 +9,14 @@
     if (typeof GLightbox === 'function') {
       GLightbox({ selector: '.glightbox', touchNavigation: true, loop: true });
     }
+
+    // Handle old blog parameters - return 410 Gone
+    const urlParams = new URLSearchParams(window.location.search);
+    const hasBlogCategory = urlParams.has('blogcategory');
+    const hasBlog = urlParams.has('blog');
+    if (hasBlogCategory || hasBlog) {
+      window.location.href = `${window.location.origin}/410.html`;
+    }
   });
 </script>
 
