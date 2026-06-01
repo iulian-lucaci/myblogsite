@@ -6,11 +6,11 @@ categories: [transylvania]
 tags: [Transylvania]
 description: "A historic Rohbock steel engraving showing the custom station of Turnu Rosu, published in 1864."
 excerpt: "A 19th-century steel engraving of Turnu Rosu, highlighting the buildings of the customs station."
-background: '/img/posts/transylvania/2026-06-01-Rohbock - Turnu Rosu,  Rothenturm, Vöröstorony - 1864.jpg'
-image: "/img/posts/transylvania/2026-06-01-Rohbock - Turnu Rosu,  Rothenturm, Vöröstorony - 1864.jpg"
+background: '/img/posts/transylvania/2026-06-01-Rohbock - Turnu Rosu,  Rothenturm, Voeroestorony - 1864.jpg'
+image: "/img/posts/transylvania/2026-06-01-Rohbock - Turnu Rosu,  Rothenturm, Voeroestorony - 1864.jpg"
 
 ---
-<img src="/img/posts/transylvania/2026-06-01-Rohbock - Turnu Rosu,  Rothenturm, Vöröstorony - 1864.jpg" alt="1864 Rohbock steel engraving of Turnu Rosu" width="1280" height="1024">
+<img src="/img/posts/transylvania/2026-06-01-Rohbock - Turnu Rosu,  Rothenturm, Voeroestorony - 1864.jpg" alt="1864 Rohbock steel engraving of Turnu Rosu" width="1280" height="1024">
 #### Title ####
 Rohbock - Turnu Rosu,  Rothenturm, Vöröstorony - 1864
 
