@@ -3,6 +3,12 @@
   RewriteEngine On
   RewriteBase /
 
+  # Redirect non-slash tag URLs to the canonical slash form
+  RewriteCond %{REQUEST_URI} ^/tags$
+  RewriteRule ^tags$ /tags/ [R=301,L]
+  RewriteCond %{REQUEST_URI} ^/tags/[^/]+$
+  RewriteRule ^tags/([^/]+)$ /tags/$1/ [R=301,L]
+
   # Set 410 status for permanently removed pages
   # Add paths here as you remove content
   # Example: RewriteRule ^old-page/$ - [G]
