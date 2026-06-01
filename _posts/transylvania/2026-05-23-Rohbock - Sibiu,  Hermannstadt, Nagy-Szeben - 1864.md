@@ -6,7 +6,7 @@ categories: [transylvania]
 tags: [Transylvania]
 description: "A historic Rohbock steel engraving showing the town of Sibiu, published in 1864."
 excerpt: "A 19th-century steel engraving of Sibiu, highlighting the ruins of the fortress."
-background: '/img/posts/transylvania/2026-05-10-Rohbock - Sibiu,  Hermannstadt, Nagy-Szeben - 1864.jpg'
+background: '/img/posts/transylvania/2026-05-23-Rohbock - Sibiu,  Hermannstadt, Nagy-Szeben - 1864.jpg'
 image: "/img/posts/transylvania/2026-05-23-Rohbock - Sibiu,  Hermannstadt, Nagy-Szeben - 1864.jpg"
 
 ---
