@@ -9,7 +9,7 @@ $(function () {
       $('#newsletterMessage').removeClass('alert-success alert-danger').text('');
       setTimeout(function () {
         $button.prop('disabled', false).text('Subscribe');
-        $('#newsletterMessage').addClass('alert-success').text('If the form has not opened in a new tab, please check your browser settings. You should receive a confirmation email shortly.');
+        $('#newsletterMessage').addClass('alert-success').text('Your signup is being submitted. Please complete any confirmation step on the next page and check your email for the double opt-in message.');
       }, 1200);
     });
   }
