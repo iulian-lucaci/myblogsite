@@ -21,7 +21,7 @@ newsletter:
   provider: mailchimp # mailchimp or convertkit
   headline: "Subscribe to our newsletter"
   description: "Get the latest posts and updates delivered by email. Confirm your subscription through the provider's double opt-in flow."
-  mailchimp_action: "https://transylvaniadigitalantiques.us3.list-manage.com/subscribe/post?u=6505442d33c192f271fad85eb&amp;id=d9994d8bc3&amp;f_id=0089dde0f0" # Example: https://xxxx.usX.list-manage.com/subscribe/post?u=...&id=...
+  mailchimp_action: "https://transylvaniadigitalantiques.us3.list-manage.com/subscribe/post?u=6505442d33c192f271fad85eb&id=d9994d8bc3&f_id=0089dde0f0" # Example: https://xxxx.usX.list-manage.com/subscribe/post?u=...&id=...
   mailchimp_email_field: "EMAIL"
   mailchimp_first_name_field: "FNAME"
   convertkit_action: "" # Example: https://app.convertkit.com/forms/YOUR_FORM_ID/subscriptions
