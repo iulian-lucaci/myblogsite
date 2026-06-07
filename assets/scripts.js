@@ -25,17 +25,18 @@ $(function () {
           success: function (resp) {
             if (resp.result === 'success') {
               var msg = resp.msg ? resp.msg.replace(/"/g, '') : '';
-              var text = 'Thanks — please check your email to confirm subscription.';
+              var text = 'Thanks — your subscription request was received.';
               if (msg) {
-                text += ' Mailchimp response: ' + msg;
+                text += ' ' + msg;
               }
-              text += ' If you do not receive a confirmation email, check your spam folder and verify your Mailchimp list settings (double opt-in and sender email).';
+              text += ' If you are a new subscriber, please check your inbox and spam folder for the Mailchimp confirmation email.';
+              text += ' If you already subscribed previously, no new confirmation email will be sent.';
               $('#newsletterMessage').addClass('alert alert-success').text(text);
             } else {
               var msg = resp.msg || 'Subscription failed. Please try again.';
               msg = msg.replace(/"/g, '');
               if (/already subscribed/i.test(msg)) {
-                msg = 'You are already subscribed. Please check your inbox or spam folder for the confirmation email.';
+                msg = 'You are already subscribed. No additional confirmation email will be sent. Please check your inbox or spam folder.';
               } else if (/too many recent signup requests/i.test(msg)) {
                 msg = 'Too many signup attempts. Please wait a few minutes and try again.';
               } else {
