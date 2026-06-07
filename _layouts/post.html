@@ -35,6 +35,28 @@ layout: default
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
 
+        <div class="post-share mb-4">
+          {% assign share_url = page.url | absolute_url | url_encode %}
+          {% assign share_title = page.title | url_encode %}
+          {% assign share_description = page.description | default: page.excerpt | default: site.description %}
+          {% assign share_text = share_description | strip_html | strip_newlines | truncate: 120 | url_encode %}
+          <span class="text-muted">Share this post:</span>
+          <div class="btn-group d-flex flex-wrap" role="group" aria-label="Share this post">
+            <a class="btn btn-outline-primary btn-sm mr-2 mb-2" href="https://twitter.com/intent/tweet?text={{ share_title }}&url={{ share_url }}{% if site.twitter_username %}&via={{ site.twitter_username }}{% endif %}" target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-twitter"></i> Twitter
+            </a>
+            <a class="btn btn-outline-secondary btn-sm mr-2 mb-2" href="https://www.facebook.com/sharer/sharer.php?u={{ share_url }}" target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-facebook-f"></i> Facebook
+            </a>
+            <a class="btn btn-outline-secondary btn-sm mr-2 mb-2" href="https://www.linkedin.com/shareArticle?mini=true&url={{ share_url }}&title={{ share_title }}&summary={{ share_text }}" target="_blank" rel="noopener noreferrer">
+              <i class="fab fa-linkedin-in"></i> LinkedIn
+            </a>
+            <a class="btn btn-outline-secondary btn-sm mb-2" href="mailto:?subject={{ share_title }}&body={{ share_text }}%0A%0A{{ share_url }}">
+              <i class="fas fa-envelope"></i> Email
+            </a>
+          </div>
+        </div>
+
         <div class="page-content">
           {{ content }}
         </div>
