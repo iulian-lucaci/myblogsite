@@ -24,7 +24,13 @@ $(function () {
           dataType: 'jsonp',
           success: function (resp) {
             if (resp.result === 'success') {
-              $('#newsletterMessage').addClass('alert alert-success').text('Thanks — please check your email to confirm subscription.');
+              var msg = resp.msg ? resp.msg.replace(/"/g, '') : '';
+              var text = 'Thanks — please check your email to confirm subscription.';
+              if (msg) {
+                text += ' Mailchimp response: ' + msg;
+              }
+              text += ' If you do not receive a confirmation email, check your spam folder and verify your Mailchimp list settings (double opt-in and sender email).';
+              $('#newsletterMessage').addClass('alert alert-success').text(text);
             } else {
               var msg = resp.msg || 'Subscription failed. Please try again.';
               msg = msg.replace(/"/g, '');
