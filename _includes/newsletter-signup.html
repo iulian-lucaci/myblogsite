@@ -1,0 +1,48 @@
+{% assign provider = site.newsletter.provider | default: "mailchimp" | downcase %}
+{% assign headline = site.newsletter.headline | default: "Subscribe to our newsletter" %}
+{% assign description = site.newsletter.description | default: "Get the latest posts and exclusive updates delivered by email. Confirm your subscription via the provider's opt-in flow." %}
+{% if provider == "convertkit" %}
+  {% assign action = site.newsletter.convertkit_action %}
+  {% assign email_name = site.newsletter.convertkit_email_field | default: "email_address" %}
+  {% assign first_name_name = site.newsletter.convertkit_first_name_field | default: "first_name" %}
+{% else %}
+  {% assign action = site.newsletter.mailchimp_action %}
+  {% assign email_name = site.newsletter.mailchimp_email_field | default: "EMAIL" %}
+  {% assign first_name_name = site.newsletter.mailchimp_first_name_field | default: "FNAME" %}
+{% endif %}
+
+<section class="newsletter-signup py-3">
+  <div class="newsletter-signup-inner">
+    <h3>{{ headline }}</h3>
+    <p class="mb-3">{{ description }}</p>
+
+    {% if action %}
+      <form id="newsletterForm" class="form-inline newsletter-form" action="{{ action }}" method="post" target="_blank" novalidate>
+        <div class="form-row w-100 align-items-center">
+          <div class="col-12 col-md-4 mb-2 mb-md-0">
+            <label class="sr-only" for="newsletterEmail">Email address</label>
+            <input type="email" class="form-control w-100" id="newsletterEmail" name="{{ email_name }}" placeholder="Your email address" required data-validation-required-message="Please enter a valid email address.">
+          </div>
+          <div class="col-12 col-md-3 mb-2 mb-md-0">
+            <label class="sr-only" for="newsletterName">First name</label>
+            <input type="text" class="form-control w-100" id="newsletterName" name="{{ first_name_name }}" placeholder="First name (optional)">
+          </div>
+          <div class="col-12 col-md-5 d-flex flex-column">
+            <div class="form-check mb-2">
+              <input class="form-check-input" type="checkbox" id="newsletterConsent" required>
+              <label class="form-check-label" for="newsletterConsent">
+                I agree to receive email updates and confirm my subscription via double opt-in.
+              </label>
+            </div>
+            <button type="submit" class="btn btn-primary btn-block" id="newsletterSubmit">Subscribe</button>
+          </div>
+        </div>
+      </form>
+      <div id="newsletterMessage" class="mt-3" aria-live="polite"></div>
+    {% else %}
+      <div class="alert alert-warning" role="alert">
+        Newsletter signup is configured but missing the provider form action. Please set <code>newsletter.mailchimp_action</code> or <code>newsletter.convertkit_action</code> in <code>_config.yml</code>.
+      </div>
+    {% endif %}
+  </div>
+</section>

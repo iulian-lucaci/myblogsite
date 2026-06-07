@@ -6,6 +6,12 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-8 col-md-10 mx-auto">
+        {% if site.newsletter and site.newsletter.provider %}
+        <div class="newsletter-footer mb-4">
+          {% include newsletter-signup.html %}
+        </div>
+        {% endif %}
+
         <ul class="list-inline text-center">
           {% if site.email %}
           <li class="list-inline-item">

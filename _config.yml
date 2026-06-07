@@ -17,6 +17,17 @@ facebook_username:  StartBootstrap
 instagram_username:  
 linkedin_username:
 
+newsletter:
+  provider: mailchimp # mailchimp or convertkit
+  headline: "Subscribe to our newsletter"
+  description: "Get the latest posts and updates delivered by email. Confirm your subscription through the provider's double opt-in flow."
+  mailchimp_action: "" # Example: https://xxxx.usX.list-manage.com/subscribe/post?u=...&id=...
+  mailchimp_email_field: "EMAIL"
+  mailchimp_first_name_field: "FNAME"
+  convertkit_action: "" # Example: https://app.convertkit.com/forms/YOUR_FORM_ID/subscriptions
+  convertkit_email_field: "email_address"
+  convertkit_first_name_field: "first_name"
+
 # Add your google-analytics ID here to activate google analytics
 google_analytics: G-BE289B7HBN # Replace with your GA4 Measurement ID
 google_analytics_enabled: true # Set false to disable the manual GA tag when using GTM
