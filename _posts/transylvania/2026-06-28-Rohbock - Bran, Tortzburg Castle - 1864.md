@@ -10,7 +10,7 @@ background: '/img/posts/transylvania/Bran, Tortzburg Castle.jpg'
 image: "/img/posts/transylvania/2026-06-28-Rohbock - Bran, Tortzburg Castle - 1864.jpg"
 
 ---
-<img src="/img/posts/transylvania/2026-06-28-Rohbock - Bran, Tortzburg Castle - 1864.jpg" alt="1864 Rohbock steel engraving of the Romanian church from Brasov" width="1280" height="1024">
+<img src="/img/posts/transylvania/2026-06-28-Rohbock - Bran, Tortzburg Castle - 1864.jpg" alt="1864 Rohbock steel engraving of the Bran, Tortzburg Castle" width="1280" height="1024">
 #### Title ####
 Rohbock - Bran, Tortzburg Castle - 1864
 
