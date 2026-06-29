@@ -6,7 +6,7 @@ categories: [transylvania]
 tags: [Transylvania]
 description: "A historic Rohbock steel engraving showing the Bran, Tortzburg Castle, published in 1864."
 excerpt: "A 19th-century steel engraving of the Bran, Tortzburg Castle."
-background: '/img/posts/transylvania/Bran, Tortzburg Castle.jpg'
+background: '/img/posts/transylvania/2026-06-28-Rohbock - Bran, Tortzburg Castle - 1864.jpg'
 image: "/img/posts/transylvania/2026-06-28-Rohbock - Bran, Tortzburg Castle - 1864.jpg"
 
 ---
