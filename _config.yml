@@ -32,8 +32,8 @@ newsletter:
 google_analytics: G-BE289B7HBN # Replace with your GA4 Measurement ID
 google_analytics_enabled: true # Set false to disable the manual GA tag when using GTM
 
-# Add your Google Tag Manager container ID here
-google_tag_manager: "GTM-PDFS2JSM"
+# Google Tag Manager is disabled; using the direct GA4 snippet instead.
+google_tag_manager: ""
 
 # Google Consent Mode - set false to disable the consent banner
 google_consent_mode_enabled: true
