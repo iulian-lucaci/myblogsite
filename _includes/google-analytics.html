@@ -23,7 +23,13 @@
     }
   };
 
+  window.__analyticsPageViewSent = false;
+
   window.__trackPageViewIfConsented = function() {
+    if (window.__analyticsPageViewSent) {
+      return;
+    }
+
     const consentStorageKey = 'google-consent-mode';
     let consent = null;
 
@@ -42,12 +48,9 @@
         page_type: {{ layout.name | default: "page" | jsonify }},
         page_category: {{ page.categories | first | default: "general" | jsonify }}
       });
+      window.__analyticsPageViewSent = true;
     }
   };
-
-  document.addEventListener('DOMContentLoaded', function() {
-    window.__trackPageViewIfConsented();
-  });
 </script>
 {% endif %}
 

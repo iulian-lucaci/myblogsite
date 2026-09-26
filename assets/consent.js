@@ -95,8 +95,6 @@
     if (typeof window.__trackPageViewIfConsented === 'function') {
       window.__trackPageViewIfConsented();
     }
-
-    console.log('Consent: Analytics accepted');
   }
 
   // Handle reject
@@ -111,14 +109,12 @@
         source: 'cookie_banner'
       });
     }
-
-    console.log('Consent: Analytics rejected');
   }
 
   // Initialize consent on page load
   function initConsent() {
     const saved = getSavedConsent();
-    
+
     // Check if consent is still valid
     if (saved) {
       const expiryDate = new Date(saved.expiry);
