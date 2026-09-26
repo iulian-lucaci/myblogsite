@@ -2,89 +2,67 @@
 # It only processes markdown-generated pages/posts to avoid rewriting inline JS strings.
 
 require 'cgi'
+require 'nokogiri'
 
 module Jekyll
   module ResponsiveImageSrcset
-    IMAGE_TAG_PATTERN = /<img\b([^>]*?)>/i
-
     def self.process_html(html, page)
       return html unless html
 
-      html = add_lightbox_anchors(html, page)
+      doc = Nokogiri::HTML::DocumentFragment.parse(html)
+      add_lightbox_anchors(doc, page)
 
-      html.gsub(IMAGE_TAG_PATTERN) do |img_tag|
-        src_match = img_tag.match(/src=(['"])([^'">]+?)\1/i)
-        src = src_match && src_match[2]
-        next img_tag unless src
-        next img_tag if src =~ %r{\A(?:https?:|data:)}i
+      doc.css('img').to_a.each do |img|
+        src = img['src']
+        next unless src
+        next if src =~ %r{\A(?:https?:|data:)}i
 
-        img_tag = add_loading_lazy(img_tag)
-        img_tag = add_decoding_async(img_tag)
+        img['loading'] = 'lazy' unless img['loading']
+        img['decoding'] = 'async' unless img['decoding']
 
         src_path = src.sub(%r{\A/}, '')
         source_path = File.join(page.site.source, src_path)
         variant_path = find_variant(source_path)
 
-        if variant_path
-          srcset = build_srcset(src, source_path, variant_path)
-          img_tag = img_tag.sub(/(\s*\/?>)\z/, " srcset=\"#{srcset}\" sizes=\"(max-width: 768px) 100vw, 768px\"\1") if srcset
-        end
+        next unless variant_path
 
-        img_tag
+        srcset = build_srcset(src, source_path, variant_path)
+        next unless srcset
+
+        img['srcset'] = srcset
+        img['sizes'] = '(max-width: 768px) 100vw, 768px'
       end
+
+      doc.to_html
     end
 
-    def self.add_lightbox_anchors(html, page)
+    def self.add_lightbox_anchors(doc, page)
       gallery_id = "glightbox-#{page.url.gsub(/[^a-z0-9]+/i, '-') }"
 
-      html.gsub(IMAGE_TAG_PATTERN) do |img_tag|
-        position = Regexp.last_match.begin(0)
-        before = html[0...position]
+      doc.css('img').to_a.each do |img|
+        next if img.ancestors('a').any?
 
-        if before.rindex('</a>') && before.rindex('<a') && before.rindex('<a') > before.rindex('</a>')
-          next img_tag
+        src = img['src']
+        next unless src
+        next if src =~ %r{\A(?:https?:|data:)}i
+
+        alt_value = img['alt'].to_s
+        title_attr = escape_html(alt_value)
+
+        unless alt_value.include?('@transylvaniadigitalantiques.com')
+          alt_value = alt_value + ' © transylvaniadigitalantiques.com'
+          img['alt'] = alt_value
+          title_attr = escape_html(alt_value)
         end
 
-        src_match = img_tag.match(/src=(['"])([^'">]+?)\1/i)
-        next img_tag unless src_match
-        src = src_match[2]
-        next img_tag if src =~ %r{\A(?:https?:|data:)}i
-
-        alt_match = img_tag.match(/alt=(['"])([^'">]*?)\1/i)
-        title_attr = alt_match ? escape_html(alt_match[2]) : nil
-
-        # Add copyright to alt text if not already present
-        if alt_match
-          alt_value = alt_match[2]
-          unless alt_value.include?('@transylvaniadigitalantiques.com')
-            alt_value += ' © transylvaniadigitalantiques.com'
-            img_tag = img_tag.sub(/alt=(['"])([^'">]*?)\1/i, "alt=\"#{escape_html(alt_value)}\"")
-            title_attr = escape_html(alt_value)
-          end
-        else
-          # Add alt attribute with copyright if missing
-          img_tag = img_tag.sub(/(\s*\/?>)\z/, " alt=\"© transylvaniadigitalantiques.com\"\1")
-          title_attr = '© transylvaniadigitalantiques.com'
-        end
-
-        link_attrs = ["href=\"#{src}\"", 'class="glightbox"', "data-gallery=\"#{gallery_id}\""]
-        link_attrs << "data-title=\"#{title_attr}\"" if title_attr
-
-        "<a #{link_attrs.join(' ')}>#{img_tag}</a>"
+        anchor = Nokogiri::XML::Node.new('a', doc)
+        anchor['href'] = src
+        anchor['class'] = 'glightbox'
+        anchor['data-gallery'] = gallery_id
+        anchor['data-title'] = title_attr unless title_attr.empty?
+        img.add_previous_sibling(anchor)
+        anchor.add_child(img)
       end
-    end
-
-    def self.add_loading_lazy(img_tag)
-      add_attribute(img_tag, 'loading', 'lazy')
-    end
-
-    def self.add_decoding_async(img_tag)
-      add_attribute(img_tag, 'decoding', 'async')
-    end
-
-    def self.add_attribute(img_tag, name, value)
-      return img_tag if img_tag =~ /\b#{Regexp.escape(name)}=/i
-      img_tag.sub(/(\s*\/?>)\z/, " #{name}=\"#{value}\"\1")
     end
 
     def self.find_variant(source_path)
