@@ -17,8 +17,20 @@
 
   // Check for stored consent preference
   function getSavedConsent() {
-    const saved = localStorage.getItem(CONSENT_KEY);
-    return saved ? JSON.parse(saved) : null;
+    try {
+      if (!window.localStorage) return null;
+      const saved = window.localStorage.getItem(CONSENT_KEY);
+      if (!saved) return null;
+
+      const parsed = JSON.parse(saved);
+      if (!parsed || typeof parsed !== 'object') return null;
+      if (typeof parsed.granted !== 'boolean') return null;
+      if (typeof parsed.expiry !== 'string' || Number.isNaN(new Date(parsed.expiry).getTime())) return null;
+
+      return parsed;
+    } catch (error) {
+      return null;
+    }
   }
 
   // Save consent preference
@@ -28,7 +40,15 @@
       timestamp: new Date().toISOString(),
       expiry: new Date(Date.now() + CONSENT_EXPIRY_DAYS * 24 * 60 * 60 * 1000).toISOString()
     };
-    localStorage.setItem(CONSENT_KEY, JSON.stringify(consent));
+
+    try {
+      if (window.localStorage) {
+        window.localStorage.setItem(CONSENT_KEY, JSON.stringify(consent));
+      }
+    } catch (error) {
+      // Ignore storage failures so consent handling still works in restricted browsers.
+    }
+
     return consent;
   }
 

@@ -18,21 +18,29 @@
         page_location: window.location.href,
         page_title: document.title,
         page_path: window.location.pathname,
-        page_date: '{{ page.date | date: "%Y-%m-%d" }}'
+        page_date: {{ page.date | date: "%Y-%m-%d" | jsonify }}
       }, params || {}));
     }
   };
 
   window.__trackPageViewIfConsented = function() {
     const consentStorageKey = 'google-consent-mode';
-    const saved = localStorage.getItem(consentStorageKey);
-    const consent = saved ? JSON.parse(saved) : null;
-    const isGranted = consent && consent.granted && new Date(consent.expiry) > new Date();
+    let consent = null;
+
+    try {
+      const saved = window.localStorage ? window.localStorage.getItem(consentStorageKey) : null;
+      consent = saved ? JSON.parse(saved) : null;
+    } catch (error) {
+      consent = null;
+    }
+
+    const hasValidExpiry = consent && typeof consent.expiry === 'string' && !Number.isNaN(new Date(consent.expiry).getTime());
+    const isGranted = !!(consent && consent.granted === true && hasValidExpiry && new Date(consent.expiry) > new Date());
 
     if (isGranted && typeof window.gtag === 'function') {
       window.__sendSiteAnalyticsEvent('page_view', {
-        page_type: '{{ layout.name | default: "page" }}',
-        page_category: '{{ page.categories | first | default: "general" }}'
+        page_type: {{ layout.name | default: "page" | jsonify }},
+        page_category: {{ page.categories | first | default: "general" | jsonify }}
       });
     }
   };
