@@ -99,10 +99,10 @@ end
 front_matter = [
   '---',
   'layout: post',
-  "title: \"#{title.gsub('"', '\\"')}\"",
+  "title: #{title.dump}",
 ]
 
-front_matter << "subtitle: \"#{options[:subtitle].gsub('"', '\\"')}\"" if options[:subtitle]
+front_matter << "subtitle: #{options[:subtitle].dump}" if options[:subtitle]
 front_matter << "date: #{options[:publish_date].strftime('%Y-%m-%d %H:%M:%S')}"
 front_matter << "categories: [#{categories.map { |c| c.strip }.map { |c| c.include?(',') ? "\"#{c}\"" : c }.join(', ')}]"
 front_matter << "tags: [#{options[:tags].map { |tag| tag.strip }.map { |tag| tag.include?(',') ? "\"#{tag}\"" : tag }.join(', ')}]" unless options[:tags].empty?
