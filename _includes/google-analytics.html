@@ -6,7 +6,40 @@
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', '{{ site.google_analytics }}');
+  gtag('config', '{{ site.google_analytics }}', {
+    page_location: window.location.href,
+    page_title: document.title,
+    page_path: window.location.pathname
+  });
+
+  window.__sendSiteAnalyticsEvent = function(eventName, params) {
+    if (typeof window.gtag === 'function') {
+      window.gtag('event', eventName, Object.assign({
+        page_location: window.location.href,
+        page_title: document.title,
+        page_path: window.location.pathname,
+        page_date: '{{ page.date | date: "%Y-%m-%d" }}'
+      }, params || {}));
+    }
+  };
+
+  window.__trackPageViewIfConsented = function() {
+    const consentStorageKey = 'google-consent-mode';
+    const saved = localStorage.getItem(consentStorageKey);
+    const consent = saved ? JSON.parse(saved) : null;
+    const isGranted = consent && consent.granted && new Date(consent.expiry) > new Date();
+
+    if (isGranted && typeof window.gtag === 'function') {
+      window.__sendSiteAnalyticsEvent('page_view', {
+        page_type: '{{ layout.name | default: "page" }}',
+        page_category: '{{ page.categories | first | default: "general" }}'
+      });
+    }
+  };
+
+  document.addEventListener('DOMContentLoaded', function() {
+    window.__trackPageViewIfConsented();
+  });
 </script>
 {% endif %}
 

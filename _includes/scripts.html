@@ -58,6 +58,12 @@
             cache: false,
             crossDomain: true,
             success: function () {
+              if (typeof window.__sendSiteAnalyticsEvent === 'function') {
+                window.__sendSiteAnalyticsEvent('contact_form_submit', {
+                  status: 'success',
+                  form_name: 'contactForm'
+                });
+              }
               // Success message
               $('#success').html("<div class='alert alert-success'>");
               $('#success > .alert-success').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;").append("</button>");
@@ -67,6 +73,12 @@
               $('#contactForm').trigger("reset");
             },
             error: function () {
+              if (typeof window.__sendSiteAnalyticsEvent === 'function') {
+                window.__sendSiteAnalyticsEvent('contact_form_submit', {
+                  status: 'error',
+                  form_name: 'contactForm'
+                });
+              }
               // Fail message replaced with success message
 /*               $('#success').html("<div class='alert alert-danger'>");
               $('#success > .alert-danger').html("<button type='button' class='close' data-dismiss='alert' aria-hidden='true'>&times;").append("</button>");

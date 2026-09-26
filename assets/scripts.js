@@ -1,5 +1,30 @@
 $(function () {
-  $('[data-toggle="tooltip"]').tooltip()
+  $('[data-toggle="tooltip"]').tooltip();
+
+  function trackEventIfAllowed(eventName, params) {
+    if (typeof window.__sendSiteAnalyticsEvent === 'function') {
+      window.__sendSiteAnalyticsEvent(eventName, params || {});
+    }
+  }
+
+  function isExternalLink(link) {
+    if (!link || !link.href) return false;
+    if (link.protocol === 'mailto:' || link.protocol === 'tel:') return false;
+    var url = new URL(link.href, window.location.href);
+    return url.origin !== window.location.origin;
+  }
+
+  $(document).on('click', 'a', function (event) {
+    var $link = $(this);
+    var href = $link.attr('href') || '';
+    if (!href || $link.attr('target') === '_blank' || isExternalLink(this)) {
+      trackEventIfAllowed('outbound_link_click', {
+        link_url: href,
+        link_text: ($link.text() || '').trim(),
+        link_target: $link.attr('target') || '_self'
+      });
+    }
+  });
 
   var $newsletterForm = $('#newsletterForm');
   if ($newsletterForm.length) {
@@ -31,7 +56,15 @@ $(function () {
           url: jsonpUrl,
           dataType: 'jsonp',
           success: function (resp) {
-            if (resp.result === 'success') {
+            var wasSuccessful = resp && resp.result === 'success';
+
+            trackEventIfAllowed('newsletter_signup', {
+              provider: 'mailchimp',
+              status: wasSuccessful ? 'success' : 'error',
+              message: resp && resp.msg ? String(resp.msg) : ''
+            });
+
+            if (wasSuccessful) {
               var msg = resp.msg ? resp.msg.replace(/"/g, '') : '';
               var text = 'Thanks — your subscription request was received.';
               if (msg) {
@@ -55,11 +88,19 @@ $(function () {
             $button.prop('disabled', false).text('Subscribe');
           },
           error: function () {
+            trackEventIfAllowed('newsletter_signup', {
+              provider: 'mailchimp',
+              status: 'network_error'
+            });
             $('#newsletterMessage').addClass('alert alert-danger').text('Subscription failed due to a network error. Please try again.');
             $button.prop('disabled', false).text('Subscribe');
           }
         });
       } else {
+        trackEventIfAllowed('newsletter_signup', {
+          provider: 'other',
+          status: 'redirected'
+        });
         // Non-Mailchimp providers: fall back to normal submit to allow provider handling
         // Remove our handler and submit the form normally
         $form.off('submit');
@@ -67,4 +108,4 @@ $(function () {
       }
     });
   }
-})
+});

@@ -64,6 +64,18 @@
     saveConsent(true);
     updateConsentMode(true);
     hideBanner();
+
+    if (typeof window.__sendSiteAnalyticsEvent === 'function') {
+      window.__sendSiteAnalyticsEvent('consent_accepted', {
+        consent_type: 'analytics',
+        source: 'cookie_banner'
+      });
+    }
+
+    if (typeof window.__trackPageViewIfConsented === 'function') {
+      window.__trackPageViewIfConsented();
+    }
+
     console.log('Consent: Analytics accepted');
   }
 
@@ -72,6 +84,14 @@
     saveConsent(false);
     updateConsentMode(false);
     hideBanner();
+
+    if (typeof window.__sendSiteAnalyticsEvent === 'function') {
+      window.__sendSiteAnalyticsEvent('consent_rejected', {
+        consent_type: 'analytics',
+        source: 'cookie_banner'
+      });
+    }
+
     console.log('Consent: Analytics rejected');
   }
 
@@ -86,6 +106,18 @@
         // Consent is still valid, apply it
         updateConsentMode(saved.granted);
         hideBanner();
+
+        if (saved.granted && typeof window.__sendSiteAnalyticsEvent === 'function') {
+          window.__sendSiteAnalyticsEvent('consent_restored', {
+            consent_type: 'analytics',
+            source: 'stored_consent'
+          });
+        }
+
+        if (saved.granted && typeof window.__trackPageViewIfConsented === 'function') {
+          window.__trackPageViewIfConsented();
+        }
+
         return;
       }
     }
