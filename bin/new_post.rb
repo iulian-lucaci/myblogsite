@@ -107,7 +107,7 @@ front_matter << "date: #{options[:publish_date].strftime('%Y-%m-%d %H:%M:%S')}"
 front_matter << "categories: [#{categories.map { |c| c.strip }.map { |c| c.include?(',') ? "\"#{c}\"" : c }.join(', ')}]"
 front_matter << "tags: [#{options[:tags].map { |tag| tag.strip }.map { |tag| tag.include?(',') ? "\"#{tag}\"" : tag }.join(', ')}]" unless options[:tags].empty?
 front_matter << "description: \"#{options[:description].gsub('"', '\\"')}\"" if options[:description]
-front_matter << "excerpt: \"#{options[:excerpt].gsub('"', '\\"')}\"" if options[:excerpt]
+front_matter << "excerpt: #{options[:excerpt].dump}" if options[:excerpt]
 front_matter << "background: '#{options[:background]}'" if options[:background]
 front_matter << "image: '#{options[:image]}'" if options[:image]
 front_matter << '---'
