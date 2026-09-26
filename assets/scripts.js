@@ -14,7 +14,15 @@ $(function () {
       var data = $form.serialize();
 
       // Mailchimp requires JSONP for AJAX submissions; detect list-manage.com
-      if (action.indexOf('list-manage.com') !== -1) {
+      var isMailchimpAction = false;
+      try {
+        var parsedAction = new URL(action, window.location.href);
+        var host = (parsedAction.hostname || '').toLowerCase();
+        isMailchimpAction = host === 'list-manage.com' || host.endsWith('.list-manage.com');
+      } catch (err) {
+        isMailchimpAction = false;
+      }
+      if (isMailchimpAction) {
         var jsonpUrl = action.replace('/post?', '/post-json?');
         // Append form data and JSONP callback
         if (jsonpUrl.indexOf('?') === -1) jsonpUrl += '?';
