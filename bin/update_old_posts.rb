@@ -8,8 +8,8 @@ POSTS_DIR = File.expand_path('../_posts', __dir__)
 
 def clean_text(text)
   result = text.dup
-  result.gsub!(/<script.*?>.*?<\/script>/mi, ' ')
-  result.gsub!(/<style.*?>.*?<\/style>/mi, ' ')
+  result.gsub!(/<script\b[^>]*>.*?<\/script\b[^>]*>/mi, ' ')
+  result.gsub!(/<style\b[^>]*>.*?<\/style\b[^>]*>/mi, ' ')
   result.gsub!(/<[^>]+>/, ' ')
   result.gsub!(/!\[[^\]]*\]\([^\)]*\)/, ' ')
   result.gsub!(/\[([^\]]+)\]\([^\)]*\)/, '\1')
