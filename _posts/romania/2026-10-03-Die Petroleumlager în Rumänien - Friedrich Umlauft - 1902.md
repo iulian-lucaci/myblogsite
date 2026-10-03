@@ -4,8 +4,8 @@ title: Die Petroleumlager în Rumänien - Friedrich Umlauft - 1902
 date: 2026-10-03
 categories: ["romania"]
 tags: ["Romania", "Transylvania", "Wallachia", "Moldova", "Bessarabia", "Danube"]
-description: Map of the oil deposits in Romania published in 1902 iDeutsche Rundschau für Geographie und Statistik by Friedrich Umlauft
-excerpt: Map of the oil deposits in Romania published in 1902 iDeutsche Rundschau für Geographie und Statistik by Friedrich Umlauft
+description: Map of the oil deposits in Romania published in 1902 in Deutsche Rundschau für Geographie und Statistik by Friedrich Umlauft
+excerpt: Map of the oil deposits in Romania published in 1902 in Deutsche Rundschau für Geographie und Statistik by Friedrich Umlauft
 background: /img/posts/romania/2026-10-03-Die Petroleumlager în Rumänien - Friedrich Umlauft - 1902.jpg
 image: /img/posts/romania/2026-10-03-Die Petroleumlager în Rumänien - Friedrich Umlauft - 1902.jpg
 ---
