@@ -11,10 +11,12 @@ image: "/img/posts/banat/2026-10-11-Bartlett - Baths of Mehadia.jpg"
 
 ---
 <img src="/img/posts/banat/2026-10-11-Bartlett - Baths of Mehadia.jpg" alt="1840 Bartlett steel engraving of the Baths of Mehadia" width="1280" height="1024">
-#### Title ####
+
+## Title ##
+
 Bartlett - Baths of Mehadia - 1840
 
-#### Description ####
+## Description ##
 
 Overview of the "Baths of Mehadia" Engraving
 
@@ -61,14 +63,14 @@ The resort is currently entering a critical turning point to reverse its decline
 
 • Future Roadmap: Backed by state initiatives, this program aims to finally untangle the structural, financial, and legal obstacles that have plagued the valley, laying down a roadmap to comprehensively restore the historic center over the coming years.
 
-#### Date ####
+## Date ##
 
 1840 ( undated )
 
-#### Dimension ####
+## Dimension ##
 
 Picture size approx.: 11 x 16 cm
 
-#### Author ####
+## Author ##
 
 William Henry Bartlett (1809–1854), an eminent British artist celebrated for his detailed topographical steel engravings.

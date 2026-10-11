@@ -11,10 +11,13 @@ image: "/img/posts/banat/2026-09-26-Bartlett - Babacai Rock.jpg"
 
 ---
 <img src="/img/posts/banat/2026-09-26-Bartlett - Babacai Rock.jpg" alt="1840 Bartlett steel engraving of the Babacai Rock" width="1280" height="1024">
-#### Title ####
+
+## Title ##
+
 Bartlett - Babacai Rock - 1840
 
-#### Description ####
+## Description ##
+
 The engraving of Babacai comes from a monumental 19th-century travel volume titled The Danube: Its History, Scenery, and Topography. The book is highly regarded by historians as one of the most comprehensive illustrated records of Central and Eastern European geography from the Victorian era.
 
 📚 Publication Overview
@@ -31,9 +34,9 @@ This image confirms the precise steel engraving titled "Babacai" from William Be
 
 Visual Layout & Detailed Breakdown
 
-The Left Foreground: A prominent, windswept old tree with dense foliage leans heavily toward the river, framing the scene. Beneath it, a winding dirt path leads down toward a small shore settlement with modest structures or tents. Several figures in historical Ottoman-era or local Balkan attire are depicted walking and resting along the bank.The 
+The Left Foreground: A prominent, windswept old tree with dense foliage leans heavily toward the river, framing the scene. Beneath it, a winding dirt path leads down toward a small shore settlement with modest structures or tents. Several figures in historical Ottoman-era or local Balkan attire are depicted walking and resting along the bank.
 
-River & Watercraft: The Danube River stretches across the mid-ground. A small, multi-passenger rowboat is visible on the right, while smaller fishing boats and sailing vessels dot the calmer waters further out.
+The River & Watercraft: The Danube River stretches across the mid-ground. A small, multi-passenger rowboat is visible on the right, while smaller fishing boats and sailing vessels dot the calmer waters further out.
 
 The Central Monolith: The famous Babacai Rock rises sharply near the center of the channel. Its stark, conical profile acts as the main focal point of the composition, anchoring the expansive water and mountain landscape.
 
@@ -41,12 +44,14 @@ The Background Elements: On the distant left bank, the faint outlines of towers 
 
 The print represents a classic example of 19th-century European Romantic landscape art, combining rugged, wild nature with cultural and historical scale.
 
-#### Date ####
+## Date ##
+
 1840 ( undated )
 
-#### Dimension ####
-Picture size approx.: 11 x 16 cm 
+## Dimension ##
 
-#### Author: ####
+Picture size approx.: 11 x 16 cm
+
+## Author ##
+
 William Henry Bartlett (1809–1854), an eminent British artist celebrated for his detailed topographical steel engravings.
-
