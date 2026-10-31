@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Antique Steel Engraving: Bartlett - Drey Kule Svinita - 1840"
-date: 2026-10-11
+date: 2026-10-31
 categories: [banat]
 tags: [Banat]
 description: "A historic Bartlett steel engraving showing the Drey Kule Svinita with remains of the Roman fort, published in 1840."
