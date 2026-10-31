@@ -43,7 +43,9 @@ Long before the medieval three towers were constructed, this precise bottleneck 
 Recycled History: Building the Medieval Towers
 
 The tactical brilliance of the Roman engineers left a permanent mark on the medieval Tricule fortress itself:
+
 • The Foundation Overlay: Archaeological excavations registered in the National Archaeological Record of Romania confirm that the medieval fortress was built directly over the ancient Roman and Hallstatt-era occupational layers.
+
 • Roman Stone Spolia: When the Teutonic Knights and later regional rulers constructed the three medieval towers, they heavily repurposed stone and masonry directly from the crumbling Roman ruins situated on the cliffs above them.
 
 The Tricule Fortress (historically documented as Tri Kule, Triculi, or Drey Kule) has a rich wartime history deeply tied to the centuries-long military conflict between the Kingdom of Hungary, the Habsburg Empire, and the Ottoman Empire.
@@ -52,20 +54,27 @@ Constructed purely for military defense, tactical observation, and anti-smugglin
 The Pre-Ottoman Frontier (13th – Early 15th Century)
 
 Before the distinct "Three Towers" setup was erected, the strategic site near Svinița was occupied by earlier fortifications.
+
 • The Teutonic Knights (1419–1430): To counter the early, aggressive Ottoman raids piercing into Eastern Europe, King Sigismund of Luxemburg assigned the defense of the Danube border region to the Teutonic Knights. They reinforced local outposts, but intense Ottoman pressure eventually destroyed the initial fortress.
+
 • Reconstruction from Ruins: The stones from the older, ruined Teutonic defense walls were later re-harvested to build what became the structural layout of Tricule.
 
 Construction Against Ottoman Expansion (15th – 16th Century)
 
 As the Ottoman Empire expanded northward after the fall of Constantinople, the Banat region became a militarized buffer zone.
+
 • The Triangular Stronghold: Built in its current form around the late 15th century or reinforced in the mid-16th century by Petru Petrovici (the Ban over the Lugoj and Caransebeș fortresses), Tricule was explicitly engineered to halt Ottoman ships and land troops advancing westward.
+
 • The Tactical Design: The fortress consisted of three thick-walled stone towers (10–11 meters high with 1.4-meter-wide walls) arranged in a tactical triangle. Tower 3 was positioned closest to the river, while Towers 1 and 2 occupied the higher slopes behind it. This layout allowed soldiers on three separate internal levels to rain arrows, early firearms, and artillery down on incoming enemy vessels trying to navigate the narrow Danube narrows.
 
 Shifting Imperial Hands (17th – 18th Century)
 
 For over two centuries, Tricule fell back and forth between rival empires as the frontline fluidly shifted.
+
 • The Ottoman Conquest: The Turks eventually overwhelmed the regional defenses, claiming the fortress and adding to its military history (the word "Kule" itself is the Turkish word for tower). Under Ottoman control, it was repurposed to enforce river tolls, prevent contraband, and monitor Austrian military movements.
+
 • The Austrian Counter-Offensive: Following the Great Turkish War and the liberation of regional territories by the Holy League in the late 17th century, the Imperial Austrian army successfully re-captured the fortress.
+
 • The Military Frontier (1718): After the Treaty of Passarowitz (Požarevac) in 1718, the Banat region was completely liberated from direct Turkish rule. Tricule was integrated into the Habsburg Military Frontier (Militärgrenze), acting as a fortified border picket station manned by localized frontier guards (granițeri) to watch for rogue Ottoman incursions originating from the southern side of the river.
 
 Peaceful Decay and Inundation
