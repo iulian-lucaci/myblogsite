@@ -10,7 +10,7 @@ background: '/img/posts/transylvania/2026-11-22-Beyer - Sibiu, Hermannstadt - 18
 image: "/img/posts/transylvania/2026-11-22-Beyer - Sibiu, Hermannstadt - 1840.jpg"
 
 ---
-<img src="/img/posts/transylvania/2026-11-22-Beyer - Sibiu, Hermannstadt - 1840.jpg" alt="1864 Beyer steel engraving of Sibiu, Hermannstadt" width="1280" height="1024">
+<img src="/img/posts/transylvania/2026-11-22-Beyer - Sibiu, Hermannstadt - 1840.jpg" alt="1840 Beyer steel engraving of Sibiu, Hermannstadt" width="1280" height="1024">
 #### Title ####
 Beyer - Sibiu, Hermannstadt - 1840
 
