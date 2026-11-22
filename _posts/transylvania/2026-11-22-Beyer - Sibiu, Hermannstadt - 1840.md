@@ -50,11 +50,12 @@ Artistic Career and Style
 • Notable collaborations. Like most master engravers of his era, he frequently translated on-site drawings and paintings by other celebrated artists into reproducible prints. He collaborated closely with leading figures such as Jakob Alt, Ludwig Richter, and Johann Adam Klein, as well as Viennese publishing houses like Artaria & Co..
 
 • Main subjects. His body of work spans several distinct themes:
-	• Cityscapes (Vedute). Panoramic views of cities across the Habsburg territories and German states—including Vienna, Bamberg, Bayreuth, Hamburg, and Transylvanian towns like Hermannstadt (Sibiu).
 
-	• Military and historical scenes. Early in his career, he gained recognition for a 12-plate series depicting French Napoleonic troops (1813–1815) during the Wars of Liberation, capturing the everyday reality and hardship of soldiers on campaign.
+• Cityscapes (Vedute). Panoramic views of cities across the Habsburg territories and German states—including Vienna, Bamberg, Bayreuth, Hamburg, and Transylvanian towns like Hermannstadt (Sibiu).
 
-	• Portraits and book illustrations. He produced numerous engraved portraits of notable contemporaries—such as Samuel Hahnemann, founder of homeopathy and former personal physician to Baron Samuel von Brukenthal in Sibiu—alongside frontispieces for literary and religious works.
+• Military and historical scenes. Early in his career, he gained recognition for a 12-plate series depicting French Napoleonic troops (1813–1815) during the Wars of Liberation, capturing the everyday reality and hardship of soldiers on campaign.
+
+• Portraits and book illustrations. He produced numerous engraved portraits of notable contemporaries—such as Samuel Hahnemann, founder of homeopathy and former personal physician to Baron Samuel von Brukenthal in Sibiu—alongside frontispieces for literary and religious works.
 
 Legacy
 
@@ -74,9 +75,9 @@ Artistic Contributions and Innovations
 
 • Visual chronicler of Sibiu. His paintings serve as invaluable historical records of late 18th- and early 19th-century Sibiu:
 
-	• Sibiu in 1808 (Sibiul la 1808). His monumental panoramic oil painting from the north—showing the Cibin River valley, the medieval fortifications, and bustling townsfolk—became the definitive visual archetype of the city, copied and adapted by European engravers and lithographers (including Leopold Beyer and Jakob Alt) for decades.
+• Sibiu in 1808 (Sibiul la 1808). His monumental panoramic oil painting from the north—showing the Cibin River valley, the medieval fortifications, and bustling townsfolk—became the definitive visual archetype of the city, copied and adapted by European engravers and lithographers (including Leopold Beyer and Jakob Alt) for decades.
 
-	• Annual Fair in Sibiu (Târg anual la Sibiu, 1789). A lively, detailed genre scene capturing Saxon townspeople, Romanian peasants, officers, and merchants in traditional attire.
+• Annual Fair in Sibiu (Târg anual la Sibiu, 1789). A lively, detailed genre scene capturing Saxon townspeople, Romanian peasants, officers, and merchants in traditional attire.
 
 • Lithography pioneer. Neuhauser was among the very first artists in Transylvania and present-day Romania to experiment with and introduce lithography, opening a new chapter in regional printmaking.
 
